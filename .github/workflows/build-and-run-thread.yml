@@ -1,18 +1,46 @@
-name: Run product_scraper_thread
+name: Product scrape (thread)
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '30 1 * * 1,3,5'   # 01:30 UTC = 08:30 GMT+7 (Jakarta) on Mon, Wed, Fri
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
-  run-thread:
+  scrape:
     runs-on: ubuntu-latest
+    env:
+      ISLANDSUN_USERNAME: ${{ secrets.ISLANDSUN_USERNAME }}
+      ISLANDSUN_PASSWORD: ${{ secrets.ISLANDSUN_PASSWORD }}
     steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python 3.13.2
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - name: Install requirements
-        run: pip install -r requirements_thread.txt
-      - name: Run scraper (threaded)
+          python-version: '3.13.2'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements_thread.txt ]; then pip install -r requirements_thread.txt; else pip install requests; fi
+
+      - name: Run scraper (thread)
         run: python product_scraper_thread.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/products.json data/last_updated.txt || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update products.json and last_updated.txt: $(cat data/last_updated.txt)"
+            git push
+          fi
