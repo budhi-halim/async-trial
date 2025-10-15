@@ -122,7 +122,7 @@
   {
     "product_name": "ABON SEASONING",
     "product_code": "31201705",
-    "marketing_price": ""
+    "marketing_price": "3.65"
   },
   {
     "product_name": "ABON SEASONING",
@@ -2342,7 +2342,7 @@
   {
     "product_name": "BBQ SAUCE PASTE",
     "product_code": "34400189",
-    "marketing_price": "2.7"
+    "marketing_price": "2.85"
   },
   {
     "product_name": "BBQ SAUCE PASTE",
@@ -5567,7 +5567,7 @@
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31502060",
-    "marketing_price": "12.2"
+    "marketing_price": "16.0"
   },
   {
     "product_name": "CHEESE POWDER",
@@ -5782,7 +5782,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31502017",
-    "marketing_price": "10.25"
+    "marketing_price": "18.50"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -5942,7 +5942,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31502601",
-    "marketing_price": "11.5"
+    "marketing_price": "16.0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -8735,6 +8735,11 @@
     "marketing_price": "3.2"
   },
   {
+    "product_name": "CHOCOMALT SEASONING",
+    "product_code": "31503365",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHOST PEPPER SEASONING",
     "product_code": "31407618",
     "marketing_price": ""
@@ -9697,7 +9702,7 @@
   {
     "product_name": "CREAMY CHICKEN MUSHROOM",
     "product_code": "31103008",
-    "marketing_price": "0"
+    "marketing_price": "9.0"
   },
   {
     "product_name": "CREAMY COCONUT SEASONING",
@@ -11707,7 +11712,7 @@
   {
     "product_name": "GULAI SEASONING",
     "product_code": "31407945",
-    "marketing_price": ""
+    "marketing_price": "4.35"
   },
   {
     "product_name": "GULAI SEASONING / KARE SEASONING MT-1202784-0",
@@ -15637,12 +15642,12 @@
   {
     "product_name": "MATCHA POWDER",
     "product_code": "31503310",
-    "marketing_price": ""
+    "marketing_price": "3.50"
   },
   {
     "product_name": "MATCHA POWDER",
     "product_code": "31503311",
-    "marketing_price": ""
+    "marketing_price": "4.95"
   },
   {
     "product_name": "MATCHA PUDDING",
@@ -16537,7 +16542,7 @@
   {
     "product_name": "NACHO CHEESE SEASONING",
     "product_code": "31503359",
-    "marketing_price": ""
+    "marketing_price": "6.15"
   },
   {
     "product_name": "NACHO CHEESE SEASONING / PR 0814",
@@ -17537,6 +17542,11 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802673",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802684",
     "marketing_price": ""
   },
   {
@@ -20727,7 +20737,7 @@
   {
     "product_name": "ROASTED SEAWEED FLAKE",
     "product_code": "31301651",
-    "marketing_price": "0"
+    "marketing_price": "29.50"
   },
   {
     "product_name": "ROASTED SEAWEED SEASONING",
@@ -24077,7 +24087,7 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301686",
-    "marketing_price": "0"
+    "marketing_price": "3.50"
   },
   {
     "product_name": "SEAWEED SEASONING",
@@ -24247,12 +24257,12 @@
   {
     "product_name": "SEBLAK PASTA",
     "product_code": "34400464",
-    "marketing_price": "0"
+    "marketing_price": "9.50"
   },
   {
     "product_name": "SEBLAK PASTA",
     "product_code": "34400465",
-    "marketing_price": "0"
+    "marketing_price": "9.80"
   },
   {
     "product_name": "SEBLAK SEASONING",
@@ -28612,7 +28622,7 @@
   {
     "product_name": "TOM YUM SEASONING",
     "product_code": "31301702",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "TOM YUM SOUP SEASONING",
