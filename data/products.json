@@ -3057,7 +3057,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31407962",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -13345,6 +13345,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JASUKE SEASONING",
+    "product_code": "31603056",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "JASUKE SEASONING",
+    "product_code": "31603058",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JELLY LYCHEE",
     "product_code": "53900011",
     "marketing_price": "8.5"
@@ -14852,7 +14862,7 @@
   {
     "product_name": "KOREAN BBQ SEASONING",
     "product_code": "31407459",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "KOREAN BBQ SEASONING",
@@ -16202,6 +16212,11 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31407957",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31407968",
     "marketing_price": ""
   },
   {
@@ -20291,6 +20306,11 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603057",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -22112,6 +22132,11 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407940",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31407967",
     "marketing_price": ""
   },
   {
@@ -24097,7 +24122,7 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301687",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SEAWEED SEASONING",
@@ -26671,6 +26696,11 @@
   },
   {
     "product_name": "STRAWBERRY SEASONING",
+    "product_code": "31900689",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "STRAWBERRY SEASONING",
     "product_code": "MT-1300369-0",
     "marketing_price": "3.95"
   },
@@ -27112,6 +27142,11 @@
   {
     "product_name": "SWEET CORN POWDER",
     "product_code": "31603052",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN POWDER",
+    "product_code": "31603055",
     "marketing_price": ""
   },
   {
