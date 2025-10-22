@@ -886,18 +886,18 @@
   },
   {
     "product_name": "AYAM PEDAS MANIS SMOKE PASTE",
-    "product_code": "34100048",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "AYAM PEDAS MANIS SMOKE PASTE",
     "product_code": "34100049",
     "marketing_price": ""
   },
   {
-    "product_name": "AYAM PEDAS MANIS SMOKE PASTE",
-    "product_code": "34100050",
+    "product_name": "AYAM PEDAS MANIS SMOKE PASTE / SPICY BBQ",
+    "product_code": "34100048",
     "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM PEDAS MANIS SMOKE PASTE / SPICY BBQ",
+    "product_code": "34100050",
+    "marketing_price": "3.0"
   },
   {
     "product_name": "AYAM PEDAS SEASONING",
@@ -6775,6 +6775,11 @@
     "marketing_price": "5"
   },
   {
+    "product_name": "CHICKEN BLACKPEPPER SEASONING",
+    "product_code": "31103070",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHICKEN BOLOGNESE",
     "product_code": "54100007",
     "marketing_price": "9.35"
@@ -9367,7 +9372,7 @@
   {
     "product_name": "CORN MILK SEASONING",
     "product_code": "31603049",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CORN NUGGET SEASONING",
@@ -11497,7 +11502,7 @@
   {
     "product_name": "GOCHUJANG PASTA",
     "product_code": "34400472",
-    "marketing_price": ""
+    "marketing_price": "5.40"
   },
   {
     "product_name": "GOCHUJANG PASTA",
@@ -15335,7 +15340,7 @@
     "marketing_price": "14.0"
   },
   {
-    "product_name": "MALA PASTE",
+    "product_name": "MALA PASTE / MALA",
     "product_code": "34400475",
     "marketing_price": ""
   },
@@ -18796,18 +18801,18 @@
   },
   {
     "product_name": "RICA-RICA PASTA",
-    "product_code": "34400446",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "RICA-RICA PASTA",
     "product_code": "34400469",
     "marketing_price": ""
   },
   {
-    "product_name": "RICA-RICA PASTA",
+    "product_name": "RICA-RICA PASTA / TOM YUM",
+    "product_code": "34400446",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400471",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "RICA-RICA PASTE",
@@ -20810,7 +20815,7 @@
     "marketing_price": ""
   },
   {
-    "product_name": "ROSE TTEOKBOKKI PASTE",
+    "product_name": "ROSE TTEOKBOKKI PASTE / CREAMY ROSE",
     "product_code": "34400476",
     "marketing_price": ""
   },
