@@ -892,7 +892,7 @@
   {
     "product_name": "AYAM PEDAS MANIS SMOKE PASTE / SPICY BBQ",
     "product_code": "34100048",
-    "marketing_price": ""
+    "marketing_price": "3.55"
   },
   {
     "product_name": "AYAM PEDAS MANIS SMOKE PASTE / SPICY BBQ",
@@ -2092,6 +2092,11 @@
   {
     "product_name": "BANANA SEASONING",
     "product_code": "31900685",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BANANA SEASONING",
+    "product_code": "31900690",
     "marketing_price": ""
   },
   {
@@ -4005,6 +4010,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802685",
+    "marketing_price": "2.60"
+  },
+  {
     "product_name": "BREADING PREMIX / BREADING 2",
     "product_code": "31802163",
     "marketing_price": "4.4"
@@ -5683,6 +5693,21 @@
     "product_name": "CHEESE POWDER",
     "product_code": "31503323",
     "marketing_price": "9.35"
+  },
+  {
+    "product_name": "CHEESE POWDER",
+    "product_code": "31503367",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE POWDER",
+    "product_code": "31503368",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE POWDER",
+    "product_code": "31503369",
+    "marketing_price": ""
   },
   {
     "product_name": "CHEESE POWDER",
@@ -11492,7 +11517,7 @@
   {
     "product_name": "GOCHUJANG PASTA",
     "product_code": "34400467",
-    "marketing_price": ""
+    "marketing_price": "6.0"
   },
   {
     "product_name": "GOCHUJANG PASTA",
@@ -16227,7 +16252,7 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31407968",
-    "marketing_price": ""
+    "marketing_price": "3.50"
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -16653,6 +16678,11 @@
     "product_name": "NASI GORENG KAMPUNG SEASONING",
     "product_code": "31406258",
     "marketing_price": "5.8"
+  },
+  {
+    "product_name": "NASI GORENG KAMPUNG SEASONING",
+    "product_code": "31407970",
+    "marketing_price": "0"
   },
   {
     "product_name": "NASI GORENG PEDAS SEASONING",
@@ -18812,7 +18842,7 @@
   {
     "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400446",
-    "marketing_price": "0"
+    "marketing_price": "8.60"
   },
   {
     "product_name": "RICA-RICA PASTA / TOM YUM",
@@ -20277,7 +20307,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603032",
-    "marketing_price": ""
+    "marketing_price": "8.30"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -20782,7 +20812,7 @@
   {
     "product_name": "ROASTED SEAWEED SEASONING",
     "product_code": "31301703",
-    "marketing_price": ""
+    "marketing_price": "5.65"
   },
   {
     "product_name": "ROASTED SWEET CORN SEAS",
