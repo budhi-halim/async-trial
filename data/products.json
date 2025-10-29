@@ -1055,9 +1055,19 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BALADO 3 GB / SIK-IS1 / PDS3",
+    "product_code": "31407543",
+    "marketing_price": "3.2"
+  },
+  {
     "product_name": "BALADO 5 GB",
     "product_code": "31407531",
     "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO 5 GB / SIK-IS2 / PDS5",
+    "product_code": "31407542",
+    "marketing_price": "3.6"
   },
   {
     "product_name": "BALADO A2 SEASONING",
@@ -4013,6 +4023,16 @@
     "product_name": "BREADING PREMIX",
     "product_code": "31802685",
     "marketing_price": "2.60"
+  },
+  {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802686",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802687",
+    "marketing_price": ""
   },
   {
     "product_name": "BREADING PREMIX / BREADING 2",
@@ -15640,6 +15660,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "MARINATION SEASONING",
+    "product_code": "31407971",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MARINATION SEASONING / MARINASI 2",
     "product_code": "31405713",
     "marketing_price": "4.35"
@@ -23422,7 +23447,7 @@
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
     "product_code": "31602742",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
