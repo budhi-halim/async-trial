@@ -4570,6 +4570,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BUMBU SERBA GUNA",
+    "product_code": "31103031",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "BUMBU SOTO BETAWI",
     "product_code": "34400245",
     "marketing_price": "0"
@@ -13240,6 +13245,11 @@
     "marketing_price": "4.75"
   },
   {
+    "product_name": "JAPANESE CURRY PREMIX POWDER",
+    "product_code": "31407979",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE CURRY SAUCE",
     "product_code": "34400378",
     "marketing_price": ""
@@ -16830,6 +16840,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "NASI KUNING SEASONING",
+    "product_code": "31407973",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "NASI KUNING SEASONING / NASI KUNING SEASONING 31406899",
     "product_code": "31407013",
     "marketing_price": "7"
@@ -16888,6 +16903,11 @@
     "product_name": "NASI UDUK SEASONING",
     "product_code": "31406125",
     "marketing_price": "4"
+  },
+  {
+    "product_name": "NASI UDUK SEASONING",
+    "product_code": "31407972",
+    "marketing_price": "0"
   },
   {
     "product_name": "NASI UDUK SEASONING / NASI UDUK SEASONING 31406843",
@@ -17307,6 +17327,11 @@
   {
     "product_name": "OPOR PASTA",
     "product_code": "34400445",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "OPOR PASTA",
+    "product_code": "44400121",
     "marketing_price": "0"
   },
   {
@@ -18608,6 +18633,11 @@
     "product_name": "RAWON PASTA",
     "product_code": "34400366",
     "marketing_price": ""
+  },
+  {
+    "product_name": "RAWON PASTA",
+    "product_code": "34400477",
+    "marketing_price": "0"
   },
   {
     "product_name": "RAWON PASTE",
@@ -24261,6 +24291,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301708",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -25157,6 +25192,11 @@
   {
     "product_name": "SOTO PASTA",
     "product_code": "34400405",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOTO PASTA",
+    "product_code": "34400478",
     "marketing_price": ""
   },
   {
