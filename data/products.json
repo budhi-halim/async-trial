@@ -5732,17 +5732,17 @@
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503367",
-    "marketing_price": ""
+    "marketing_price": "12.0"
   },
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503368",
-    "marketing_price": ""
+    "marketing_price": "12.80"
   },
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503369",
-    "marketing_price": ""
+    "marketing_price": "12.50"
   },
   {
     "product_name": "CHEESE POWDER",
@@ -12597,7 +12597,7 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "MT-627037",
-    "marketing_price": "5.8"
+    "marketing_price": "7.20"
   },
   {
     "product_name": "HVP POWDER / GUN VI",
@@ -12617,7 +12617,7 @@
   {
     "product_name": "HVP POWDER / PREMIX FOOD SPI HP 039 I",
     "product_code": "MT-627037",
-    "marketing_price": "5.8"
+    "marketing_price": "7.20"
   },
   {
     "product_name": "HVP WCI / HV SM 06",
@@ -15427,7 +15427,7 @@
   {
     "product_name": "MALA PASTE / MALA",
     "product_code": "34400475",
-    "marketing_price": ""
+    "marketing_price": "4.90"
   },
   {
     "product_name": "MALA SEASONING",
@@ -16712,7 +16712,7 @@
   {
     "product_name": "NASI DAUN JERUK GURIH SEASONING",
     "product_code": "31407129",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "NASI DAUN JERUK GURIH SEASONING",
@@ -19267,7 +19267,7 @@
   {
     "product_name": "ROASTED CORN POWDER / CRU RN I 204",
     "product_code": "MT-805136",
-    "marketing_price": "13.2"
+    "marketing_price": "13.6"
   },
   {
     "product_name": "ROASTED CORN POWDER / PR 0802",
@@ -20932,7 +20932,7 @@
   {
     "product_name": "ROSE TTEOKBOKKI PASTE / CREAMY ROSE",
     "product_code": "34400476",
-    "marketing_price": ""
+    "marketing_price": "4.90"
   },
   {
     "product_name": "ROSE TTEOKBOKKI SEASONING",
@@ -22257,6 +22257,21 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407967",
+    "marketing_price": "3.30"
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31407980",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31407981",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31407982",
     "marketing_price": ""
   },
   {
@@ -24412,12 +24427,12 @@
   {
     "product_name": "SEBLAK PASTA",
     "product_code": "34400464",
-    "marketing_price": "9.50"
+    "marketing_price": "7.20"
   },
   {
     "product_name": "SEBLAK PASTA",
     "product_code": "34400465",
-    "marketing_price": "9.80"
+    "marketing_price": "7.50"
   },
   {
     "product_name": "SEBLAK SEASONING",
@@ -24667,7 +24682,7 @@
   {
     "product_name": "SHRIMP OIL",
     "product_code": "35300005",
-    "marketing_price": "16.5"
+    "marketing_price": "48.0"
   },
   {
     "product_name": "SHRIMP OIL",
