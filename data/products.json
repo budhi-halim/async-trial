@@ -12577,7 +12577,7 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "31700458",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "HVP POWDER",
@@ -15337,7 +15337,7 @@
   {
     "product_name": "LYCHEE SEASONING",
     "product_code": "31900688",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "LYCHEE SYRUP",
@@ -15423,6 +15423,11 @@
     "product_name": "MALA PASTE",
     "product_code": "34400428",
     "marketing_price": "14.0"
+  },
+  {
+    "product_name": "MALA PASTE",
+    "product_code": "34400479",
+    "marketing_price": ""
   },
   {
     "product_name": "MALA PASTE / MALA",
