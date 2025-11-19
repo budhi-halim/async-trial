@@ -7921,11 +7921,6 @@
   },
   {
     "product_name": "CHILLI BBQ SEASONING",
-    "product_code": "31406198",
-    "marketing_price": "2.85"
-  },
-  {
-    "product_name": "CHILLI BBQ SEASONING",
     "product_code": "31406901",
     "marketing_price": "0"
   },
@@ -7938,6 +7933,11 @@
     "product_name": "CHILLI BBQ SEASONING",
     "product_code": "31407452",
     "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI BBQ SEASONING / Chilli BBQ Flavour",
+    "product_code": "31406198",
+    "marketing_price": "2.85"
   },
   {
     "product_name": "CHILLI BUTTER SEASONING",
@@ -12596,6 +12596,21 @@
   },
   {
     "product_name": "HVP POWDER",
+    "product_code": "31700519",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
+    "product_code": "31700520",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
+    "product_code": "31700521",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
     "product_code": "MT-597937",
     "marketing_price": "6.75"
   },
@@ -14066,11 +14081,6 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
-    "product_code": "C-004",
-    "marketing_price": "2.6"
-  },
-  {
-    "product_name": "KALDU AYAM SEASONING",
     "product_code": "MT-1104891-0",
     "marketing_price": "2.8"
   },
@@ -14098,6 +14108,11 @@
     "product_name": "KALDU AYAM SEASONING / CH-SM-02",
     "product_code": "MT-143111",
     "marketing_price": "24000"
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING / Chicken Flavour",
+    "product_code": "C-004",
+    "marketing_price": "2.6"
   },
   {
     "product_name": "KALDU AYAM SEASONING / KALDU AYAM 1",
@@ -15097,6 +15112,11 @@
   {
     "product_name": "KOYA SEASONING",
     "product_code": "31802681",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KUAH BAKSO SEASONING",
+    "product_code": "31201706",
     "marketing_price": ""
   },
   {
