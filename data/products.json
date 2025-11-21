@@ -6571,6 +6571,16 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503370",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503371",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -14980,6 +14990,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "KOREAN BBQ SEASONING",
+    "product_code": "31407985",
+    "marketing_price": ""
+  },
+  {
     "product_name": "KOREAN CAJUN SEASONING",
     "product_code": "31406997",
     "marketing_price": ""
@@ -16948,6 +16963,16 @@
     "product_name": "NASI UDUK SEASONING",
     "product_code": "31407972",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "NASI UDUK SEASONING",
+    "product_code": "31407977",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "NASI UDUK SEASONING",
+    "product_code": "31407978",
+    "marketing_price": ""
   },
   {
     "product_name": "NASI UDUK SEASONING / NASI UDUK SEASONING 31406843",
@@ -21280,6 +21305,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SAMBAL BAKAR SEASONING",
+    "product_code": "31407987",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BAKAR SEASONING",
+    "product_code": "31407988",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL BAKSO PASTE",
     "product_code": "34400422",
     "marketing_price": "4.6"
@@ -22688,6 +22723,11 @@
     "product_name": "SAMBAL NANAS SEASONING",
     "product_code": "31407701",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SAMBAL NANAS SEASONING",
+    "product_code": "31407986",
+    "marketing_price": ""
   },
   {
     "product_name": "SAMBAL NANAS SEASONING",
