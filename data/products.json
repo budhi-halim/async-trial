@@ -12665,6 +12665,11 @@
     "marketing_price": "2.3"
   },
   {
+    "product_name": "HVP WCI / P3 IS",
+    "product_code": "HVP WCI",
+    "marketing_price": "2.3"
+  },
+  {
     "product_name": "Hot & Spicy Seasoning",
     "product_code": "31406558",
     "marketing_price": ""
@@ -25808,6 +25813,11 @@
     "product_name": "SOY SAUCE POWDER / MAIN FOOD SPI SS 249 I",
     "product_code": "MT-625337",
     "marketing_price": "5.2"
+  },
+  {
+    "product_name": "SOY SAUCE POWDER / S1 IS",
+    "product_code": "W-800",
+    "marketing_price": "4.8"
   },
   {
     "product_name": "SOY SAUCE POWDER / SS SM 05",
