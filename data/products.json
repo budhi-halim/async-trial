@@ -107,7 +107,7 @@
   {
     "product_name": "ABON SEASONING",
     "product_code": "31201700",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "ABON SEASONING",
@@ -278,6 +278,11 @@
     "product_name": "AVOCADO FLAVOUR",
     "product_code": "MT-101759",
     "marketing_price": "15.4"
+  },
+  {
+    "product_name": "AYAM ALMAZ SEASONING",
+    "product_code": "31103074",
+    "marketing_price": ""
   },
   {
     "product_name": "AYAM ANDALIMAN SEASONING",
@@ -627,7 +632,7 @@
   {
     "product_name": "AYAM BAWANG SEASONING",
     "product_code": "31103046",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
@@ -8696,6 +8701,11 @@
   },
   {
     "product_name": "CHOCOLATE PUDDING POWDER",
+    "product_code": "33250010",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "CHOCOLATE PUDDING POWDER",
     "product_code": "53500019",
     "marketing_price": "5"
   },
@@ -8982,7 +8992,7 @@
   {
     "product_name": "COCOPANDAN SEASONING",
     "product_code": "MT-1108949-0",
-    "marketing_price": "2.6"
+    "marketing_price": "2.8"
   },
   {
     "product_name": "COCOPANDAN SEASONING",
@@ -9247,7 +9257,7 @@
   {
     "product_name": "COKLAT SEASONING",
     "product_code": "31503174",
-    "marketing_price": "2.7"
+    "marketing_price": "3.95"
   },
   {
     "product_name": "COKLAT SEASONING",
@@ -9277,6 +9287,11 @@
   {
     "product_name": "COKLAT SEASONING",
     "product_code": "31503264",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COKLAT SEASONING",
+    "product_code": "31503372",
     "marketing_price": ""
   },
   {
@@ -10547,7 +10562,7 @@
   {
     "product_name": "FRIED GARLIC SEASONING",
     "product_code": "31802576",
-    "marketing_price": "0"
+    "marketing_price": "7.10"
   },
   {
     "product_name": "FRIED GARLIC SEASONING",
@@ -12607,17 +12622,17 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "31700519",
-    "marketing_price": ""
+    "marketing_price": "5.70"
   },
   {
     "product_name": "HVP POWDER",
     "product_code": "31700520",
-    "marketing_price": ""
+    "marketing_price": "7.25"
   },
   {
     "product_name": "HVP POWDER",
     "product_code": "31700521",
-    "marketing_price": ""
+    "marketing_price": "7.25"
   },
   {
     "product_name": "HVP POWDER",
@@ -12652,22 +12667,22 @@
   {
     "product_name": "HVP WCI / HV SM 06",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / HVP B",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / HVP CY 801",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / P3 IS",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "Hot & Spicy Seasoning",
@@ -13292,7 +13307,7 @@
   {
     "product_name": "JAPANESE CURRY PREMIX POWDER",
     "product_code": "31407979",
-    "marketing_price": ""
+    "marketing_price": "6.0"
   },
   {
     "product_name": "JAPANESE CURRY SAUCE",
@@ -14937,7 +14952,7 @@
   {
     "product_name": "KOPI BAKAR SEASONING",
     "product_code": "MT-1302535-0",
-    "marketing_price": "2"
+    "marketing_price": "2.3"
   },
   {
     "product_name": "KOPI JAHE",
@@ -16533,6 +16548,11 @@
     "product_name": "MINUMAN SERBUK STRAWBERRY",
     "product_code": "55900029",
     "marketing_price": "3.2"
+  },
+  {
+    "product_name": "MINYAK BAWANG MERAH",
+    "product_code": "38800014",
+    "marketing_price": ""
   },
   {
     "product_name": "MIX HERBS NACHO SEASONING",
@@ -18287,7 +18307,7 @@
   {
     "product_name": "PESTO SEASONING",
     "product_code": "31503335",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "PESTO SEASONING",
@@ -18615,6 +18635,11 @@
     "marketing_price": "6.20"
   },
   {
+    "product_name": "PUDDING MATCHA POWDER",
+    "product_code": "33250011",
+    "marketing_price": ""
+  },
+  {
     "product_name": "PUDDING POWDER",
     "product_code": "33000170",
     "marketing_price": "7.5"
@@ -18672,6 +18697,11 @@
   {
     "product_name": "Pedas Manis Smoke Paste",
     "product_code": "34400435",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "Pesto Seasoning",
+    "product_code": "31503351",
     "marketing_price": "0"
   },
   {
@@ -20491,6 +20521,11 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603060",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -21122,7 +21157,7 @@
   {
     "product_name": "SALTED CARAMEL SEASONING",
     "product_code": "31503360",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SALTED CARAMEL SEASONING (KOSHER)",
@@ -22815,6 +22850,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SAMBAL RUJAK SEASONING",
+    "product_code": "31407989",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL SEREH",
     "product_code": "34400343",
     "marketing_price": "0"
@@ -23592,7 +23632,7 @@
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
     "product_code": "31602742",
-    "marketing_price": "0"
+    "marketing_price": "4.35"
   },
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
@@ -26932,7 +26972,7 @@
   {
     "product_name": "STRAWBERRY SEASONING",
     "product_code": "MT-1300369-0",
-    "marketing_price": "3.95"
+    "marketing_price": "4.4"
   },
   {
     "product_name": "STRAWBERRY SEASONING",
@@ -27372,7 +27412,7 @@
   {
     "product_name": "SWEET CORN POWDER",
     "product_code": "31603052",
-    "marketing_price": ""
+    "marketing_price": "3.80"
   },
   {
     "product_name": "SWEET CORN POWDER",
@@ -29542,7 +29582,7 @@
   {
     "product_name": "VANILLA POWDER",
     "product_code": "31501874",
-    "marketing_price": "4.6"
+    "marketing_price": "4.5"
   },
   {
     "product_name": "VANILLA POWDER",
