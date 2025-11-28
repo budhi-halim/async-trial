@@ -15,6 +15,11 @@
     "marketing_price": "3.85"
   },
   {
+    "product_name": "ABON MAYO SEASONING",
+    "product_code": "31201695",
+    "marketing_price": ""
+  },
+  {
     "product_name": "ABON ORIGINAL SEASONING",
     "product_code": "31201541",
     "marketing_price": ""
@@ -7960,6 +7965,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "CHILLI CHEESE SEASONING",
+    "product_code": "31407990",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHILLI CRAB PASTA",
     "product_code": "34400397",
     "marketing_price": ""
@@ -15495,6 +15505,11 @@
     "marketing_price": "4.90"
   },
   {
+    "product_name": "MALA POWDER TO PASTE",
+    "product_code": "31407992",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MALA SEASONING",
     "product_code": "31406583",
     "marketing_price": "4.35"
@@ -16552,7 +16567,7 @@
   {
     "product_name": "MINYAK BAWANG MERAH",
     "product_code": "38800014",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MIX HERBS NACHO SEASONING",
@@ -18677,6 +18692,16 @@
   {
     "product_name": "PUDDING POWDER",
     "product_code": "33200047",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PUDDING POWDER",
+    "product_code": "33200049",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PUDDING POWDER",
+    "product_code": "33200050",
     "marketing_price": ""
   },
   {
@@ -22605,6 +22630,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "SAMBAL CUMI SEASONING",
+    "product_code": "31301710",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL DABU - DABU",
     "product_code": "34400350",
     "marketing_price": "0"
@@ -22617,6 +22647,11 @@
   {
     "product_name": "SAMBAL DABU-DABU SEASONING",
     "product_code": "31407318",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL DAUN JERUK SEASONING",
+    "product_code": "31407983",
     "marketing_price": ""
   },
   {
@@ -22852,7 +22887,7 @@
   {
     "product_name": "SAMBAL RUJAK SEASONING",
     "product_code": "31407989",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SAMBAL SEREH",
@@ -26138,6 +26173,11 @@
     "product_name": "SPICY CURRY SEASONING",
     "product_code": "31407903",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SPICY CURRY SEASONING",
+    "product_code": "31407912",
+    "marketing_price": ""
   },
   {
     "product_name": "SPICY HEAT SEAS",
