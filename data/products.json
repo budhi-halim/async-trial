@@ -3106,6 +3106,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31407995",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "D-108",
     "marketing_price": "3.5"
   },
@@ -6591,6 +6596,11 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503373",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -8708,6 +8718,11 @@
     "product_name": "CHOCOLATE PUDDING POWDER",
     "product_code": "33210013",
     "marketing_price": "8.0"
+  },
+  {
+    "product_name": "CHOCOLATE PUDDING POWDER",
+    "product_code": "33210015",
+    "marketing_price": ""
   },
   {
     "product_name": "CHOCOLATE PUDDING POWDER",
@@ -14990,6 +15005,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "KOREAN BBQ PASTE",
+    "product_code": "34100051",
+    "marketing_price": ""
+  },
+  {
     "product_name": "KOREAN BBQ SEASONING",
     "product_code": "31406913",
     "marketing_price": "0"
@@ -15497,6 +15517,11 @@
   {
     "product_name": "MALA PASTE",
     "product_code": "34400479",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MALA PASTE",
+    "product_code": "34400483",
     "marketing_price": ""
   },
   {
@@ -17872,6 +17897,16 @@
   {
     "product_name": "PALLU BASA SEASONING",
     "product_code": "31407915",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PALUBASA SEASONING",
+    "product_code": "31407993",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PALUBASA SEASONING",
+    "product_code": "31407994",
     "marketing_price": ""
   },
   {
@@ -26152,6 +26187,11 @@
   {
     "product_name": "SPICY CHICKEN SEASONING",
     "product_code": "31102831",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY CHICKEN SEASONING",
+    "product_code": "31407996",
     "marketing_price": ""
   },
   {
