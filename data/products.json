@@ -3111,6 +3111,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31407997",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "D-108",
     "marketing_price": "3.5"
   },
@@ -4065,6 +4070,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802690",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BREADING PREMIX / BREADING 2",
     "product_code": "31802163",
     "marketing_price": "4.4"
@@ -4325,6 +4335,11 @@
     "marketing_price": "5.15"
   },
   {
+    "product_name": "BUMBU CURRY MALAYSIA",
+    "product_code": "34400481",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU DASAR KECAP",
     "product_code": "31700418",
     "marketing_price": "9.0"
@@ -4505,6 +4520,11 @@
     "marketing_price": "6.2"
   },
   {
+    "product_name": "BUMBU NASI GORENG KAMPUNG",
+    "product_code": "34400482",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU NASI GORENG ORIGINAL",
     "product_code": "31405539",
     "marketing_price": "5.6"
@@ -4527,6 +4547,16 @@
   {
     "product_name": "BUMBU NASI HAINAM",
     "product_code": "31407855",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU NASI KUNING",
+    "product_code": "31407976",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU NASI UDUK",
+    "product_code": "31407978",
     "marketing_price": ""
   },
   {
@@ -4573,6 +4603,11 @@
     "product_name": "BUMBU RENDANG",
     "product_code": "34400265",
     "marketing_price": "7.5"
+  },
+  {
+    "product_name": "BUMBU RENDANG",
+    "product_code": "34400480",
+    "marketing_price": ""
   },
   {
     "product_name": "BUMBU RENDANG PASTA",
@@ -7347,7 +7382,7 @@
   {
     "product_name": "CHICKEN POWDER EXTRACT",
     "product_code": "31102920",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHICKEN POWDER EXTRACT",
@@ -15805,6 +15840,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "MARINATION SEASONING",
+    "product_code": "31407984",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MARINATION SEASONING / MARINASI 2",
     "product_code": "31405713",
     "marketing_price": "4.35"
@@ -17035,11 +17075,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "NASI UDUK SEASONING",
-    "product_code": "31407978",
-    "marketing_price": ""
-  },
-  {
     "product_name": "NASI UDUK SEASONING / NASI UDUK SEASONING 31406843",
     "product_code": "31407012",
     "marketing_price": "6.8"
@@ -17937,6 +17972,11 @@
   {
     "product_name": "PANDAN FLAVOUR",
     "product_code": "MT-87258",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PANDAN LIME SEASONING",
+    "product_code": "31503374",
     "marketing_price": ""
   },
   {
@@ -25188,6 +25228,11 @@
     "product_name": "SOP BUNTUT SEASONING",
     "product_code": "31201536",
     "marketing_price": "6.3"
+  },
+  {
+    "product_name": "SOP BUNTUT SEASONING",
+    "product_code": "31201707",
+    "marketing_price": ""
   },
   {
     "product_name": "SOP KONRO OIL",
