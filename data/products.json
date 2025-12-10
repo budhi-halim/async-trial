@@ -657,7 +657,7 @@
   {
     "product_name": "AYAM BAWANG SEASONING",
     "product_code": "31103067",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
@@ -5475,6 +5475,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CHEESE AND HERBS SEASONING",
+    "product_code": "31503375",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHEESE AND ONION SEASONING",
     "product_code": "31502823",
     "marketing_price": "0"
@@ -7747,7 +7752,7 @@
   {
     "product_name": "CHICKEN SEASONING",
     "product_code": "31102966",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHICKEN SEASONING",
@@ -8000,7 +8005,7 @@
     "marketing_price": ""
   },
   {
-    "product_name": "CHILLI BBQ SEASONING / Chilli BBQ Flavour",
+    "product_name": "CHILLI BBQ SEASONING / CHILLI BBQ SEASONING 31406198",
     "product_code": "31406198",
     "marketing_price": "2.85"
   },
@@ -11071,6 +11076,11 @@
   },
   {
     "product_name": "GARLIC POWDER",
+    "product_code": "31802115",
+    "marketing_price": "26.500"
+  },
+  {
+    "product_name": "GARLIC POWDER",
     "product_code": "31802202",
     "marketing_price": "4.75"
   },
@@ -13420,6 +13430,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31407999",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408000",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -14200,14 +14220,14 @@
     "marketing_price": "24000"
   },
   {
-    "product_name": "KALDU AYAM SEASONING / Chicken Flavour",
-    "product_code": "C-004",
-    "marketing_price": "2.6"
-  },
-  {
     "product_name": "KALDU AYAM SEASONING / KALDU AYAM 1",
     "product_code": "D-112",
     "marketing_price": "3.3"
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING / KALDU AYAM SEASONING C-004",
+    "product_code": "C-004",
+    "marketing_price": "2.6"
   },
   {
     "product_name": "KALDU AYAM SEASONING / Kaldu Ayam Seasoning",
@@ -15037,6 +15057,16 @@
   {
     "product_name": "KOREAN BANANA SEASONING",
     "product_code": "31900668",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KOREAN BBQ",
+    "product_code": "34100052",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KOREAN BBQ",
+    "product_code": "34100053",
     "marketing_price": ""
   },
   {
@@ -16733,6 +16763,11 @@
     "product_name": "MUSTARD POWDER",
     "product_code": "31404832",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "MY JB 2 KOSHER NW",
+    "product_code": "31603061",
+    "marketing_price": ""
   },
   {
     "product_name": "Manggo Flavour",
@@ -22650,6 +22685,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "SAMBAL BAWANG PASTA",
+    "product_code": "34400484",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "SAMBAL BAWANG SEASONING",
     "product_code": "31407146",
     "marketing_price": "0"
@@ -22710,6 +22750,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "SAMBAL CUMI PASTA",
+    "product_code": "34400487",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "SAMBAL CUMI SEASONING",
     "product_code": "31301710",
     "marketing_price": ""
@@ -22762,6 +22807,11 @@
   {
     "product_name": "SAMBAL KECOMBRANG",
     "product_code": "34400344",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "SAMBAL KECOMBRANG PASTA",
+    "product_code": "34400488",
     "marketing_price": "0"
   },
   {
@@ -22867,6 +22917,11 @@
   {
     "product_name": "SAMBAL MATAH SEASONING",
     "product_code": "31407959",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL MATAH SEASONING",
+    "product_code": "31407998",
     "marketing_price": ""
   },
   {
@@ -23038,6 +23093,16 @@
     "product_name": "SAMBAL TERASI SEASONING",
     "product_code": "MT-1104103-4",
     "marketing_price": "3.2"
+  },
+  {
+    "product_name": "SAMBAL TERI PASTA",
+    "product_code": "34400486",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "SAMBAL TOMAT PASTA",
+    "product_code": "34400485",
+    "marketing_price": "0"
   },
   {
     "product_name": "SAMBAL TOMAT PREMIX",
