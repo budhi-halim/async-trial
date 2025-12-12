@@ -3840,11 +3840,6 @@
     "marketing_price": "5"
   },
   {
-    "product_name": "BLACKPEPPER SAUCE",
-    "product_code": "34400258",
-    "marketing_price": "3.75"
-  },
-  {
     "product_name": "BLACKPEPPER SEASONING",
     "product_code": "31404969",
     "marketing_price": "3.1"
@@ -15582,12 +15577,12 @@
   {
     "product_name": "MALA PASTE",
     "product_code": "34400479",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MALA PASTE",
     "product_code": "34400483",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MALA PASTE / MALA",
@@ -20666,6 +20661,11 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603063",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -22937,6 +22937,11 @@
   {
     "product_name": "SAMBAL NANAS SEASONING",
     "product_code": "31407986",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL NANAS SEASONING",
+    "product_code": "31408001",
     "marketing_price": ""
   },
   {
