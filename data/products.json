@@ -661,6 +661,11 @@
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
+    "product_code": "31103076",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAWANG SEASONING",
     "product_code": "31103096",
     "marketing_price": ""
   },
@@ -8065,6 +8070,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CHILLI EXTRACT POWDER",
+    "product_code": "31406930",
+    "marketing_price": "2.80"
+  },
+  {
     "product_name": "CHILLI FLAKE",
     "product_code": "31404386",
     "marketing_price": "6.8"
@@ -8363,11 +8373,6 @@
     "product_name": "CHILLI POWDER",
     "product_code": "31406905",
     "marketing_price": ""
-  },
-  {
-    "product_name": "CHILLI POWDER",
-    "product_code": "31406930",
-    "marketing_price": "2.80"
   },
   {
     "product_name": "CHILLI POWDER",
@@ -9517,7 +9522,7 @@
   {
     "product_name": "CORN MILK POWDER",
     "product_code": "46800006",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CORN MILK SEASONING",
@@ -14171,6 +14176,11 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
+    "product_code": "31103075",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING",
     "product_code": "31103095",
     "marketing_price": ""
   },
@@ -14952,7 +14962,7 @@
   {
     "product_name": "KIMCHI SEASONING",
     "product_code": "31407955",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "KIMCHI SEASONING",
@@ -16486,6 +16496,11 @@
   },
   {
     "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408002",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
     "product_code": "31802062",
     "marketing_price": "5.3"
   },
@@ -16762,6 +16777,11 @@
   {
     "product_name": "MY JB 2 KOSHER NW",
     "product_code": "31603061",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MY JB 2 KOSHER NW",
+    "product_code": "31603064",
     "marketing_price": ""
   },
   {
@@ -21672,6 +21692,16 @@
   {
     "product_name": "SAMBAL BALADO JERUK SEASONING",
     "product_code": "31407865",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO KUNING SEASONING",
+    "product_code": "31408003",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO KUNING SEASONING",
+    "product_code": "31408004",
     "marketing_price": ""
   },
   {
@@ -29517,7 +29547,7 @@
   {
     "product_name": "TORIPAITAN RAMEN SEASONING",
     "product_code": "31407954",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "TRUFFLE POWDER",
