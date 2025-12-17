@@ -1385,6 +1385,11 @@
     "marketing_price": "3.65"
   },
   {
+    "product_name": "BALADO PEDAS MANIS SEASONING",
+    "product_code": "31408005",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BALADO PREMIX",
     "product_code": "31407787",
     "marketing_price": "0"
@@ -3707,7 +3712,7 @@
   {
     "product_name": "BLACK PASTE / ORWBBLP0306",
     "product_code": "44400306",
-    "marketing_price": "Rp130.000"
+    "marketing_price": "130.000"
   },
   {
     "product_name": "BLACK PEPPER",
@@ -14561,6 +14566,11 @@
   },
   {
     "product_name": "KARI AYAM SEASONING",
+    "product_code": "31408007",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KARI AYAM SEASONING",
     "product_code": "MT-1200164-2",
     "marketing_price": "3.1"
   },
@@ -18897,7 +18907,7 @@
   {
     "product_name": "RAWON PASTE / ORWBCOP0308",
     "product_code": "44400308",
-    "marketing_price": "Rp215.000"
+    "marketing_price": "215.000"
   },
   {
     "product_name": "RAWON SEASONING",
@@ -19308,6 +19318,11 @@
     "product_name": "ROASTED BEEF SEASONING",
     "product_code": "31201653",
     "marketing_price": "2.9"
+  },
+  {
+    "product_name": "ROASTED BEEF SEASONING",
+    "product_code": "31201708",
+    "marketing_price": ""
   },
   {
     "product_name": "ROASTED BEEF SEASONING",
@@ -20682,6 +20697,11 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603063",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603066",
     "marketing_price": ""
   },
   {
@@ -22547,6 +22567,11 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407982",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408006",
     "marketing_price": ""
   },
   {
