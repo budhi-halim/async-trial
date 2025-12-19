@@ -25445,6 +25445,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "SOTO AYAM SEASONING",
+    "product_code": "31408008",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SOTO BETAWI PASTA",
     "product_code": "34400360",
     "marketing_price": "0"
@@ -28316,6 +28321,11 @@
   },
   {
     "product_name": "SWEET CORN SEASONING",
+    "product_code": "31603065",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN SEASONING",
     "product_code": "D-106",
     "marketing_price": "4.5"
   },
@@ -29518,6 +29528,11 @@
     "product_name": "TOMATO SEASONING",
     "product_code": "31802616",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "TOMATO SEASONING",
+    "product_code": "31802693",
+    "marketing_price": ""
   },
   {
     "product_name": "TOMATO SEASONING",
