@@ -436,6 +436,16 @@
   },
   {
     "product_name": "AYAM BAKAR SEASONING",
+    "product_code": "31103078",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAKAR SEASONING",
+    "product_code": "31103079",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAKAR SEASONING",
     "product_code": "MT-1206841-0",
     "marketing_price": "2.75"
   },
@@ -6657,6 +6667,11 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503373",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503376",
     "marketing_price": ""
   },
   {
@@ -22855,6 +22870,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SAMBAL CUMI SEASONING",
+    "product_code": "31301711",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL DABU - DABU",
     "product_code": "34400350",
     "marketing_price": "0"
@@ -22872,6 +22892,16 @@
   {
     "product_name": "SAMBAL DAUN JERUK SEASONING",
     "product_code": "31407983",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL DAUN JERUK SEASONING",
+    "product_code": "31408017",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL DAUN JERUK SEASONING",
+    "product_code": "31408018",
     "marketing_price": ""
   },
   {
@@ -29208,6 +29238,11 @@
     "product_name": "TOM YUM PASTA",
     "product_code": "34400461",
     "marketing_price": "5"
+  },
+  {
+    "product_name": "TOM YUM PASTA",
+    "product_code": "34400492",
+    "marketing_price": ""
   },
   {
     "product_name": "TOM YUM PASTA / Tom Yum Pasta A-01",
