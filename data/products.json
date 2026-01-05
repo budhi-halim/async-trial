@@ -11910,6 +11910,11 @@
     "marketing_price": "5"
   },
   {
+    "product_name": "GULAI PASTA",
+    "product_code": "34400491",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GULAI SAUS SEASONING",
     "product_code": "31406675",
     "marketing_price": ""
@@ -29633,6 +29638,11 @@
     "product_name": "TOMYUM SEASONING / SNG 002",
     "product_code": "31301677",
     "marketing_price": "4.25"
+  },
+  {
+    "product_name": "TONGSENG PASTA",
+    "product_code": "34400490",
+    "marketing_price": ""
   },
   {
     "product_name": "TONGSENG PREMIX",
