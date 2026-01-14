@@ -5397,7 +5397,7 @@
   {
     "product_name": "CHEESE  SEASONING",
     "product_code": "31503011",
-    "marketing_price": "8,2"
+    "marketing_price": "8.2"
   },
   {
     "product_name": "CHEESE  SEASONING",
@@ -5562,6 +5562,11 @@
   {
     "product_name": "CHEESE BULDAK SEASONING",
     "product_code": "31503325",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE BULDAK SEASONING",
+    "product_code": "31503378",
     "marketing_price": ""
   },
   {
@@ -12620,6 +12625,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "HOT LAVA SEASONING",
+    "product_code": "31408028",
+    "marketing_price": ""
+  },
+  {
     "product_name": "HOT ROASTED CORN SEASONING",
     "product_code": "31602809",
     "marketing_price": "0"
@@ -13490,6 +13500,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408026",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -13830,7 +13845,7 @@
     "marketing_price": "11"
   },
   {
-    "product_name": "JELLY POWDER / RA.AH05.00",
+    "product_name": "JELLY POWDER / RA.AH05.01",
     "product_code": "34",
     "marketing_price": "15"
   },
@@ -24792,6 +24807,11 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301709",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
+    "product_code": "31301712",
     "marketing_price": ""
   },
   {
