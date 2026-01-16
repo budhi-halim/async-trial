@@ -10897,12 +10897,12 @@
   {
     "product_name": "GARLIC BUTTER SEASONING",
     "product_code": "31802486",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "GARLIC BUTTER SEASONING",
     "product_code": "31802491",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "GARLIC BUTTER SEASONING",
@@ -16577,6 +16577,11 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408019",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408029",
     "marketing_price": ""
   },
   {
