@@ -982,7 +982,7 @@
   {
     "product_name": "AYAM RICA-RICA SEASONING / JUN XLII",
     "product_code": "MT-1300834-0",
-    "marketing_price": "4.5"
+    "marketing_price": "4.55"
   },
   {
     "product_name": "AYAM SPECIAL PREMIX",
@@ -4793,6 +4793,16 @@
     "product_name": "BUTTER SWEET SEASONING",
     "product_code": "31503315",
     "marketing_price": "5.65"
+  },
+  {
+    "product_name": "BUTTER SWEET SEASONING",
+    "product_code": "31503379",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUTTER SWEET SEASONING",
+    "product_code": "31503380",
+    "marketing_price": ""
   },
   {
     "product_name": "BUTTERCOOKIES SEASONING",
@@ -9862,7 +9872,7 @@
   {
     "product_name": "COTO MAKASAR SEASONING",
     "product_code": "31407931",
-    "marketing_price": ""
+    "marketing_price": "6.75"
   },
   {
     "product_name": "CRAB POWDER",
@@ -16765,6 +16775,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "MINYAK BAWANG MERAH",
+    "product_code": "38800016",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MIX HERBS NACHO SEASONING",
     "product_code": "31406978",
     "marketing_price": "0"
@@ -17512,7 +17527,7 @@
   {
     "product_name": "ONION POWDER",
     "product_code": "881",
-    "marketing_price": "6.90"
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ONION POWDER",
@@ -17542,17 +17557,17 @@
   {
     "product_name": "ONION POWDER / MC-I-IDS P05",
     "product_code": "881",
-    "marketing_price": "6.90"
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ONION POWDER / O B00064",
     "product_code": "881",
-    "marketing_price": "6.90"
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ONION POWDER / RMSEAONI01",
     "product_code": "881",
-    "marketing_price": "6.90"
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ONION SEASONING",
@@ -21037,7 +21052,7 @@
   {
     "product_name": "ROASTED CORN SEASONING / PREMIX FOOD SPI CRG 183 I",
     "product_code": "31603045",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ROASTED CORN SEASONING / R V",
@@ -21417,12 +21432,12 @@
   {
     "product_name": "SALTED CARAMEL SEASONING",
     "product_code": "31503259",
-    "marketing_price": "0"
+    "marketing_price": "3.20"
   },
   {
     "product_name": "SALTED CARAMEL SEASONING",
     "product_code": "31503360",
-    "marketing_price": "0"
+    "marketing_price": "4.20"
   },
   {
     "product_name": "SALTED CARAMEL SEASONING (KOSHER)",
@@ -24821,6 +24836,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301713",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -25405,6 +25425,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SMOKEHOUSE BBQ SEASONING",
+    "product_code": "31408031",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SMOKEHOUSE BBQ SEASONING",
+    "product_code": "31408032",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SMOKEY RIBS PREMIX",
     "product_code": "31406722",
     "marketing_price": ""
@@ -25432,6 +25462,11 @@
   {
     "product_name": "SMOKIN BBQ SEASONING",
     "product_code": "31408021",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SMOKIN BBQ SEASONING",
+    "product_code": "31408030",
     "marketing_price": ""
   },
   {
