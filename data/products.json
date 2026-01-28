@@ -875,6 +875,11 @@
     "marketing_price": "5.8"
   },
   {
+    "product_name": "AYAM LADA HITAM SEASONING",
+    "product_code": "31408035",
+    "marketing_price": ""
+  },
+  {
     "product_name": "AYAM PANGGANG",
     "product_code": "MT-1200471-0",
     "marketing_price": "3"
@@ -967,6 +972,11 @@
   {
     "product_name": "AYAM POWDER",
     "product_code": "31103038",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM RICA-RICA SEASONING",
+    "product_code": "31408034",
     "marketing_price": ""
   },
   {
@@ -1906,6 +1916,16 @@
   },
   {
     "product_name": "BALADO SEASONING",
+    "product_code": "31408036",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
+    "product_code": "31408037",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
     "product_code": "E-501",
     "marketing_price": "2.1"
   },
@@ -2257,6 +2277,11 @@
   {
     "product_name": "BAWANG GORENG VEGAN SEASONING",
     "product_code": "31802608",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BAWANG MANIS SEASONING",
+    "product_code": "31802694",
     "marketing_price": ""
   },
   {
@@ -3297,11 +3322,6 @@
   {
     "product_name": "BBQ SEASONING / JUN XI",
     "product_code": "MT-514514",
-    "marketing_price": "5.2"
-  },
-  {
-    "product_name": "BBQ SEASONING / JUN XI A",
-    "product_code": "31406801",
     "marketing_price": "5.2"
   },
   {
@@ -16068,6 +16088,11 @@
     "product_name": "MAYONAISE POWDER",
     "product_code": "31503012",
     "marketing_price": "5.10"
+  },
+  {
+    "product_name": "MAYONAISE POWDER",
+    "product_code": "31503381",
+    "marketing_price": ""
   },
   {
     "product_name": "MAYONAISE SEASONING",
