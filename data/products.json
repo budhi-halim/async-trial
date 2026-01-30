@@ -9506,16 +9506,6 @@
   },
   {
     "product_name": "CORN BBQ SEASONING",
-    "product_code": "31602293",
-    "marketing_price": "3.5"
-  },
-  {
-    "product_name": "CORN BBQ SEASONING",
-    "product_code": "31602751",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CORN BBQ SEASONING",
     "product_code": "31602821",
     "marketing_price": "6.85"
   },
@@ -13792,7 +13782,7 @@
   {
     "product_name": "JELLY POWDER",
     "product_code": "33000193",
-    "marketing_price": "15"
+    "marketing_price": ""
   },
   {
     "product_name": "JELLY POWDER",
@@ -19982,7 +19972,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31602485",
-    "marketing_price": "7.35"
+    "marketing_price": ""
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -21987,7 +21977,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31406185",
-    "marketing_price": "2.35"
+    "marketing_price": ""
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -23452,7 +23442,7 @@
   {
     "product_name": "SANTAN FLAVOUR",
     "product_code": "92855",
-    "marketing_price": "18"
+    "marketing_price": ""
   },
   {
     "product_name": "SANTAN FLAVOUR",
@@ -27662,7 +27652,7 @@
   {
     "product_name": "SWEET CHEESE SEASONING",
     "product_code": "31502855",
-    "marketing_price": "0"
+    "marketing_price": ""
   },
   {
     "product_name": "SWEET CHEESE SEASONING",
@@ -30382,7 +30372,7 @@
   {
     "product_name": "YOGHURT SEASONING",
     "product_code": "31503205",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "YOGURT SEASONING",
