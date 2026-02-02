@@ -8580,6 +8580,11 @@
     "marketing_price": "2.6"
   },
   {
+    "product_name": "CHILLI POWDER / DRIED FOOD SPI CH 600 II B",
+    "product_code": "31406197",
+    "marketing_price": "2.6"
+  },
+  {
     "product_name": "CHILLI POWDER 1 NFI",
     "product_code": "31407123",
     "marketing_price": "0"
@@ -9847,7 +9852,7 @@
   {
     "product_name": "COTO MAKASAR SEASONING",
     "product_code": "31407846",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "COTO MAKASAR SEASONING",
@@ -9877,7 +9882,7 @@
   {
     "product_name": "COTO MAKASAR SEASONING",
     "product_code": "31407913",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "COTO MAKASAR SEASONING",
