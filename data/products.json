@@ -3181,6 +3181,16 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31408039",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408040",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "D-108",
     "marketing_price": "3.5"
   },
@@ -10965,6 +10975,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "GARLIC BUTTER SEASONING",
+    "product_code": "31802695",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GARLIC CHEESE SEASONING",
     "product_code": "31503163",
     "marketing_price": ""
@@ -13222,7 +13237,7 @@
   {
     "product_name": "JAGUNG BAKAR SEASONING",
     "product_code": "31603023",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "JAGUNG BAKAR SEASONING",
@@ -19315,6 +19330,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "RICA-RICA SEASONING",
+    "product_code": "31407141",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "RICE SEASONING",
     "product_code": "31405412",
     "marketing_price": "6"
@@ -22438,11 +22458,6 @@
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407133",
     "marketing_price": "2.35"
-  },
-  {
-    "product_name": "SAMBAL BALADO SEASONING",
-    "product_code": "31407141",
-    "marketing_price": ""
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -25698,6 +25713,11 @@
     "product_name": "SOTO JALAPENO SEASONING",
     "product_code": "31407574",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SOTO KUDUS PASTA",
+    "product_code": "34400493",
+    "marketing_price": ""
   },
   {
     "product_name": "SOTO KUDUS SEASONING",
