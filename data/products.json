@@ -14552,7 +14552,7 @@
   {
     "product_name": "KARE SPECIAL SEASONING",
     "product_code": "31406802",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "KARI ASAM PEDAS SEASONING",
@@ -15936,11 +15936,6 @@
   },
   {
     "product_name": "MARINATION SEASONING",
-    "product_code": "31407614",
-    "marketing_price": "4.30"
-  },
-  {
-    "product_name": "MARINATION SEASONING",
     "product_code": "31407627",
     "marketing_price": "3.65"
   },
@@ -15998,6 +15993,11 @@
     "product_name": "MARINATION SEASONING",
     "product_code": "31407984",
     "marketing_price": "4.0"
+  },
+  {
+    "product_name": "MARINATION SEASONING / Hast Original Spicy Seasoning SGC-OS",
+    "product_code": "31407614",
+    "marketing_price": "4.30"
   },
   {
     "product_name": "MARINATION SEASONING / MARINASI 2",
@@ -22732,6 +22732,11 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408012",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408038",
     "marketing_price": ""
   },
   {
