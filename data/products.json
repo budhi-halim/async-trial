@@ -2197,7 +2197,7 @@
   {
     "product_name": "BANANA STRAWBERRY SEASONING",
     "product_code": "31900667",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BASO PREMIX",
@@ -2772,7 +2772,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31406755",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -3503,6 +3503,11 @@
     "product_name": "BEEF MUSHROOM SEASONING",
     "product_code": "31201663",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "BEEF OIL",
+    "product_code": "35200008",
+    "marketing_price": ""
   },
   {
     "product_name": "BEEF OIL",
@@ -4385,6 +4390,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BUMBU BAKSO KUAH",
+    "product_code": "31201711",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU BALADO PASTA",
     "product_code": "34400389",
     "marketing_price": ""
@@ -4525,6 +4535,11 @@
     "marketing_price": "4"
   },
   {
+    "product_name": "BUMBU MIE / BIHUN GORENG",
+    "product_code": "31408045",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU MIE GORENG",
     "product_code": "31406098",
     "marketing_price": "5.7"
@@ -4586,6 +4601,11 @@
   },
   {
     "product_name": "BUMBU NASI GORENG KAMPUNG",
+    "product_code": "31408044",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU NASI GORENG KAMPUNG",
     "product_code": "34400482",
     "marketing_price": ""
   },
@@ -4617,6 +4637,11 @@
   {
     "product_name": "BUMBU NASI KUNING",
     "product_code": "31407976",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU NASI LIWET SUNDA",
+    "product_code": "31408016",
     "marketing_price": ""
   },
   {
@@ -4677,6 +4702,11 @@
   {
     "product_name": "BUMBU RENDANG PASTA",
     "product_code": "34400423",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU SAYUR ASEM",
+    "product_code": "31408046",
     "marketing_price": ""
   },
   {
@@ -7401,6 +7431,11 @@
   },
   {
     "product_name": "CHICKEN POWDER",
+    "product_code": "31103080",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN POWDER",
     "product_code": "31106765",
     "marketing_price": "0"
   },
@@ -8595,6 +8630,11 @@
     "marketing_price": "2.6"
   },
   {
+    "product_name": "CHILLI POWDER / PP0076",
+    "product_code": "31406197",
+    "marketing_price": "2.6"
+  },
+  {
     "product_name": "CHILLI POWDER 1 NFI",
     "product_code": "31407123",
     "marketing_price": "0"
@@ -9667,6 +9707,11 @@
   {
     "product_name": "CORN POWDER",
     "product_code": "31602942",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CORN POWDER",
+    "product_code": "31603070",
     "marketing_price": ""
   },
   {
@@ -13550,6 +13595,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408042",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -15420,6 +15470,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "LADA HITAM INSTANT SAUCE",
+    "product_code": "31405171",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "LADA HITAM POWDER",
     "product_code": "31406977",
     "marketing_price": "0"
@@ -16133,6 +16188,11 @@
     "product_name": "MAYONAISE SEASONING / SPI MY 107 I",
     "product_code": "MT-1109275-0",
     "marketing_price": "8.75"
+  },
+  {
+    "product_name": "MEAT CURRY SEASONING",
+    "product_code": "31408041",
+    "marketing_price": ""
   },
   {
     "product_name": "MEATY BBQ",
@@ -20846,6 +20906,11 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603068",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -21543,6 +21608,11 @@
     "product_name": "SALTED EGG SEASONING",
     "product_code": "31102690",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SALTED EGG SEASONING",
+    "product_code": "31103081",
+    "marketing_price": ""
   },
   {
     "product_name": "SALTED EGG SEASONING",
@@ -25515,6 +25585,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SMOKIN BBQ SEASONING",
+    "product_code": "31408043",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SMOKY BBQ SEASONING",
     "product_code": "31404995",
     "marketing_price": "7.8"
@@ -25592,6 +25667,11 @@
   {
     "product_name": "SOP BUNTUT SEASONING",
     "product_code": "31201707",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOP BUNTUT SEASONING",
+    "product_code": "31201710",
     "marketing_price": ""
   },
   {
@@ -26168,6 +26248,11 @@
     "product_name": "SOY GARLIC SEASONING",
     "product_code": "31700513",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SOY GARLIC SEASONING",
+    "product_code": "31700528",
+    "marketing_price": ""
   },
   {
     "product_name": "SOY POWDER PREMIX",
