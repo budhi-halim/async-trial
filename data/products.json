@@ -3191,6 +3191,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31408048",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "D-108",
     "marketing_price": "3.5"
   },
@@ -8795,6 +8800,11 @@
     "marketing_price": "3"
   },
   {
+    "product_name": "CHOCO MALT SEASONING",
+    "product_code": "31503384",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHOCO MALT SEASONING / Bubuk - EB 2201",
     "product_code": "31503336",
     "marketing_price": "4.15"
@@ -9993,6 +10003,11 @@
     "product_name": "CREAMY CHICKEN MUSHROOM",
     "product_code": "31103008",
     "marketing_price": "9.0"
+  },
+  {
+    "product_name": "CREAMY CHICKEN SEASONING",
+    "product_code": "31103082",
+    "marketing_price": ""
   },
   {
     "product_name": "CREAMY COCONUT SEASONING",
@@ -17065,6 +17080,11 @@
     "marketing_price": "6.15"
   },
   {
+    "product_name": "NACHO CHEESE SEASONING",
+    "product_code": "31503382",
+    "marketing_price": ""
+  },
+  {
     "product_name": "NACHO CHEESE SEASONING / PR 0814",
     "product_code": "31502674",
     "marketing_price": "8.8"
@@ -18097,6 +18117,16 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802684",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802696",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802697",
     "marketing_price": ""
   },
   {
@@ -20907,6 +20937,11 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603068",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603069",
     "marketing_price": ""
   },
   {
@@ -29887,6 +29922,11 @@
   {
     "product_name": "TONGSENG PASTA",
     "product_code": "34400490",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "TONGSENG PASTA",
+    "product_code": "34400494",
     "marketing_price": ""
   },
   {
