@@ -3191,6 +3191,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31408047",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "31408048",
     "marketing_price": ""
   },
@@ -6762,6 +6767,11 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503376",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503383",
     "marketing_price": ""
   },
   {
@@ -12425,6 +12435,11 @@
     "marketing_price": "3.75"
   },
   {
+    "product_name": "HONEY SOY SEASONING",
+    "product_code": "31700529",
+    "marketing_price": ""
+  },
+  {
     "product_name": "HOT & SPICES SEASONING",
     "product_code": "31406902",
     "marketing_price": "0"
@@ -15717,6 +15732,11 @@
   {
     "product_name": "Lychee Flavour",
     "product_code": "32900002",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MAGIC MASALA SEASONING",
+    "product_code": "31408049",
     "marketing_price": ""
   },
   {
@@ -24991,6 +25011,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301714",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -27508,11 +27533,6 @@
     "product_name": "STRAWBERRY SEASONING",
     "product_code": "31900537",
     "marketing_price": ""
-  },
-  {
-    "product_name": "STRAWBERRY SEASONING",
-    "product_code": "31900581",
-    "marketing_price": "3.25"
   },
   {
     "product_name": "STRAWBERRY SEASONING",
