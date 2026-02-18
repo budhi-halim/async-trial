@@ -977,7 +977,7 @@
   {
     "product_name": "AYAM RICA-RICA SEASONING",
     "product_code": "31408034",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "AYAM RICA-RICA SEASONING",
@@ -1007,7 +1007,7 @@
   {
     "product_name": "AYAM SZECHUAN SEASONING",
     "product_code": "31103000",
-    "marketing_price": "0"
+    "marketing_price": "5.50"
   },
   {
     "product_name": "BABY SILKY PUDDING POWDER",
@@ -2907,7 +2907,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31407090",
-    "marketing_price": "0"
+    "marketing_price": "5.0"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -3197,6 +3197,11 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408048",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408050",
     "marketing_price": ""
   },
   {
@@ -4422,7 +4427,7 @@
   {
     "product_name": "BUMBU CURRY MALAYSIA",
     "product_code": "34400481",
-    "marketing_price": ""
+    "marketing_price": "10.50"
   },
   {
     "product_name": "BUMBU DASAR KECAP",
@@ -4707,7 +4712,7 @@
   {
     "product_name": "BUMBU RENDANG",
     "product_code": "34400480",
-    "marketing_price": ""
+    "marketing_price": "8.0"
   },
   {
     "product_name": "BUMBU RENDANG PASTA",
@@ -4867,12 +4872,12 @@
   {
     "product_name": "BUTTER SWEET SEASONING",
     "product_code": "31503379",
-    "marketing_price": ""
+    "marketing_price": "5.70"
   },
   {
     "product_name": "BUTTER SWEET SEASONING",
     "product_code": "31503380",
-    "marketing_price": ""
+    "marketing_price": "5.70"
   },
   {
     "product_name": "BUTTERCOOKIES SEASONING",
@@ -9047,7 +9052,7 @@
   {
     "product_name": "CHOCOMALT SEASONING",
     "product_code": "31503365",
-    "marketing_price": "0"
+    "marketing_price": "4.0"
   },
   {
     "product_name": "CHOST PEPPER SEASONING",
@@ -10013,6 +10018,11 @@
     "product_name": "CREAMY CHICKEN MUSHROOM",
     "product_code": "31103008",
     "marketing_price": "9.0"
+  },
+  {
+    "product_name": "CREAMY CHICKEN MUSHROOM SEASONING",
+    "product_code": "31103083",
+    "marketing_price": ""
   },
   {
     "product_name": "CREAMY CHICKEN SEASONING",
@@ -11002,7 +11012,7 @@
   {
     "product_name": "GARLIC BREAD SEASONING",
     "product_code": "31802579",
-    "marketing_price": "0"
+    "marketing_price": "7.75"
   },
   {
     "product_name": "GARLIC BUTTER SEASONING",
@@ -11052,6 +11062,16 @@
   {
     "product_name": "GARLIC CHEESE SEASONING",
     "product_code": "31503163",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC CHICKEN SEASONING",
+    "product_code": "31103084",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC CHICKEN SEASONING",
+    "product_code": "31802698",
     "marketing_price": ""
   },
   {
@@ -17797,7 +17817,7 @@
   {
     "product_name": "OPOR PASTA",
     "product_code": "44400121",
-    "marketing_price": "0"
+    "marketing_price": "7.0"
   },
   {
     "product_name": "OPOR PASTA / PA3-LI",
@@ -18342,7 +18362,7 @@
   {
     "product_name": "PAPRIKA POWDER",
     "product_code": "31404508",
-    "marketing_price": "10.5"
+    "marketing_price": "19.0"
   },
   {
     "product_name": "PAPRIKA POWDER",
@@ -19147,7 +19167,7 @@
   {
     "product_name": "RAWON PASTA",
     "product_code": "34400477",
-    "marketing_price": "0"
+    "marketing_price": "8.0"
   },
   {
     "product_name": "RAWON PASTE",
@@ -20947,7 +20967,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603063",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -22010,6 +22030,11 @@
     "marketing_price": "3.45"
   },
   {
+    "product_name": "SAMBAL BALADO KUNING SEASONING",
+    "product_code": "31408051",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL BALADO OIL",
     "product_code": "MT-1103234-0",
     "marketing_price": "0"
@@ -23032,7 +23057,7 @@
   {
     "product_name": "SAMBAL BAWANG PASTA",
     "product_code": "34400484",
-    "marketing_price": "0"
+    "marketing_price": "8.50"
   },
   {
     "product_name": "SAMBAL BAWANG SEASONING",
@@ -23097,7 +23122,7 @@
   {
     "product_name": "SAMBAL CUMI PASTA",
     "product_code": "34400487",
-    "marketing_price": "0"
+    "marketing_price": "11.0"
   },
   {
     "product_name": "SAMBAL CUMI SEASONING",
@@ -23147,7 +23172,7 @@
   {
     "product_name": "SAMBAL IJO PASTA",
     "product_code": "34400194",
-    "marketing_price": "11.1"
+    "marketing_price": "8.10"
   },
   {
     "product_name": "SAMBAL IJO PASTA",
@@ -23172,7 +23197,7 @@
   {
     "product_name": "SAMBAL KECOMBRANG PASTA",
     "product_code": "34400488",
-    "marketing_price": "0"
+    "marketing_price": "8.90"
   },
   {
     "product_name": "SAMBAL KECOMBRANG SEASONING",
@@ -23437,7 +23462,7 @@
   {
     "product_name": "SAMBAL TERASI PASTA",
     "product_code": "34400308",
-    "marketing_price": "4.75"
+    "marketing_price": "4.80"
   },
   {
     "product_name": "SAMBAL TERASI PASTA NASI LIWET",
@@ -23472,12 +23497,12 @@
   {
     "product_name": "SAMBAL TERI PASTA",
     "product_code": "34400486",
-    "marketing_price": "0"
+    "marketing_price": "11.0"
   },
   {
     "product_name": "SAMBAL TOMAT PASTA",
     "product_code": "34400485",
-    "marketing_price": "0"
+    "marketing_price": "8.50"
   },
   {
     "product_name": "SAMBAL TOMAT PREMIX",
