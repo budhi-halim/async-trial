@@ -2906,11 +2906,6 @@
   },
   {
     "product_name": "BBQ SEASONING",
-    "product_code": "31407090",
-    "marketing_price": "5.0"
-  },
-  {
-    "product_name": "BBQ SEASONING",
     "product_code": "31407104",
     "marketing_price": "6.50"
   },
@@ -3343,6 +3338,11 @@
     "product_name": "BBQ SEASONING / BBQIL-01",
     "product_code": "31405939",
     "marketing_price": "8"
+  },
+  {
+    "product_name": "BBQ SEASONING / BQ 91",
+    "product_code": "31407090",
+    "marketing_price": "5.0"
   },
   {
     "product_name": "BBQ SEASONING / JUN XI",
@@ -10420,6 +10420,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "EGG CUSTARD PUDDING",
+    "product_code": "43250007",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "ENHANCER POWDER",
     "product_code": "31700476",
     "marketing_price": ""
@@ -12408,6 +12413,11 @@
     "product_name": "HONEY FLAVOUR",
     "product_code": "SCF-3183",
     "marketing_price": "29.1"
+  },
+  {
+    "product_name": "HONEY JELLY",
+    "product_code": "43160006",
+    "marketing_price": "0"
   },
   {
     "product_name": "HONEY MUSTARD SEASONING",
@@ -20986,6 +20996,16 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603071",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603072",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -25672,6 +25692,16 @@
   {
     "product_name": "SMOKIN BBQ SEASONING",
     "product_code": "31408043",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SMOKIN BBQ SEASONING",
+    "product_code": "31408053",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SMOKIN BBQ SEASONING",
+    "product_code": "31408054",
     "marketing_price": ""
   },
   {
