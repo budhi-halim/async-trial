@@ -3177,12 +3177,12 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408039",
-    "marketing_price": ""
+    "marketing_price": "5.7"
   },
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408040",
-    "marketing_price": ""
+    "marketing_price": "6.10"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -9036,6 +9036,11 @@
   },
   {
     "product_name": "CHOCOLATE SEASONING",
+    "product_code": "31503385",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHOCOLATE SEASONING",
     "product_code": "MT-1202355-0",
     "marketing_price": "5.1"
   },
@@ -10102,6 +10107,16 @@
   {
     "product_name": "CUMI SEASONING",
     "product_code": "31301662",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CUMI SEASONING",
+    "product_code": "31301716",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CUMI SEASONING",
+    "product_code": "31301717",
     "marketing_price": ""
   },
   {
@@ -16757,6 +16772,11 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408029",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408052",
     "marketing_price": ""
   },
   {
@@ -25175,6 +25195,11 @@
     "marketing_price": "7.50"
   },
   {
+    "product_name": "SEBLAK POWDER",
+    "product_code": "31408055",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SEBLAK SEASONING",
     "product_code": "31406602",
     "marketing_price": "3.00"
@@ -25647,12 +25672,12 @@
   {
     "product_name": "SMOKEHOUSE BBQ SEASONING",
     "product_code": "31408031",
-    "marketing_price": ""
+    "marketing_price": "6.50"
   },
   {
     "product_name": "SMOKEHOUSE BBQ SEASONING",
     "product_code": "31408032",
-    "marketing_price": ""
+    "marketing_price": "6.50"
   },
   {
     "product_name": "SMOKEY RIBS PREMIX",
