@@ -4725,6 +4725,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BUMBU SAYUR LODEH",
+    "product_code": "31408061",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU SEMUR AYAM",
     "product_code": "44400105",
     "marketing_price": "5.1"
@@ -12092,7 +12097,7 @@
   {
     "product_name": "GULAI PASTA",
     "product_code": "34400496",
-    "marketing_price": "0"
+    "marketing_price": ""
   },
   {
     "product_name": "GULAI SAUS SEASONING",
@@ -17120,6 +17125,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "NACHO CHEESE & HERB SEASONING",
+    "product_code": "31503386",
+    "marketing_price": ""
+  },
+  {
     "product_name": "NACHO CHEESE 1",
     "product_code": "31502371",
     "marketing_price": "8.4"
@@ -18212,6 +18222,16 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802697",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802699",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802700",
     "marketing_price": ""
   },
   {
@@ -22946,6 +22966,11 @@
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408060",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "C-006",
     "marketing_price": "2.65"
   },
@@ -25563,6 +25588,11 @@
     "product_name": "SHRIMP SEASONING POWDER",
     "product_code": "31301561",
     "marketing_price": "5.10"
+  },
+  {
+    "product_name": "SHRIMP SOUP POWDER",
+    "product_code": "31301718",
+    "marketing_price": ""
   },
   {
     "product_name": "SILKY PUDDING CHEESE",
