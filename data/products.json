@@ -4555,6 +4555,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BUMBU MIE / BIHUN GORENG",
+    "product_code": "31408064",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU MIE GORENG",
     "product_code": "31406098",
     "marketing_price": "5.7"
@@ -6251,11 +6256,6 @@
   },
   {
     "product_name": "CHEESE SEASONING",
-    "product_code": "31502822",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHEESE SEASONING",
     "product_code": "31502874",
     "marketing_price": ""
   },
@@ -7457,7 +7457,7 @@
   {
     "product_name": "CHICKEN POWDER",
     "product_code": "31103080",
-    "marketing_price": ""
+    "marketing_price": "5.95"
   },
   {
     "product_name": "CHICKEN POWDER",
@@ -14692,7 +14692,7 @@
   {
     "product_name": "KARE SPECIAL SEASONING",
     "product_code": "31406802",
-    "marketing_price": "0"
+    "marketing_price": "4.05"
   },
   {
     "product_name": "KARI ASAM PEDAS SEASONING",
@@ -24332,7 +24332,7 @@
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
     "product_code": "31603067",
-    "marketing_price": ""
+    "marketing_price": "4.65"
   },
   {
     "product_name": "SAVOURY CORN & ONION SEASONING",
@@ -26018,6 +26018,11 @@
     "product_name": "SOTO KUDUS SEASONING",
     "product_code": "31406515",
     "marketing_price": "7.1"
+  },
+  {
+    "product_name": "SOTO LAMONGAN PASTA",
+    "product_code": "34400497",
+    "marketing_price": ""
   },
   {
     "product_name": "SOTO LAMONGAN SEASONING",
@@ -28847,7 +28852,7 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31603065",
-    "marketing_price": ""
+    "marketing_price": "2.90"
   },
   {
     "product_name": "SWEET CORN SEASONING",
