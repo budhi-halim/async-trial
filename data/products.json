@@ -2190,6 +2190,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BANANA SEASONING",
+    "product_code": "31900692",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BANANA SEASONING",
+    "product_code": "31900693",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BANANA SMOOTHIES MIX (AMG)",
     "product_code": "46900001",
     "marketing_price": "0"
@@ -3207,6 +3217,31 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408050",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408066",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408069",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408070",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408071",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408072",
     "marketing_price": ""
   },
   {
@@ -4735,6 +4770,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BUMBU SAYUR ASEM",
+    "product_code": "31408065",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU SAYUR LODEH",
     "product_code": "31408061",
     "marketing_price": ""
@@ -5948,6 +5988,11 @@
     "product_name": "CHEESE POWDER",
     "product_code": "31503369",
     "marketing_price": "12.50"
+  },
+  {
+    "product_name": "CHEESE POWDER",
+    "product_code": "31503387",
+    "marketing_price": ""
   },
   {
     "product_name": "CHEESE POWDER",
@@ -10136,6 +10181,11 @@
   },
   {
     "product_name": "CUMI SEASONING",
+    "product_code": "31301719",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CUMI SEASONING",
     "product_code": "MT-1106473-0",
     "marketing_price": "2.9"
   },
@@ -13695,6 +13745,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408068",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -14856,6 +14911,11 @@
   },
   {
     "product_name": "KARI OIL",
+    "product_code": "35400114",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KARI OIL",
     "product_code": "MT-182754",
     "marketing_price": "6.2"
   },
@@ -14918,6 +14978,11 @@
     "product_name": "KARI SEASONING",
     "product_code": "31407853",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "KARI SEASONING",
+    "product_code": "31408067",
+    "marketing_price": ""
   },
   {
     "product_name": "KEBAB SEAS",
@@ -21071,6 +21136,21 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603075",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603076",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603077",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-103",
     "marketing_price": "4.5"
   },
@@ -21772,6 +21852,11 @@
   {
     "product_name": "SALTED EGG SEASONING",
     "product_code": "31103081",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SALTED EGG SEASONING",
+    "product_code": "31103085",
     "marketing_price": ""
   },
   {
