@@ -8217,7 +8217,7 @@
   {
     "product_name": "CHILLI CHEESE SEASONING",
     "product_code": "31407990",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHILLI CRAB PASTA",
@@ -9142,6 +9142,11 @@
   {
     "product_name": "CINNAMON SEASONING",
     "product_code": "31408058",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CINNAMON SEASONING",
+    "product_code": "31408073",
     "marketing_price": ""
   },
   {
@@ -10308,6 +10313,11 @@
     "product_name": "DENDENG BBQ SEASONING",
     "product_code": "31405253",
     "marketing_price": "3.15"
+  },
+  {
+    "product_name": "DENDENG BBQ SEASONING",
+    "product_code": "31408074",
+    "marketing_price": ""
   },
   {
     "product_name": "DIANA CHEESE & ONION SEASONING",
@@ -11947,6 +11957,11 @@
   {
     "product_name": "GOCHUJANG PASTA",
     "product_code": "34400473",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GOCHUJANG PASTA",
+    "product_code": "34400500",
     "marketing_price": ""
   },
   {
@@ -17607,7 +17622,7 @@
   {
     "product_name": "NOODLE SEASONING TOM YUM",
     "product_code": "31301525",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "NUGGET SEASONING",
@@ -19572,6 +19587,11 @@
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400469",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RICA-RICA PASTA",
+    "product_code": "34400499",
     "marketing_price": ""
   },
   {
@@ -25231,6 +25251,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301720",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -29777,7 +29802,7 @@
   {
     "product_name": "TOM YUM OIL",
     "product_code": "35300013",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "TOM YUM PASTA",
