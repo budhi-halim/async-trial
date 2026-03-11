@@ -5200,6 +5200,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CARAMEL CUSTARD PUDDING",
+    "product_code": "43250007",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "CARAMEL LATTE POWDER",
     "product_code": "55600046",
     "marketing_price": "3.85"
@@ -6832,6 +6837,11 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503383",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503388",
     "marketing_price": ""
   },
   {
@@ -8965,6 +8975,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CHOCOLATE PUDDING",
+    "product_code": "43210002",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHOCOLATE PUDDING MIX",
     "product_code": "33250009",
     "marketing_price": ""
@@ -10508,11 +10523,6 @@
     "product_name": "EBI SEASONING",
     "product_code": "31301547",
     "marketing_price": ""
-  },
-  {
-    "product_name": "EGG CUSTARD PUDDING",
-    "product_code": "43250007",
-    "marketing_price": "0"
   },
   {
     "product_name": "ENHANCER POWDER",
@@ -16018,6 +16028,11 @@
     "product_name": "MALA SEASONING",
     "product_code": "31407659",
     "marketing_price": "4.35"
+  },
+  {
+    "product_name": "MALA SEASONING",
+    "product_code": "31408075",
+    "marketing_price": ""
   },
   {
     "product_name": "MANGGA MADU SEASONING",
@@ -27007,6 +27022,11 @@
   {
     "product_name": "SPICY CHEESE SEASONING",
     "product_code": "31503176",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY CHEESE SEASONING",
+    "product_code": "31503389",
     "marketing_price": ""
   },
   {
