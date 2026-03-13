@@ -1235,6 +1235,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BALADO DAUN JERUK SEASONING",
+    "product_code": "31408076",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BALADO IJO PREMIX",
     "product_code": "MT-1207504-0",
     "marketing_price": "3.3"
@@ -2061,6 +2066,11 @@
   },
   {
     "product_name": "BALADO SEASONING",
+    "product_code": "MT-730614",
+    "marketing_price": "3"
+  },
+  {
+    "product_name": "BALADO SEASONING",
     "product_code": "MT-742314",
     "marketing_price": "2.5"
   },
@@ -2623,6 +2633,11 @@
     "product_name": "BBQ SEASONING",
     "product_code": "31405351",
     "marketing_price": "5.1"
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31405355",
+    "marketing_price": "9.15"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -6271,6 +6286,11 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31502720",
+    "marketing_price": "8.5"
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "31502725",
     "marketing_price": "7.2"
   },
@@ -6746,11 +6766,6 @@
   },
   {
     "product_name": "CHEESE SEASONING",
-    "product_code": "31503302",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHEESE SEASONING",
     "product_code": "31503304",
     "marketing_price": ""
   },
@@ -6943,6 +6958,11 @@
     "product_name": "CHEESE SEASONING",
     "product_code": "MT-76365 B",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "CHEESE SEASONING / CHEESE SEASONING",
+    "product_code": "31502720",
+    "marketing_price": "8.5"
   },
   {
     "product_name": "CHEESE SEASONING / JUN II",
@@ -10202,6 +10222,11 @@
   {
     "product_name": "CUMI SEASONING",
     "product_code": "31301719",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CUMI SEASONING",
+    "product_code": "31301722",
     "marketing_price": ""
   },
   {
@@ -24901,6 +24926,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301299",
+    "marketing_price": "3"
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31301324",
     "marketing_price": "10.75"
   },
@@ -30212,6 +30242,11 @@
   {
     "product_name": "TOMATO SEASONING",
     "product_code": "31802693",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "TOMATO SEASONING",
+    "product_code": "31802702",
     "marketing_price": ""
   },
   {
