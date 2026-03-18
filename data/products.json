@@ -4462,7 +4462,7 @@
   {
     "product_name": "BUMBU BAKSO KUAH",
     "product_code": "31201711",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "BUMBU BALADO PASTA",
@@ -4582,7 +4582,7 @@
   {
     "product_name": "BUMBU LAKSA",
     "product_code": "34400415",
-    "marketing_price": ""
+    "marketing_price": "6.70"
   },
   {
     "product_name": "BUMBU LAKSA SEASONING",
@@ -4607,7 +4607,7 @@
   {
     "product_name": "BUMBU MIE / BIHUN GORENG",
     "product_code": "31408045",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "BUMBU MIE / BIHUN GORENG",
@@ -4717,7 +4717,7 @@
   {
     "product_name": "BUMBU NASI LIWET SUNDA",
     "product_code": "31408016",
-    "marketing_price": ""
+    "marketing_price": "2.45"
   },
   {
     "product_name": "BUMBU NASI UDUK",
@@ -7637,7 +7637,7 @@
   {
     "product_name": "CHICKEN POWDER EXTRACT",
     "product_code": "62100011",
-    "marketing_price": "7.8"
+    "marketing_price": "8.20"
   },
   {
     "product_name": "CHICKEN PREMIX",
@@ -8912,7 +8912,7 @@
   {
     "product_name": "CHOCO PANDAN SEASONING",
     "product_code": "31503179",
-    "marketing_price": ""
+    "marketing_price": "4.10"
   },
   {
     "product_name": "CHOCO PEANUT SEASONING",
@@ -8962,7 +8962,7 @@
   {
     "product_name": "CHOCOLATE PANDAN SEASONING",
     "product_code": "31503317",
-    "marketing_price": ""
+    "marketing_price": "6.50"
   },
   {
     "product_name": "CHOCOLATE POWDER",
@@ -10177,7 +10177,7 @@
   {
     "product_name": "CUKO PEMPEK SEASONING",
     "product_code": "31408033",
-    "marketing_price": "0"
+    "marketing_price": "5.0"
   },
   {
     "product_name": "CUMI ASAM MANIS SEASONING",
@@ -11982,7 +11982,7 @@
   {
     "product_name": "GOCHUJANG PASTA",
     "product_code": "34400470",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "GOCHUJANG PASTA",
@@ -12202,7 +12202,7 @@
   {
     "product_name": "GULAI PASTA",
     "product_code": "34400496",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "GULAI SAUS SEASONING",
@@ -13797,7 +13797,7 @@
   {
     "product_name": "JAPANESE CURRY SEASONING",
     "product_code": "31408068",
-    "marketing_price": ""
+    "marketing_price": "4.65"
   },
   {
     "product_name": "JAPANESE HAMBURG SEASONING",
@@ -14962,7 +14962,7 @@
   {
     "product_name": "KARI OIL",
     "product_code": "35400114",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "KARI OIL",
@@ -15032,7 +15032,7 @@
   {
     "product_name": "KARI SEASONING",
     "product_code": "31408067",
-    "marketing_price": ""
+    "marketing_price": "3.5"
   },
   {
     "product_name": "KEBAB SEAS",
@@ -16922,7 +16922,7 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408052",
-    "marketing_price": ""
+    "marketing_price": "4.70"
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -22262,7 +22262,7 @@
   {
     "product_name": "SAMBAL BALADO KUNING SEASONING",
     "product_code": "31408051",
-    "marketing_price": ""
+    "marketing_price": "2.40"
   },
   {
     "product_name": "SAMBAL BALADO OIL",
@@ -26042,7 +26042,7 @@
   {
     "product_name": "SOP BUNTUT SEASONING",
     "product_code": "31201710",
-    "marketing_price": ""
+    "marketing_price": "6.0"
   },
   {
     "product_name": "SOP KONRO OIL",
