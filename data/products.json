@@ -2882,7 +2882,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31406926",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -6766,22 +6766,12 @@
   },
   {
     "product_name": "CHEESE SEASONING",
-    "product_code": "31503304",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHEESE SEASONING",
     "product_code": "31503305",
     "marketing_price": ""
   },
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503307",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHEESE SEASONING",
-    "product_code": "31503309",
     "marketing_price": ""
   },
   {
