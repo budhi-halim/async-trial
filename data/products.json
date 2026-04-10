@@ -9182,7 +9182,7 @@
   {
     "product_name": "CINNAMON SEASONING",
     "product_code": "31408073",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CLASSIC BBQ STEAK SEASONING",
@@ -9842,7 +9842,7 @@
   {
     "product_name": "CORN POWDER",
     "product_code": "31603070",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CORN POWDER",
@@ -10118,6 +10118,11 @@
     "product_name": "CREAM OLES GARLIC",
     "product_code": "58.35033",
     "marketing_price": "5.1"
+  },
+  {
+    "product_name": "CREAMER POWDER",
+    "product_code": "31503110",
+    "marketing_price": "3.9"
   },
   {
     "product_name": "CREAMY CHICKEN MUSHROOM",
@@ -21202,7 +21207,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603069",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -27452,6 +27457,11 @@
   {
     "product_name": "SPICY SMOKE BEEF SEASONING",
     "product_code": "31201627",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY SMOKE BEEF SEASONING",
+    "product_code": "31201714",
     "marketing_price": ""
   },
   {
