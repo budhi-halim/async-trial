@@ -6861,6 +6861,16 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503391",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503392",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -19586,6 +19596,11 @@
   },
   {
     "product_name": "RENDANG SEASONING",
+    "product_code": "31408095",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RENDANG SEASONING",
     "product_code": "MT-1204194-1",
     "marketing_price": "3.65"
   },
@@ -23595,6 +23610,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SAMBAL MATAH SEASONING",
+    "product_code": "31408091",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL MATAH SEASONING",
+    "product_code": "31408092",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL NANAS SEASONING",
     "product_code": "31407557",
     "marketing_price": "4.10"
@@ -25515,6 +25540,11 @@
     "marketing_price": "3.25"
   },
   {
+    "product_name": "SEBLAK SEASONING",
+    "product_code": "31408080",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SEI SAPI POWDER",
     "product_code": "31201602",
     "marketing_price": "0"
@@ -26557,6 +26587,11 @@
   {
     "product_name": "SOUR CREAM & ONION SEASONING",
     "product_code": "31802701",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOUR CREAM & ONION SEASONING",
+    "product_code": "31802704",
     "marketing_price": ""
   },
   {
@@ -29088,6 +29123,11 @@
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31603065",
     "marketing_price": "2.90"
+  },
+  {
+    "product_name": "SWEET CORN SEASONING",
+    "product_code": "31603081",
+    "marketing_price": ""
   },
   {
     "product_name": "SWEET CORN SEASONING",
