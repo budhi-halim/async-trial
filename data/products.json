@@ -27862,7 +27862,7 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408078",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SRIRACHA SEASONING / MPS Pang Sriracha",
@@ -29810,11 +29810,6 @@
     "marketing_price": "5.75"
   },
   {
-    "product_name": "THAI BBQ SEAFOOD SEASONING",
-    "product_code": "31408083",
-    "marketing_price": ""
-  },
-  {
     "product_name": "THAI CHILLI SEASONING",
     "product_code": "31407546",
     "marketing_price": ""
@@ -29828,6 +29823,11 @@
     "product_name": "THAI HOT SAUCE SEASONING",
     "product_code": "31407934",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "THAI SEAFOOD BBQ SEASONING",
+    "product_code": "31408083",
+    "marketing_price": ""
   },
   {
     "product_name": "THAI SPICY SALAD",
