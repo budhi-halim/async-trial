@@ -2941,6 +2941,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31407090",
+    "marketing_price": "5.0"
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "31407104",
     "marketing_price": "6.50"
   },
@@ -3206,11 +3211,6 @@
   },
   {
     "product_name": "BBQ SEASONING",
-    "product_code": "31408011",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "BBQ SEASONING",
     "product_code": "31408020",
     "marketing_price": "3.50"
   },
@@ -3403,6 +3403,11 @@
     "product_name": "BBQ SEASONING / BBQIL-01",
     "product_code": "31405939",
     "marketing_price": "8"
+  },
+  {
+    "product_name": "BBQ SEASONING / BQ 91",
+    "product_code": "31408011",
+    "marketing_price": ""
   },
   {
     "product_name": "BBQ SEASONING / JUN XI",
@@ -5228,11 +5233,6 @@
     "product_name": "CARAMEL CORN SEASONING",
     "product_code": "31602982",
     "marketing_price": ""
-  },
-  {
-    "product_name": "CARAMEL CUSTARD PUDDING",
-    "product_code": "43250007",
-    "marketing_price": "0"
   },
   {
     "product_name": "CARAMEL LATTE POWDER",
@@ -9015,11 +9015,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "CHOCOLATE PUDDING",
-    "product_code": "43210002",
-    "marketing_price": ""
-  },
-  {
     "product_name": "CHOCOLATE PUDDING MIX",
     "product_code": "33250009",
     "marketing_price": ""
@@ -9861,11 +9856,6 @@
   },
   {
     "product_name": "CORN POWDER",
-    "product_code": "31603070",
-    "marketing_price": "16.50"
-  },
-  {
-    "product_name": "CORN POWDER",
     "product_code": "MT-546636",
     "marketing_price": "7.5"
   },
@@ -9878,6 +9868,11 @@
     "product_name": "CORN POWDER / CP Export",
     "product_code": "31601924",
     "marketing_price": "18"
+  },
+  {
+    "product_name": "CORN POWDER / CP GIR",
+    "product_code": "31603070",
+    "marketing_price": "16.50"
   },
   {
     "product_name": "CORN PREMIX",
@@ -12580,11 +12575,6 @@
     "marketing_price": "29.1"
   },
   {
-    "product_name": "HONEY JELLY",
-    "product_code": "43160006",
-    "marketing_price": "0"
-  },
-  {
     "product_name": "HONEY MUSTARD SEASONING",
     "product_code": "31503237",
     "marketing_price": "0"
@@ -12643,16 +12633,6 @@
     "product_name": "HOT & SPICY BBQ SEASONING",
     "product_code": "31406789",
     "marketing_price": "0"
-  },
-  {
-    "product_name": "HOT & SPICY SALTED EGG SEASONING",
-    "product_code": "31502918",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "HOT & SPICY SALTED EGG SEASONING",
-    "product_code": "31502919",
-    "marketing_price": ""
   },
   {
     "product_name": "HOT & SPICY SEASONING",
@@ -12988,11 +12968,6 @@
     "product_name": "HOT SAUCE",
     "product_code": "34400424",
     "marketing_price": ""
-  },
-  {
-    "product_name": "HOT SPICY SALTED EGG SEASONING",
-    "product_code": "31502867",
-    "marketing_price": "0"
   },
   {
     "product_name": "HOT TOMATO SEASONING",
@@ -16941,11 +16916,6 @@
   },
   {
     "product_name": "MIE GORENG SEASONING",
-    "product_code": "31407957",
-    "marketing_price": "4.80"
-  },
-  {
-    "product_name": "MIE GORENG SEASONING",
     "product_code": "31407968",
     "marketing_price": "3.50"
   },
@@ -16988,6 +16958,11 @@
     "product_name": "MIE GORENG SEASONING",
     "product_code": "MT-1207404-0",
     "marketing_price": "4"
+  },
+  {
+    "product_name": "MIE GORENG SEASONING / UMAMI SALT SEASONING RSPU0001",
+    "product_code": "31407957",
+    "marketing_price": "4.80"
   },
   {
     "product_name": "MIE GORENG YAKISOBA SEASONING",
@@ -21246,11 +21221,6 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
-    "product_code": "31603069",
-    "marketing_price": "4.60"
-  },
-  {
-    "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603071",
     "marketing_price": "8.70"
   },
@@ -21600,6 +21570,11 @@
     "marketing_price": "8.45"
   },
   {
+    "product_name": "ROASTED CORN SEASONING / RCS GIR",
+    "product_code": "31603069",
+    "marketing_price": "4.60"
+  },
+  {
     "product_name": "ROASTED CORN SEASONING / RD 7014",
     "product_code": "31602414",
     "marketing_price": "8.95"
@@ -21943,131 +21918,6 @@
     "product_name": "SALTED CHEESE SEASONING",
     "product_code": "31502777",
     "marketing_price": "0"
-  },
-  {
-    "product_name": "SALTED EGG",
-    "product_code": "31502463",
-    "marketing_price": "17"
-  },
-  {
-    "product_name": "SALTED EGG MARINATION SEASONING",
-    "product_code": "31503078",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG MARINATON SEASONING",
-    "product_code": "31503147",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31102640",
-    "marketing_price": "10.5"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31102648",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31102650",
-    "marketing_price": "12.2"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31102690",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31103081",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31103085",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31502479",
-    "marketing_price": "9.5"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31502516",
-    "marketing_price": "18"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31502593",
-    "marketing_price": "28.60"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31502644",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31502920",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503083",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503234",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503235",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503238",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503245",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503246",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503266",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503268",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503270",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503342",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SALTED EGG SEASONING",
-    "product_code": "31503353",
-    "marketing_price": ""
   },
   {
     "product_name": "SALTED EGG SEASONING / JUN XXXIX",
@@ -23636,12 +23486,12 @@
   },
   {
     "product_name": "SAMBAL MATAH SEASONING",
-    "product_code": "31408091",
+    "product_code": "31408092",
     "marketing_price": ""
   },
   {
-    "product_name": "SAMBAL MATAH SEASONING",
-    "product_code": "31408092",
+    "product_name": "SAMBAL MATAH SEASONING / BALINESE CHILI & KAFFIR LIME SEASONING RSCB0001",
+    "product_code": "31408091",
     "marketing_price": ""
   },
   {
@@ -24797,11 +24647,6 @@
   {
     "product_name": "SEAFOOD PLATTER BLACKPEPPER SEASONING",
     "product_code": "31301616",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SEAFOOD SALTED EGG SEASONING",
-    "product_code": "31301592",
     "marketing_price": ""
   },
   {
@@ -27470,21 +27315,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "SPICY SALTED EGG OIL",
-    "product_code": "35500001",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SPICY SALTED EGG SEASONING",
-    "product_code": "31102730",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "SPICY SALTED EGG SEASONING",
-    "product_code": "31102731",
-    "marketing_price": "0"
-  },
-  {
     "product_name": "SPICY SEAFOOD PLATTER SEASONING",
     "product_code": "31407306",
     "marketing_price": ""
@@ -29310,11 +29140,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "Salted Egg Sauce",
-    "product_code": "34100045",
-    "marketing_price": ""
-  },
-  {
     "product_name": "Sambal Bakso Paste",
     "product_code": "34400426",
     "marketing_price": "3.25"
@@ -29530,39 +29355,9 @@
     "marketing_price": "6"
   },
   {
-    "product_name": "TELUR ASIN SEAS",
-    "product_code": "31102575",
-    "marketing_price": "10.5"
-  },
-  {
     "product_name": "TELUR ASIN SEASONING",
     "product_code": "31502764",
     "marketing_price": "14"
-  },
-  {
-    "product_name": "TELUR ASIN SEASONING",
-    "product_code": "31502824",
-    "marketing_price": "4.2"
-  },
-  {
-    "product_name": "TELUR ASIN SEASONING",
-    "product_code": "31502836",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "TELUR ASIN SEASONING",
-    "product_code": "31503014",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "TELUR ASIN SEASONING",
-    "product_code": "31503015",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "TELUR ASIN SEASONING",
-    "product_code": "31503293",
-    "marketing_price": ""
   },
   {
     "product_name": "TEMPE OREK SEASONING",
