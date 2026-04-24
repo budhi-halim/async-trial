@@ -6990,6 +6990,11 @@
     "marketing_price": "5.45"
   },
   {
+    "product_name": "CHEESE SEASONING / KJ 10",
+    "product_code": "31503339",
+    "marketing_price": "4.05"
+  },
+  {
     "product_name": "CHEESE SEASONING / PM-KJ-NO01",
     "product_code": "31503061",
     "marketing_price": "14.5"
@@ -8162,6 +8167,16 @@
   {
     "product_name": "CHICKEN TERIYAKI SEASONING",
     "product_code": "31103063",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN TERIYAKI SEASONING",
+    "product_code": "31103087",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN TERIYAKI SEASONING",
+    "product_code": "31103088",
     "marketing_price": ""
   },
   {
@@ -9703,6 +9718,16 @@
     "product_name": "CORN BARBEQUE",
     "product_code": "168",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "CORN BBQ SEASONING",
+    "product_code": "31602293",
+    "marketing_price": "3.5"
+  },
+  {
+    "product_name": "CORN BBQ SEASONING",
+    "product_code": "31602745",
+    "marketing_price": "4.6"
   },
   {
     "product_name": "CORN BBQ SEASONING",
@@ -13056,6 +13081,11 @@
   },
   {
     "product_name": "HVP POWDER",
+    "product_code": "31700533",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
     "product_code": "MT-597937",
     "marketing_price": "6.75"
   },
@@ -16155,6 +16185,11 @@
     "marketing_price": "4.25"
   },
   {
+    "product_name": "MARINATION MARANGGI SEASONING",
+    "product_code": "31408098",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MARINATION POWDER",
     "product_code": "MT-807961",
     "marketing_price": "3.6"
@@ -18148,11 +18183,6 @@
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31407650",
     "marketing_price": "4.35"
-  },
-  {
-    "product_name": "ORIGINAL SEASONING",
-    "product_code": "31801749",
-    "marketing_price": "0"
   },
   {
     "product_name": "ORIGINAL SEASONING",
@@ -23600,6 +23630,16 @@
     "marketing_price": "4.30"
   },
   {
+    "product_name": "SAMBAL SEAFOOD SEASONING",
+    "product_code": "31301723",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL SEAFOOD SEASONING",
+    "product_code": "31301724",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL SEREH",
     "product_code": "34400343",
     "marketing_price": "0"
@@ -24303,6 +24343,11 @@
     "product_name": "SATE PADANG SEAS",
     "product_code": "31408081",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SATE PADANG SEASONING",
+    "product_code": "31408099",
+    "marketing_price": ""
   },
   {
     "product_name": "SATE SEASONING",
