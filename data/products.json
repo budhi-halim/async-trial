@@ -3556,13 +3556,13 @@
   },
   {
     "product_name": "BEEF MUSHROOM PREMIX",
-    "product_code": "31201531",
-    "marketing_price": "4.35"
-  },
-  {
-    "product_name": "BEEF MUSHROOM PREMIX",
     "product_code": "31201704",
     "marketing_price": ""
+  },
+  {
+    "product_name": "BEEF MUSHROOM PREMIX / PB-SJ-531",
+    "product_code": "31201531",
+    "marketing_price": "4.35"
   },
   {
     "product_name": "BEEF MUSHROOM RAMYUN SEASONING",
@@ -6877,6 +6877,16 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503392",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503395",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503396",
     "marketing_price": ""
   },
   {
@@ -10475,12 +10485,12 @@
     "marketing_price": ""
   },
   {
-    "product_name": "DRY LEEK / DR SM 03",
+    "product_name": "DRY LEEK / DRIED FOOD SPI DL 608",
     "product_code": "01",
     "marketing_price": "9"
   },
   {
-    "product_name": "DRY LEEK / DRIED FOOD SPI DL 608",
+    "product_name": "DRY LEEK / PB-DL-764",
     "product_code": "01",
     "marketing_price": "9"
   },
@@ -13115,11 +13125,6 @@
     "marketing_price": "7.20"
   },
   {
-    "product_name": "HVP WCI / HV SM 06",
-    "product_code": "HVP WCI",
-    "marketing_price": "2.3"
-  },
-  {
     "product_name": "HVP WCI / HVP B",
     "product_code": "HVP WCI",
     "marketing_price": "2.3"
@@ -13131,6 +13136,11 @@
   },
   {
     "product_name": "HVP WCI / P3 IS",
+    "product_code": "HVP WCI",
+    "marketing_price": "2.3"
+  },
+  {
+    "product_name": "HVP WCI / PB-HV-814",
     "product_code": "HVP WCI",
     "marketing_price": "2.3"
   },
@@ -17002,6 +17012,11 @@
   {
     "product_name": "MIE GORENG YAKISOBA SEASONING",
     "product_code": "31301678",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE KARE MEGGIE SEASONING",
+    "product_code": "31408100",
     "marketing_price": ""
   },
   {
@@ -24347,7 +24362,7 @@
   {
     "product_name": "SATE PADANG SEASONING",
     "product_code": "31408099",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SATE SEASONING",
@@ -26790,12 +26805,12 @@
     "marketing_price": "5.2"
   },
   {
-    "product_name": "SOY SAUCE POWDER / S1 IS",
+    "product_name": "SOY SAUCE POWDER / PB-KP-800",
     "product_code": "W-800",
     "marketing_price": "3.5"
   },
   {
-    "product_name": "SOY SAUCE POWDER / SS SM 05",
+    "product_name": "SOY SAUCE POWDER / S1 IS",
     "product_code": "W-800",
     "marketing_price": "3.5"
   },
@@ -29790,14 +29805,14 @@
     "marketing_price": "6.72"
   },
   {
+    "product_name": "TOASTED ONION POWDER / PB-OT-745",
+    "product_code": "A-820 B",
+    "marketing_price": "5.97"
+  },
+  {
     "product_name": "TOASTED ONION POWDER / PREMIX FOOD STT TO 014",
     "product_code": "A-802",
     "marketing_price": "8.9"
-  },
-  {
-    "product_name": "TOASTED ONION POWDER / T.O SM 01",
-    "product_code": "A-820 B",
-    "marketing_price": "5.97"
   },
   {
     "product_name": "TOASTED ONION POWDER / TB4",
@@ -30235,7 +30250,7 @@
     "marketing_price": "4.2"
   },
   {
-    "product_name": "TOMATO SEASONING / TOM SM 03",
+    "product_name": "TOMATO SEASONING / PB-BT-649",
     "product_code": "31801649",
     "marketing_price": "4.1"
   },
@@ -30840,12 +30855,12 @@
     "marketing_price": "0"
   },
   {
-    "product_name": "YEAST EXTRACT POWDER / SPU 010302 YE",
+    "product_name": "YEAST EXTRACT POWDER / PB-JE-596",
     "product_code": "MT-105737",
     "marketing_price": "10.5"
   },
   {
-    "product_name": "YEAST EXTRACT POWDER / Y SM 04",
+    "product_name": "YEAST EXTRACT POWDER / SPU 010302 YE",
     "product_code": "MT-105737",
     "marketing_price": "10.5"
   },
