@@ -4085,6 +4085,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "BRAISED ORIENTAL STYLE PASTE",
+    "product_code": "34400503",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BRANDY",
     "product_code": "61.8004",
     "marketing_price": "0"
@@ -6027,7 +6032,7 @@
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503387",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHEESE POWDER",
@@ -10220,6 +10225,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CREAMY SEBLAK SEASONING",
+    "product_code": "31503397",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CUKA PEDAS SEASONING",
     "product_code": "31405261",
     "marketing_price": "3.5"
@@ -10483,6 +10493,11 @@
     "product_name": "DRIED FISH CAKE",
     "product_code": "31301581",
     "marketing_price": ""
+  },
+  {
+    "product_name": "DRY LEEK / DR SM 03",
+    "product_code": "01",
+    "marketing_price": "9"
   },
   {
     "product_name": "DRY LEEK / DRIED FOOD SPI DL 608",
@@ -13123,6 +13138,11 @@
     "product_name": "HVP POWDER / PREMIX FOOD SPI HP 039 I",
     "product_code": "MT-627037",
     "marketing_price": "7.20"
+  },
+  {
+    "product_name": "HVP WCI / HV SM 06",
+    "product_code": "HVP WCI",
+    "marketing_price": "2.3"
   },
   {
     "product_name": "HVP WCI / HVP B",
@@ -19725,6 +19745,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "RICA-RICA PASTA",
+    "product_code": "34400502",
+    "marketing_price": ""
+  },
+  {
     "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400446",
     "marketing_price": "8.60"
@@ -25286,6 +25311,16 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301725",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
+    "product_code": "31301726",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -25828,11 +25863,6 @@
     "product_name": "SMOKE OIL",
     "product_code": "MT-841254",
     "marketing_price": "0"
-  },
-  {
-    "product_name": "SMOKE OIL / SPU 091901 SF",
-    "product_code": "MT-279654",
-    "marketing_price": "10.75"
   },
   {
     "product_name": "SMOKE PAPRIKA",
@@ -26815,6 +26845,11 @@
     "marketing_price": "3.5"
   },
   {
+    "product_name": "SOY SAUCE POWDER / SS SM 05",
+    "product_code": "W-800",
+    "marketing_price": "3.5"
+  },
+  {
     "product_name": "SOY SAUCE SEASONING",
     "product_code": "31700505",
     "marketing_price": "0"
@@ -27107,6 +27142,11 @@
   {
     "product_name": "SPICY CURRY SEASONING",
     "product_code": "31408013",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY CURRY SEASONING",
+    "product_code": "31408101",
     "marketing_price": ""
   },
   {
@@ -27753,6 +27793,16 @@
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408078",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SRIRACHA SEASONING",
+    "product_code": "31408103",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SRIRACHA SEASONING",
+    "product_code": "31408104",
+    "marketing_price": ""
   },
   {
     "product_name": "SRIRACHA SEASONING / MPS Pang Sriracha",
@@ -29820,6 +29870,11 @@
     "marketing_price": "5.97"
   },
   {
+    "product_name": "TOASTED ONION POWDER / TO SM 01",
+    "product_code": "A-820 B",
+    "marketing_price": "5.97"
+  },
+  {
     "product_name": "TOASTED ONION POWDER / Toasted Onion Powder",
     "product_code": "A-820",
     "marketing_price": "7.67"
@@ -30251,6 +30306,11 @@
   },
   {
     "product_name": "TOMATO SEASONING / PB-BT-649",
+    "product_code": "31801649",
+    "marketing_price": "4.1"
+  },
+  {
+    "product_name": "TOMATO SEASONING / TOM SM 03",
     "product_code": "31801649",
     "marketing_price": "4.1"
   },
@@ -30861,6 +30921,11 @@
   },
   {
     "product_name": "YEAST EXTRACT POWDER / SPU 010302 YE",
+    "product_code": "MT-105737",
+    "marketing_price": "10.5"
+  },
+  {
+    "product_name": "YEAST EXTRACT POWDER / Y SM 04",
     "product_code": "MT-105737",
     "marketing_price": "10.5"
   },
