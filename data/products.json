@@ -682,7 +682,7 @@
   {
     "product_name": "AYAM BAWANG SEASONING",
     "product_code": "31103076",
-    "marketing_price": ""
+    "marketing_price": "4.25"
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
@@ -3412,7 +3412,7 @@
   {
     "product_name": "BBQ SEASONING / BQ 91",
     "product_code": "31408011",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "BBQ SEASONING / JUN XI",
@@ -4352,7 +4352,7 @@
   {
     "product_name": "BULDAK HOT CHICKEN FLAVOUR SAUCE",
     "product_code": "35100004",
-    "marketing_price": "0"
+    "marketing_price": "6.20"
   },
   {
     "product_name": "BULDAK POWDER",
@@ -9590,6 +9590,11 @@
     "marketing_price": "34000"
   },
   {
+    "product_name": "COKLAT CAPPUCINO SEASONING",
+    "product_code": "31503399",
+    "marketing_price": ""
+  },
+  {
     "product_name": "COKLAT KACANG SEASONING",
     "product_code": "31501871",
     "marketing_price": "2.8"
@@ -13882,7 +13887,7 @@
   {
     "product_name": "JAPANESE CURRY SEASONING",
     "product_code": "31408090",
-    "marketing_price": ""
+    "marketing_price": "11.50"
   },
   {
     "product_name": "JAPANESE HAMBURG SEASONING",
@@ -15007,7 +15012,7 @@
   {
     "product_name": "KARI AYAM SEASONING",
     "product_code": "31408007",
-    "marketing_price": ""
+    "marketing_price": "4.75"
   },
   {
     "product_name": "KARI AYAM SEASONING",
@@ -17012,12 +17017,12 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408019",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408029",
-    "marketing_price": ""
+    "marketing_price": "4.15"
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -21352,7 +21357,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "D-104",
-    "marketing_price": "5.75"
+    "marketing_price": "5.50"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -26172,7 +26177,7 @@
   {
     "product_name": "SOTO AYAM SEASONING",
     "product_code": "31408008",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "SOTO BETAWI PASTA",
@@ -26852,7 +26857,7 @@
   {
     "product_name": "SOY SAUCE POWDER / M 202290",
     "product_code": "31700492",
-    "marketing_price": "2.35"
+    "marketing_price": "2.30"
   },
   {
     "product_name": "SOY SAUCE POWDER / MAIN FOOD SPI SS 249 I",
@@ -27172,6 +27177,11 @@
   {
     "product_name": "SPICY CURRY SEASONING",
     "product_code": "31408101",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY CURRY SEASONING",
+    "product_code": "31408105",
     "marketing_price": ""
   },
   {
@@ -29947,7 +29957,7 @@
   {
     "product_name": "TOM YUM PASTA",
     "product_code": "34400492",
-    "marketing_price": ""
+    "marketing_price": "5.90"
   },
   {
     "product_name": "TOM YUM PASTA / Tom Yum Pasta A-01",
@@ -30927,7 +30937,7 @@
   {
     "product_name": "YEAST EXTRACT POWDER",
     "product_code": "31700383",
-    "marketing_price": "6"
+    "marketing_price": "9.20"
   },
   {
     "product_name": "YEAST EXTRACT POWDER",
