@@ -3706,6 +3706,11 @@
   },
   {
     "product_name": "BEEF POWDER",
+    "product_code": "31201712",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "BEEF POWDER",
     "product_code": "31202998",
     "marketing_price": ""
   },
@@ -4827,7 +4832,7 @@
   {
     "product_name": "BUMBU SAYUR LODEH",
     "product_code": "31408061",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BUMBU SEMUR AYAM",
@@ -10247,6 +10252,11 @@
   {
     "product_name": "CREAMY SEBLAK SEASONING",
     "product_code": "31503397",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CREAMY SEBLAK SEASONING",
+    "product_code": "31503400",
     "marketing_price": ""
   },
   {
@@ -16097,7 +16107,7 @@
   {
     "product_name": "MALA POWDER TO PASTE",
     "product_code": "31407992",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MALA SEASONING",
@@ -26960,8 +26970,23 @@
     "marketing_price": "3.8"
   },
   {
+    "product_name": "SPICE BEEF MIX SEASONING",
+    "product_code": "31408111",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICE CHICKEN MIX SEASONING",
+    "product_code": "31408108",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SPICE MIX POWDER",
     "product_code": "31407211",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICE MIX SEASONING",
+    "product_code": "31408110",
     "marketing_price": ""
   },
   {
