@@ -451,6 +451,11 @@
   },
   {
     "product_name": "AYAM BAKAR SEASONING",
+    "product_code": "31103090",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAKAR SEASONING",
     "product_code": "MT-1206841-0",
     "marketing_price": "2.75"
   },
@@ -1946,6 +1951,11 @@
   },
   {
     "product_name": "BALADO SEASONING",
+    "product_code": "31408106",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
     "product_code": "E-501",
     "marketing_price": "2.1"
   },
@@ -3257,7 +3267,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408070",
-    "marketing_price": ""
+    "marketing_price": "3.95"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -4890,11 +4900,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "BUTTER COOKIEAS SEASONING",
-    "product_code": "31503221",
-    "marketing_price": "5.95"
-  },
-  {
     "product_name": "BUTTER COOKIES SEASONING",
     "product_code": "31503127",
     "marketing_price": "0"
@@ -4903,6 +4908,11 @@
     "product_name": "BUTTER COOKIES SEASONING",
     "product_code": "31503128",
     "marketing_price": "6.2"
+  },
+  {
+    "product_name": "BUTTER COOKIES SEASONING",
+    "product_code": "31503221",
+    "marketing_price": "5.95"
   },
   {
     "product_name": "BUTTER COOKIES SEASONING",
@@ -9386,6 +9396,11 @@
   },
   {
     "product_name": "COCOPANDAN SEASONING",
+    "product_code": "31900695",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COCOPANDAN SEASONING",
     "product_code": "MT-1108949-0",
     "marketing_price": "2.8"
   },
@@ -10457,7 +10472,7 @@
   {
     "product_name": "DENDENG BBQ SEASONING",
     "product_code": "31408074",
-    "marketing_price": "0"
+    "marketing_price": "4.35"
   },
   {
     "product_name": "DIANA CHEESE & ONION SEASONING",
@@ -10838,6 +10853,11 @@
     "product_name": "FIVE SPICES POWDER",
     "product_code": "31406967",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "FLAMMING HOT SEASONING",
+    "product_code": "31408113",
+    "marketing_price": ""
   },
   {
     "product_name": "FLAVOUR COFFEE",
@@ -16460,6 +16480,11 @@
     "marketing_price": "4.95"
   },
   {
+    "product_name": "MATCHA POWDER",
+    "product_code": "31503401",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MATCHA PUDDING",
     "product_code": "53700016",
     "marketing_price": "5.5"
@@ -17072,6 +17097,11 @@
   {
     "product_name": "MIE KARE MEGGIE SEASONING",
     "product_code": "31408100",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE KARE MEGGIE SEASONING",
+    "product_code": "31408112",
     "marketing_price": ""
   },
   {
@@ -19468,6 +19498,16 @@
     "product_name": "Pizza Seasoning",
     "product_code": "31406649",
     "marketing_price": "11.3"
+  },
+  {
+    "product_name": "RA.AH02.01",
+    "product_code": "RA.AH02.01",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RA.AH05.01",
+    "product_code": "RA.AH05.01",
+    "marketing_price": ""
   },
   {
     "product_name": "RAMEN KALDU AYAM SEASONING",
@@ -23602,7 +23642,7 @@
   {
     "product_name": "SAMBAL MATAH SEASONING / BALINESE CHILI & KAFFIR LIME SEASONING RSCB0001",
     "product_code": "31408091",
-    "marketing_price": ""
+    "marketing_price": "5.50"
   },
   {
     "product_name": "SAMBAL NANAS SEASONING",
@@ -24417,6 +24457,11 @@
   {
     "product_name": "SATE MARANGGI SEASONING",
     "product_code": "31407456",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SATE PADANG POWDER",
+    "product_code": "31408107",
     "marketing_price": ""
   },
   {
@@ -25361,6 +25406,16 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301728",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
+    "product_code": "31301729",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31302849",
     "marketing_price": ""
   },
@@ -25903,6 +25958,11 @@
     "product_name": "SMOKE OIL",
     "product_code": "MT-841254",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SMOKE OIL / SPU 091901 SF",
+    "product_code": "MT-279654",
+    "marketing_price": "10.75"
   },
   {
     "product_name": "SMOKE PAPRIKA",
@@ -27512,7 +27572,7 @@
   {
     "product_name": "SPICY SMOKE BEEF SEASONING",
     "product_code": "31201714",
-    "marketing_price": ""
+    "marketing_price": "3.95"
   },
   {
     "product_name": "SPICY SMOKE BEEF SEASONING",
@@ -27732,7 +27792,7 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31407228",
-    "marketing_price": "0"
+    "marketing_price": "4.75"
   },
   {
     "product_name": "SRIRACHA SEASONING",
@@ -27852,7 +27912,7 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408078",
-    "marketing_price": "0"
+    "marketing_price": "4.90"
   },
   {
     "product_name": "SRIRACHA SEASONING",
@@ -27862,6 +27922,11 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408104",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SRIRACHA SEASONING",
+    "product_code": "31408109",
     "marketing_price": ""
   },
   {
@@ -28052,6 +28117,16 @@
   {
     "product_name": "STRAWBERRY SEASONING",
     "product_code": "31900689",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "STRAWBERRY SEASONING",
+    "product_code": "31900696",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "STRAWBERRY SEASONING",
+    "product_code": "31900697",
     "marketing_price": ""
   },
   {
@@ -30526,6 +30601,11 @@
   },
   {
     "product_name": "TUTTY FRUTTI SEASONING",
+    "product_code": "31900694",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "TUTTY FRUTTI SEASONING",
     "product_code": "MT-1105009-1",
     "marketing_price": "3.8"
   },
@@ -30582,6 +30662,11 @@
   {
     "product_name": "UDANG BAKAR SEASONING",
     "product_code": "31301664",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "UDANG BAKAR SEASONING",
+    "product_code": "31301727",
     "marketing_price": ""
   },
   {
