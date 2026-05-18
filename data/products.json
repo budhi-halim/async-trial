@@ -11641,6 +11641,11 @@
   },
   {
     "product_name": "GARLIC POWDER",
+    "product_code": "31802705",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC POWDER",
     "product_code": "918 CA",
     "marketing_price": "0"
   },
@@ -19835,6 +19840,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "RICA-RICA PASTA",
+    "product_code": "34400504",
+    "marketing_price": ""
+  },
+  {
     "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400446",
     "marketing_price": "8.60"
@@ -25417,6 +25427,11 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301729",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
+    "product_code": "31301730",
     "marketing_price": ""
   },
   {
