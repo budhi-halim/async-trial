@@ -991,6 +991,11 @@
   },
   {
     "product_name": "AYAM RICA-RICA SEASONING",
+    "product_code": "31408117",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM RICA-RICA SEASONING",
     "product_code": "MT-1300834-1",
     "marketing_price": "6.7"
   },
@@ -3567,7 +3572,7 @@
   {
     "product_name": "BEEF JERKY SEASONING",
     "product_code": "31201715",
-    "marketing_price": "0"
+    "marketing_price": "4.15"
   },
   {
     "product_name": "BEEF JERKY SEASONING",
@@ -4252,7 +4257,7 @@
   {
     "product_name": "BREADING PREMIX",
     "product_code": "31802687",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BREADING PREMIX",
@@ -4493,6 +4498,11 @@
     "product_name": "BUMBU AYAM SEMUR",
     "product_code": "44400199",
     "marketing_price": "75000"
+  },
+  {
+    "product_name": "BUMBU AYAM WOKU",
+    "product_code": "34400505",
+    "marketing_price": ""
   },
   {
     "product_name": "BUMBU BACEM",
@@ -10755,11 +10765,6 @@
     "marketing_price": "8"
   },
   {
-    "product_name": "FANCY ONION POWDER",
-    "product_code": "31802254",
-    "marketing_price": "6.35"
-  },
-  {
     "product_name": "FANCY SWEET CARAMEL SEASONING",
     "product_code": "31503044",
     "marketing_price": ""
@@ -10857,6 +10862,11 @@
   {
     "product_name": "FLAMMING HOT SEASONING",
     "product_code": "31408113",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "FLAMMING HOT SEASONING",
+    "product_code": "31408120",
     "marketing_price": ""
   },
   {
@@ -16685,6 +16695,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "MEATY GARLIC POWDER",
+    "product_code": "31802706",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MEATY GARLIC POWDER / MG11.01.127",
     "product_code": "08-0127",
     "marketing_price": "3.5"
@@ -17882,6 +17897,11 @@
   {
     "product_name": "ONION & CHIVES SEASONING",
     "product_code": "31802703",
+    "marketing_price": "5.30"
+  },
+  {
+    "product_name": "ONION & CHIVES SEASONING",
+    "product_code": "31802707",
     "marketing_price": ""
   },
   {
@@ -19837,7 +19857,7 @@
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400502",
-    "marketing_price": ""
+    "marketing_price": "3.50"
   },
   {
     "product_name": "RICA-RICA PASTA",
@@ -23211,6 +23231,11 @@
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408123",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "C-006",
     "marketing_price": "2.65"
   },
@@ -24482,7 +24507,7 @@
   {
     "product_name": "SATE PADANG SEAS",
     "product_code": "31408081",
-    "marketing_price": "0"
+    "marketing_price": "4.50"
   },
   {
     "product_name": "SATE PADANG SEASONING",
@@ -25033,11 +25058,6 @@
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301250",
     "marketing_price": "5.9"
-  },
-  {
-    "product_name": "SEAWEED SEASONING",
-    "product_code": "31301299",
-    "marketing_price": "3"
   },
   {
     "product_name": "SEAWEED SEASONING",
@@ -26087,12 +26107,12 @@
   {
     "product_name": "SMOKIN BBQ SEASONING",
     "product_code": "31408053",
-    "marketing_price": ""
+    "marketing_price": "5.75"
   },
   {
     "product_name": "SMOKIN BBQ SEASONING",
     "product_code": "31408054",
-    "marketing_price": ""
+    "marketing_price": "5.95"
   },
   {
     "product_name": "SMOKY BBQ SEASONING",
@@ -26610,11 +26630,6 @@
     "marketing_price": "0"
   },
   {
-    "product_name": "SOUR CREAM & ONION  SEASONING",
-    "product_code": "31502786",
-    "marketing_price": "4.75"
-  },
-  {
     "product_name": "SOUR CREAM & ONION SEAS",
     "product_code": "31503146",
     "marketing_price": "0"
@@ -26667,12 +26682,7 @@
   {
     "product_name": "SOUR CREAM & ONION SEASONING",
     "product_code": "31802701",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SOUR CREAM & ONION SEASONING",
-    "product_code": "31802704",
-    "marketing_price": ""
+    "marketing_price": "4.85"
   },
   {
     "product_name": "SOUR CREAM & ONION VEGAN SEASONING",
@@ -27293,11 +27303,6 @@
     "product_name": "SPICY HEAT SEAS",
     "product_code": "31406212",
     "marketing_price": "3.3"
-  },
-  {
-    "product_name": "SPICY HEAT SEASONING / JUN XLII A",
-    "product_code": "31406393",
-    "marketing_price": "2.8"
   },
   {
     "product_name": "SPICY HERBS SEASONING",
@@ -27942,11 +27947,21 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408104",
-    "marketing_price": ""
+    "marketing_price": "4.70"
   },
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408109",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SRIRACHA SEASONING",
+    "product_code": "31408118",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SRIRACHA SEASONING",
+    "product_code": "31408119",
     "marketing_price": ""
   },
   {
@@ -27977,7 +27992,7 @@
   {
     "product_name": "STEAK BBQ SEASONING",
     "product_code": "31408077",
-    "marketing_price": "0"
+    "marketing_price": "4.25"
   },
   {
     "product_name": "STRAWBERRY",
@@ -29257,6 +29272,11 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31603081",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN SEASONING",
+    "product_code": "31603084",
     "marketing_price": ""
   },
   {
@@ -31098,6 +31118,11 @@
     "product_name": "YEAST EXTRACT POWDER / YE",
     "product_code": "MT-105737",
     "marketing_price": "10.5"
+  },
+  {
+    "product_name": "YELLOW CURRY SEASONING",
+    "product_code": "31408121",
+    "marketing_price": ""
   },
   {
     "product_name": "YOGHURT SEASONING",
