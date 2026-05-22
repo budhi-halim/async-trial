@@ -1417,7 +1417,7 @@
   {
     "product_name": "BALADO PADANG SEASONING",
     "product_code": "31407910",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BALADO PADANG SEASONING",
@@ -5852,7 +5852,7 @@
   {
     "product_name": "CHEESE BUTTER SEASONING",
     "product_code": "31503177",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHEESE DIPPING SAUCE",
@@ -7187,6 +7187,11 @@
   {
     "product_name": "CHICKEN BBQ SEASONING",
     "product_code": "31102996",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN BBQ SEASONING",
+    "product_code": "31103091",
     "marketing_price": ""
   },
   {
@@ -10782,7 +10787,7 @@
   {
     "product_name": "FIERY CHEESE SEASONING",
     "product_code": "31503286",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "FILLING CREAM CHEESE",
@@ -12218,6 +12223,11 @@
     "product_name": "GREEN CHILLI SEASONING",
     "product_code": "31405450",
     "marketing_price": "8.2"
+  },
+  {
+    "product_name": "GREEN CURRY SEASONING",
+    "product_code": "31408124",
+    "marketing_price": ""
   },
   {
     "product_name": "GREEN TEA",
