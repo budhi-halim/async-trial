@@ -12645,6 +12645,11 @@
     "marketing_price": "5.70"
   },
   {
+    "product_name": "HONEY BUTTER PREMIX",
+    "product_code": "31503403",
+    "marketing_price": ""
+  },
+  {
     "product_name": "HONEY BUTTER SEA SALT SEASONING",
     "product_code": "31503077",
     "marketing_price": "0"
@@ -12677,6 +12682,11 @@
   {
     "product_name": "HONEY BUTTER SEASONING",
     "product_code": "31503326",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HONEY BUTTER SEASONING",
+    "product_code": "31503402",
     "marketing_price": ""
   },
   {
@@ -19862,6 +19872,16 @@
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400504",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RICA-RICA PASTA",
+    "product_code": "34400506",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RICA-RICA PASTA",
+    "product_code": "34400507",
     "marketing_price": ""
   },
   {
