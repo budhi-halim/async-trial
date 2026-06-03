@@ -996,6 +996,11 @@
   },
   {
     "product_name": "AYAM RICA-RICA SEASONING",
+    "product_code": "31408126",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM RICA-RICA SEASONING",
     "product_code": "MT-1300834-1",
     "marketing_price": "6.7"
   },
@@ -2128,6 +2133,11 @@
     "product_name": "BALADO SEASONING / SA-02",
     "product_code": "MT-283914",
     "marketing_price": "4.3"
+  },
+  {
+    "product_name": "BALADO SEASONING / SAMBAL BALADO SEAS 31406676",
+    "product_code": "MT-169214 N",
+    "marketing_price": "2.3"
   },
   {
     "product_name": "BALADO SEASONING / SAMBAL BALADO SUPER",
@@ -13950,6 +13960,11 @@
     "marketing_price": "11.50"
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408128",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -18597,6 +18612,11 @@
   {
     "product_name": "OSENG-OSENG MERCON SAPI SEASONING",
     "product_code": "31201717",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "OSENG-OSENG MERCON SAPI SEASONING",
+    "product_code": "31408127",
     "marketing_price": ""
   },
   {
@@ -23692,6 +23712,11 @@
   {
     "product_name": "SAMBAL MATAH SEASONING",
     "product_code": "31408092",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL MATAH SEASONING",
+    "product_code": "31408129",
     "marketing_price": ""
   },
   {
