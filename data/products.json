@@ -1035,6 +1035,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "AYAM SZECHUAN SEASONING",
+    "product_code": "31103092",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BABY SILKY PUDDING POWDER",
     "product_code": "33240011",
     "marketing_price": ""
@@ -8970,6 +8975,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CHOCO BANANA POWDER",
+    "product_code": "31503405",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHOCO BANANA SEASONING",
     "product_code": "31501912",
     "marketing_price": "3"
@@ -9245,6 +9255,11 @@
     "marketing_price": "3.2"
   },
   {
+    "product_name": "CHOCOMALT POWDER",
+    "product_code": "31503406",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHOCOMALT SEASONING",
     "product_code": "31503365",
     "marketing_price": "4.0"
@@ -9272,6 +9287,11 @@
   {
     "product_name": "CINNAMON BROWN SUGAR SEASONING",
     "product_code": "31503274",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CINNAMON POWDER",
+    "product_code": "31503404",
     "marketing_price": ""
   },
   {
@@ -10880,6 +10900,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "FLAMMING HOT SEASONING",
+    "product_code": "31408130",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "FLAMMING HOT SEASONING",
+    "product_code": "31408131",
+    "marketing_price": ""
+  },
+  {
     "product_name": "FLAVOUR COFFEE",
     "product_code": "SCF-29829",
     "marketing_price": "0"
@@ -11282,6 +11312,11 @@
   {
     "product_name": "GARLIC BBQ SEASONING",
     "product_code": "31802475",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC BBQ SEASONING",
+    "product_code": "31802708",
     "marketing_price": ""
   },
   {
@@ -15131,6 +15166,11 @@
   },
   {
     "product_name": "KARI OIL",
+    "product_code": "35400115",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KARI OIL",
     "product_code": "MT-182754",
     "marketing_price": "6.2"
   },
@@ -15142,6 +15182,16 @@
   {
     "product_name": "KARI PASTA",
     "product_code": "35400098",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KARI POWDER",
+    "product_code": "31408114",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KARI POWDER",
+    "product_code": "31408116",
     "marketing_price": ""
   },
   {
@@ -24970,6 +25020,11 @@
     "marketing_price": "4.25"
   },
   {
+    "product_name": "SEAWEED BBQ SEASONING",
+    "product_code": "31301731",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SEAWEED BULDAK POWDER",
     "product_code": "31301672",
     "marketing_price": "5"
@@ -26098,6 +26153,11 @@
     "product_name": "SMOKEHOUSE BBQ SEASONING",
     "product_code": "31408032",
     "marketing_price": "6.50"
+  },
+  {
+    "product_name": "SMOKEHOUSE BBQ SEASONING",
+    "product_code": "31408132",
+    "marketing_price": ""
   },
   {
     "product_name": "SMOKEY RIBS PREMIX",
