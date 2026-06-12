@@ -6872,7 +6872,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503328",
-    "marketing_price": "0"
+    "marketing_price": "22.0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -7717,7 +7717,7 @@
   {
     "product_name": "CHICKEN POWDER EXTRACT",
     "product_code": "31102920",
-    "marketing_price": "0"
+    "marketing_price": "8.50"
   },
   {
     "product_name": "CHICKEN POWDER EXTRACT",
@@ -10897,7 +10897,7 @@
   {
     "product_name": "FLAMMING HOT SEASONING",
     "product_code": "31408120",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "FLAMMING HOT SEASONING",
@@ -11697,7 +11697,7 @@
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802705",
-    "marketing_price": ""
+    "marketing_price": "3.50"
   },
   {
     "product_name": "GARLIC POWDER",
@@ -16900,6 +16900,11 @@
     "marketing_price": "6.2"
   },
   {
+    "product_name": "MIE GORENG OIL",
+    "product_code": "35400116",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MIE GORENG PASTA",
     "product_code": "34400372",
     "marketing_price": "9.20"
@@ -19952,17 +19957,17 @@
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400504",
-    "marketing_price": ""
+    "marketing_price": "3.35"
   },
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400506",
-    "marketing_price": ""
+    "marketing_price": "3.50"
   },
   {
     "product_name": "RICA-RICA PASTA",
     "product_code": "34400507",
-    "marketing_price": ""
+    "marketing_price": "3.65"
   },
   {
     "product_name": "RICA-RICA PASTA / TOM YUM",
@@ -27172,12 +27177,12 @@
   {
     "product_name": "SPICE BEEF MIX SEASONING",
     "product_code": "31408111",
-    "marketing_price": ""
+    "marketing_price": "2.30"
   },
   {
     "product_name": "SPICE CHICKEN MIX SEASONING",
     "product_code": "31408108",
-    "marketing_price": ""
+    "marketing_price": "2.35"
   },
   {
     "product_name": "SPICE MIX POWDER",
@@ -27187,7 +27192,7 @@
   {
     "product_name": "SPICE MIX SEASONING",
     "product_code": "31408110",
-    "marketing_price": ""
+    "marketing_price": "3.25"
   },
   {
     "product_name": "SPICE MIX SEASONING / SA-09",
@@ -28021,11 +28026,6 @@
   },
   {
     "product_name": "SRIRACHA SEASONING",
-    "product_code": "31407621",
-    "marketing_price": "4.10"
-  },
-  {
-    "product_name": "SRIRACHA SEASONING",
     "product_code": "31407622",
     "marketing_price": ""
   },
@@ -28051,11 +28051,6 @@
   },
   {
     "product_name": "SRIRACHA SEASONING",
-    "product_code": "31408103",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "SRIRACHA SEASONING",
     "product_code": "31408104",
     "marketing_price": "4.70"
   },
@@ -28067,12 +28062,12 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408118",
-    "marketing_price": ""
+    "marketing_price": "5.0"
   },
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408119",
-    "marketing_price": ""
+    "marketing_price": "5.0"
   },
   {
     "product_name": "SRIRACHA SEASONING",
@@ -29392,7 +29387,7 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31603081",
-    "marketing_price": ""
+    "marketing_price": "2.50"
   },
   {
     "product_name": "SWEET CORN SEASONING",
