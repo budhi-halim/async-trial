@@ -10215,6 +10215,11 @@
     "marketing_price": "6.75"
   },
   {
+    "product_name": "COUNTRY STYLE BBQ SEASONING",
+    "product_code": "31408142",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CRAB POWDER",
     "product_code": "MT-735833",
     "marketing_price": "0"
@@ -19871,6 +19876,11 @@
   },
   {
     "product_name": "RENDANG SEASONING",
+    "product_code": "31408140",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RENDANG SEASONING",
     "product_code": "MT-1204194-1",
     "marketing_price": "3.65"
   },
@@ -28746,6 +28756,11 @@
   },
   {
     "product_name": "SWEET CORN POWDER",
+    "product_code": "31603086",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN POWDER",
     "product_code": "MT-3633",
     "marketing_price": "5.75"
   },
@@ -30022,6 +30037,11 @@
   {
     "product_name": "THAI SEAFOOD BBQ SEASONING",
     "product_code": "31408083",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "THAI SEAFOOD BBQ SEASONING",
+    "product_code": "31408141",
     "marketing_price": ""
   },
   {
