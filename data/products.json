@@ -3665,6 +3665,11 @@
     "marketing_price": "19.5"
   },
   {
+    "product_name": "BEEF PHO SEASONING",
+    "product_code": "31201709",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BEEF POWDER",
     "product_code": "31201474",
     "marketing_price": "18.0"
@@ -16380,6 +16385,11 @@
     "marketing_price": "3.6"
   },
   {
+    "product_name": "MARINATION POWDER / TEPUNG MERAH",
+    "product_code": "31406357",
+    "marketing_price": "3.7"
+  },
+  {
     "product_name": "MARINATION SEAS",
     "product_code": "31407303",
     "marketing_price": "3.30"
@@ -17183,6 +17193,11 @@
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408052",
     "marketing_price": "4.70"
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408137",
+    "marketing_price": ""
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -26190,6 +26205,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SMOKEHOUSE BBQ SEASONING",
+    "product_code": "31408143",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SMOKEY RIBS PREMIX",
     "product_code": "31406722",
     "marketing_price": ""
@@ -30888,6 +30908,11 @@
     "product_name": "UDANG PREMIX",
     "product_code": "MT-740133",
     "marketing_price": "7.5"
+  },
+  {
+    "product_name": "UDANG SAOS PADANG",
+    "product_code": "31301272",
+    "marketing_price": "0"
   },
   {
     "product_name": "UDANG SEASONING",
