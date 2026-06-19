@@ -315,6 +315,11 @@
     "marketing_price": "6.75"
   },
   {
+    "product_name": "AYAM BAKAR PASTA",
+    "product_code": "34400136",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "AYAM BAKAR PEDAS SEASONING",
     "product_code": "31102889",
     "marketing_price": ""
@@ -16800,14 +16805,14 @@
     "marketing_price": ""
   },
   {
-    "product_name": "MEATY GARLIC POWDER",
-    "product_code": "31802709",
-    "marketing_price": ""
-  },
-  {
     "product_name": "MEATY GARLIC POWDER / MG11.01.127",
     "product_code": "08-0127",
     "marketing_price": "3.5"
+  },
+  {
+    "product_name": "MEATY GARLIC POWDER / MG11.02.709",
+    "product_code": "31802709",
+    "marketing_price": ""
   },
   {
     "product_name": "MELLO TOASTED ONION POWDER / MC-I-IDS P04",
