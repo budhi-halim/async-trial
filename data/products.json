@@ -10230,6 +10230,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CRAB OIL",
+    "product_code": "38300001",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CRAB POWDER",
     "product_code": "MT-735833",
     "marketing_price": "0"
@@ -11183,6 +11188,11 @@
     "product_name": "FRIED ONION OIL / Booster-A",
     "product_code": "MT-107358 A",
     "marketing_price": "4.75"
+  },
+  {
+    "product_name": "FRIED ONION PASTA",
+    "product_code": "34800028",
+    "marketing_price": ""
   },
   {
     "product_name": "FRIED ONION SEASONING",
@@ -12282,6 +12292,11 @@
   {
     "product_name": "GREEN CURRY SEASONING",
     "product_code": "31408124",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GREEN CURRY SEASONING",
+    "product_code": "31408144",
     "marketing_price": ""
   },
   {
@@ -30871,6 +30886,16 @@
   },
   {
     "product_name": "UDANG BAKAR SEASONING",
+    "product_code": "31301732",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "UDANG BAKAR SEASONING",
+    "product_code": "31301733",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "UDANG BAKAR SEASONING",
     "product_code": "MT-1107603-0",
     "marketing_price": "3.2"
   },
@@ -31293,6 +31318,11 @@
     "product_name": "YELLOW CURRY SEASONING",
     "product_code": "31408125",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "YELLOW CURRY SEASONING",
+    "product_code": "31408145",
+    "marketing_price": ""
   },
   {
     "product_name": "YOGHURT SEASONING",
