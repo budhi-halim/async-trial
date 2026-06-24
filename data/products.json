@@ -6961,6 +6961,11 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503407",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -7217,6 +7222,11 @@
   {
     "product_name": "CHICKEN BBQ SEASONING",
     "product_code": "31103091",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN BBQ SEASONING",
+    "product_code": "31103093",
     "marketing_price": ""
   },
   {
@@ -12696,6 +12706,11 @@
   },
   {
     "product_name": "HONEY BBQ SEASONING",
+    "product_code": "31408148",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HONEY BBQ SEASONING",
     "product_code": "31502393",
     "marketing_price": "9.6"
   },
@@ -14030,6 +14045,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JAPANESE CURRY SEASONING",
+    "product_code": "31408147",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JAPANESE HAMBURG SEASONING",
     "product_code": "31407916",
     "marketing_price": "0"
@@ -14121,16 +14141,6 @@
   },
   {
     "product_name": "JASUKE SEASONING",
-    "product_code": "31603044",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "JASUKE SEASONING",
-    "product_code": "31603046",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "JASUKE SEASONING",
     "product_code": "31603047",
     "marketing_price": ""
   },
@@ -14142,11 +14152,6 @@
   {
     "product_name": "JASUKE SEASONING",
     "product_code": "31603050",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "JASUKE SEASONING",
-    "product_code": "31603051",
     "marketing_price": ""
   },
   {
@@ -19912,6 +19917,11 @@
   {
     "product_name": "RENDANG SEASONING",
     "product_code": "31408140",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "RENDANG SEASONING",
+    "product_code": "31408146",
     "marketing_price": ""
   },
   {
@@ -25860,11 +25870,6 @@
     "marketing_price": "6.45"
   },
   {
-    "product_name": "SHALLOT PASTE",
-    "product_code": "34800022",
-    "marketing_price": "18.0"
-  },
-  {
     "product_name": "SHALLOT POWDER",
     "product_code": "31802371",
     "marketing_price": "5.6"
@@ -29565,11 +29570,6 @@
     "marketing_price": "12.60"
   },
   {
-    "product_name": "SWEET R. CORN SEASONING",
-    "product_code": "MT-122816 A",
-    "marketing_price": "4.30"
-  },
-  {
     "product_name": "SWEET ROASTED CORN SEASONING",
     "product_code": "31602842",
     "marketing_price": "0"
@@ -29578,6 +29578,11 @@
     "product_name": "SWEET ROASTED CORN SEASONING",
     "product_code": "31602907",
     "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET ROASTED CORN SEASONING",
+    "product_code": "MT-122816 A",
+    "marketing_price": "4.30"
   },
   {
     "product_name": "SWEET ROASTED CORN SEASONING",
