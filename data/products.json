@@ -7361,11 +7361,6 @@
   },
   {
     "product_name": "CHICKEN FAT OIL",
-    "product_code": "35100011",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHICKEN FAT OIL",
     "product_code": "MT-1300191-0",
     "marketing_price": "5"
   },
@@ -8592,6 +8587,11 @@
   {
     "product_name": "CHILLI OIL",
     "product_code": "35400113",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI OIL",
+    "product_code": "35400117",
     "marketing_price": ""
   },
   {
@@ -10313,6 +10313,11 @@
     "product_name": "CREAMY COCONUT SEASONING",
     "product_code": "MT-1301975-0",
     "marketing_price": "3.8"
+  },
+  {
+    "product_name": "CREAMY MALA SEASONING",
+    "product_code": "31408151",
+    "marketing_price": ""
   },
   {
     "product_name": "CREAMY SEBLAK SEASONING",
@@ -16208,6 +16213,16 @@
     "product_name": "MAKARONI SPIRAL 2",
     "product_code": "SPIRAL 2",
     "marketing_price": "2.1"
+  },
+  {
+    "product_name": "MALA CURRY SEASONING",
+    "product_code": "31408150",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MALA DRY WOK SEASONING",
+    "product_code": "31408149",
+    "marketing_price": ""
   },
   {
     "product_name": "MALA KARI SEASONING",
@@ -28568,11 +28583,6 @@
     "product_name": "SWEET CHEESE SEASONING",
     "product_code": "31503058",
     "marketing_price": "3.5"
-  },
-  {
-    "product_name": "SWEET CHEESE SEASONING",
-    "product_code": "31503064",
-    "marketing_price": "4.6"
   },
   {
     "product_name": "SWEET CHEESE SEASONING",
