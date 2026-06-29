@@ -6851,11 +6851,6 @@
   },
   {
     "product_name": "CHEESE SEASONING",
-    "product_code": "31503305",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "CHEESE SEASONING",
     "product_code": "31503307",
     "marketing_price": ""
   },
@@ -7383,11 +7378,6 @@
     "product_name": "CHICKEN FLAVOUR OIL",
     "product_code": "MT-695751",
     "marketing_price": "0"
-  },
-  {
-    "product_name": "CHICKEN FLAVOUR POWDER",
-    "product_code": "31102845",
-    "marketing_price": "5.95"
   },
   {
     "product_name": "CHICKEN FLAVOUR POWDER",
@@ -9261,6 +9251,11 @@
   },
   {
     "product_name": "CHOCOLATE SEASONING",
+    "product_code": "31503408",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHOCOLATE SEASONING",
     "product_code": "MT-1202355-0",
     "marketing_price": "5.1"
   },
@@ -10233,6 +10228,26 @@
     "product_name": "COTO MAKASAR SEASONING",
     "product_code": "31407931",
     "marketing_price": "6.75"
+  },
+  {
+    "product_name": "COTO MAKASSAR OIL",
+    "product_code": "35400118",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COTO MAKASSAR OIL",
+    "product_code": "35400119",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COTO MAKASSAR SEASONING",
+    "product_code": "31408152",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COTO MAKASSAR SEASONING",
+    "product_code": "31408153",
+    "marketing_price": ""
   },
   {
     "product_name": "COUNTRY STYLE BBQ SEASONING",
@@ -25233,11 +25248,6 @@
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301249",
     "marketing_price": "3.1"
-  },
-  {
-    "product_name": "SEAWEED SEASONING",
-    "product_code": "31301250",
-    "marketing_price": "5.9"
   },
   {
     "product_name": "SEAWEED SEASONING",
