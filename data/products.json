@@ -4100,11 +4100,6 @@
     "marketing_price": "8.1"
   },
   {
-    "product_name": "BOLOGNESE",
-    "product_code": "31407634",
-    "marketing_price": "0"
-  },
-  {
     "product_name": "BOLOGNESE PREMIX",
     "product_code": "31502937",
     "marketing_price": ""
@@ -4123,6 +4118,11 @@
     "product_name": "BOLOGNESE SEASOING",
     "product_code": "31407868",
     "marketing_price": ""
+  },
+  {
+    "product_name": "BOLOGNESE SEASONING",
+    "product_code": "31407634",
+    "marketing_price": "0"
   },
   {
     "product_name": "BOLOGNESE SEASONING",
@@ -8615,6 +8615,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "CHILLI PASTA",
+    "product_code": "34400508",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI PASTA",
+    "product_code": "34400509",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHILLI PEDAS GURIH POWDER",
     "product_code": "31406639",
     "marketing_price": "3.2"
@@ -11375,6 +11385,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "GARLIC BBQ SEASONING",
+    "product_code": "31802710",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC BBQ SEASONING",
+    "product_code": "31802711",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GARLIC BREAD SEASONING",
     "product_code": "31802579",
     "marketing_price": "7.75"
@@ -12387,6 +12407,11 @@
   {
     "product_name": "GRILLED PEPPER SEASONING",
     "product_code": "31407611",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GRILLED PINEAPPLE SEASONING",
+    "product_code": "31900698",
     "marketing_price": ""
   },
   {
@@ -16352,6 +16377,11 @@
   {
     "product_name": "MALA SEASONING",
     "product_code": "31408075",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MALA SEASONING",
+    "product_code": "31408154",
     "marketing_price": ""
   },
   {
@@ -28822,6 +28852,11 @@
   {
     "product_name": "SWEET CORN POWDER",
     "product_code": "31603086",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN POWDER",
+    "product_code": "31603087",
     "marketing_price": ""
   },
   {
