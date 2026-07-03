@@ -3557,7 +3557,7 @@
   {
     "product_name": "BEEF EXTRACT POWDER",
     "product_code": "31201192",
-    "marketing_price": "3.95"
+    "marketing_price": "2.95"
   },
   {
     "product_name": "BEEF EXTRACT POWDER",
@@ -11776,6 +11776,11 @@
   },
   {
     "product_name": "GARLIC POWDER",
+    "product_code": "31802712",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC POWDER",
     "product_code": "918 CA",
     "marketing_price": "0"
   },
@@ -19415,6 +19420,21 @@
     "marketing_price": ""
   },
   {
+    "product_name": "PIZZA SEASONING",
+    "product_code": "31408155",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PIZZA SEASONING",
+    "product_code": "31408156",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PIZZA SEASONING",
+    "product_code": "31408158",
+    "marketing_price": ""
+  },
+  {
     "product_name": "PIZZA SEASONING / 1258 IS PZ",
     "product_code": "31405437",
     "marketing_price": "12.5"
@@ -19578,6 +19598,11 @@
     "product_name": "PREMIX CREAM FILLING MILK TEA",
     "product_code": "46700042",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "PREMIX DIMSUM",
+    "product_code": "31408157",
+    "marketing_price": ""
   },
   {
     "product_name": "PREMIX FILLING CREAM MILK TEA",
