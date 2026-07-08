@@ -5052,7 +5052,7 @@
   {
     "product_name": "Black Pepper Sauce",
     "product_code": "34400433",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "Bolognase Cream Soup Premix",
@@ -5097,7 +5097,7 @@
   {
     "product_name": "CABE IJO SEASONING",
     "product_code": "31404956",
-    "marketing_price": ""
+    "marketing_price": "2.2"
   },
   {
     "product_name": "CABE IJO SEASONING",
@@ -6097,7 +6097,7 @@
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503387",
-    "marketing_price": "0"
+    "marketing_price": "11.90"
   },
   {
     "product_name": "CHEESE POWDER",
@@ -6457,7 +6457,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31502911",
-    "marketing_price": "0"
+    "marketing_price": "9.60"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -10267,7 +10267,7 @@
   {
     "product_name": "CRAB OIL",
     "product_code": "38300001",
-    "marketing_price": ""
+    "marketing_price": "7.65"
   },
   {
     "product_name": "CRAB POWDER",
@@ -14097,7 +14097,7 @@
   {
     "product_name": "JAPANESE CURRY SEASONING",
     "product_code": "31408147",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "JAPANESE HAMBURG SEASONING",
@@ -15252,7 +15252,7 @@
   {
     "product_name": "KARI OIL",
     "product_code": "35400115",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "KARI OIL",
@@ -15277,7 +15277,7 @@
   {
     "product_name": "KARI POWDER",
     "product_code": "31408116",
-    "marketing_price": ""
+    "marketing_price": "6.30"
   },
   {
     "product_name": "KARI PREMIX",
@@ -15342,7 +15342,7 @@
   {
     "product_name": "KARI SEASONING",
     "product_code": "31408097",
-    "marketing_price": ""
+    "marketing_price": "5.50"
   },
   {
     "product_name": "KARI SEASONING",
@@ -16465,6 +16465,11 @@
     "marketing_price": "4.25"
   },
   {
+    "product_name": "MARINASI POWDER / TEPUNG MERAH",
+    "product_code": "31406357",
+    "marketing_price": "3.7"
+  },
+  {
     "product_name": "MARINATION MARANGGI SEASONING",
     "product_code": "31408098",
     "marketing_price": ""
@@ -16473,11 +16478,6 @@
     "product_name": "MARINATION POWDER",
     "product_code": "MT-807961",
     "marketing_price": "3.6"
-  },
-  {
-    "product_name": "MARINATION POWDER / TEPUNG MERAH",
-    "product_code": "31406357",
-    "marketing_price": "3.7"
   },
   {
     "product_name": "MARINATION SEAS",
@@ -16897,7 +16897,7 @@
   {
     "product_name": "MEATY GARLIC POWDER / MG11.02.709",
     "product_code": "31802709",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "MELLO TOASTED ONION POWDER / MC-I-IDS P04",
@@ -20007,7 +20007,7 @@
   {
     "product_name": "RENDANG SEASONING",
     "product_code": "31408146",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "RENDANG SEASONING",
@@ -20101,11 +20101,6 @@
   },
   {
     "product_name": "RICA-RICA PASTA",
-    "product_code": "34400506",
-    "marketing_price": "3.50"
-  },
-  {
-    "product_name": "RICA-RICA PASTA",
     "product_code": "34400507",
     "marketing_price": "3.65"
   },
@@ -20118,6 +20113,11 @@
     "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400471",
     "marketing_price": "7.50"
+  },
+  {
+    "product_name": "RICA-RICA PASTA / TOM YUM",
+    "product_code": "34400506",
+    "marketing_price": "3.50"
   },
   {
     "product_name": "RICA-RICA PASTE",
@@ -23922,7 +23922,7 @@
   {
     "product_name": "SAMBAL MATAH SEASONING",
     "product_code": "31408129",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SAMBAL MATAH SEASONING / BALINESE CHILI & KAFFIR LIME SEASONING RSCB0001",
@@ -30358,6 +30358,11 @@
     "product_name": "TOM YUM PASTA",
     "product_code": "34400492",
     "marketing_price": "5.90"
+  },
+  {
+    "product_name": "TOM YUM PASTA",
+    "product_code": "34400600",
+    "marketing_price": ""
   },
   {
     "product_name": "TOM YUM PASTA / Tom Yum Pasta A-01",
