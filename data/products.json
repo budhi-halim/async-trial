@@ -3297,7 +3297,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408071",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -27600,6 +27600,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SPICY LIME LEAF SEASONING",
+    "product_code": "31408159",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SPICY MAYONAISE SEASONING",
     "product_code": "31406584",
     "marketing_price": "0"
@@ -27947,6 +27952,16 @@
   {
     "product_name": "SPICY SOUR MANGO SEASONING",
     "product_code": "31407711",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY SRIRACHA SEASONING",
+    "product_code": "31408160",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY SRIRACHA SEASONING",
+    "product_code": "31408161",
     "marketing_price": ""
   },
   {
