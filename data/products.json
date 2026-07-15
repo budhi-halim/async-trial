@@ -12275,6 +12275,16 @@
     "marketing_price": "3.75"
   },
   {
+    "product_name": "GOCHUJANG PASTA",
+    "product_code": "34400603",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GOCHUJANG PASTA",
+    "product_code": "34400604",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GOCHUJANG POWDER",
     "product_code": "31406788",
     "marketing_price": ""
@@ -19620,6 +19630,16 @@
     "marketing_price": ""
   },
   {
+    "product_name": "PREMIX DIMSUM",
+    "product_code": "31408162",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "PREMIX DIMSUM",
+    "product_code": "31408163",
+    "marketing_price": ""
+  },
+  {
     "product_name": "PREMIX FILLING CREAM MILK TEA",
     "product_code": "46700093",
     "marketing_price": ""
@@ -23472,7 +23492,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408038",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -28955,6 +28975,11 @@
     "marketing_price": "10.0"
   },
   {
+    "product_name": "SWEET CORN PUDDING",
+    "product_code": "33260010",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SWEET CORN PUUDING",
     "product_code": "53800001",
     "marketing_price": ""
@@ -30392,6 +30417,11 @@
   {
     "product_name": "TOM YUM PASTA",
     "product_code": "34400600",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "TOM YUM PASTA",
+    "product_code": "34400602",
     "marketing_price": ""
   },
   {
