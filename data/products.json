@@ -4282,7 +4282,7 @@
   {
     "product_name": "BREADING PREMIX",
     "product_code": "31802687",
-    "marketing_price": "0"
+    "marketing_price": "5.50"
   },
   {
     "product_name": "BREADING PREMIX",
@@ -6957,7 +6957,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503407",
-    "marketing_price": ""
+    "marketing_price": "5.50"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -7350,14 +7350,14 @@
     "marketing_price": "4.75"
   },
   {
-    "product_name": "CHICKEN FAT",
-    "product_code": "MT-5124",
-    "marketing_price": "4.1"
-  },
-  {
     "product_name": "CHICKEN FAT OIL",
     "product_code": "MT-1300191-0",
     "marketing_price": "5"
+  },
+  {
+    "product_name": "CHICKEN FAT OIL",
+    "product_code": "MT-5124",
+    "marketing_price": "4.1"
   },
   {
     "product_name": "CHICKEN FAT POWDER",
@@ -9942,7 +9942,7 @@
   {
     "product_name": "CORN MILK POWDER",
     "product_code": "46800006",
-    "marketing_price": "0"
+    "marketing_price": "4.80"
   },
   {
     "product_name": "CORN MILK SEASONING",
@@ -10097,6 +10097,11 @@
   {
     "product_name": "CORN SEASONING",
     "product_code": "31602974",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CORN SEASONING",
+    "product_code": "31603088",
     "marketing_price": ""
   },
   {
@@ -11482,7 +11487,7 @@
   {
     "product_name": "GARLIC FLAKE",
     "product_code": "31802607",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "GARLIC GRANULATED",
@@ -17316,6 +17321,11 @@
   },
   {
     "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408166",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
     "product_code": "31802062",
     "marketing_price": "5.3"
   },
@@ -17422,6 +17432,11 @@
   {
     "product_name": "MILK SEASONING",
     "product_code": "31503056",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MILK SEASONING",
+    "product_code": "31503409",
     "marketing_price": ""
   },
   {
@@ -22132,7 +22147,7 @@
   {
     "product_name": "ROASTED GARLIC SEASONING",
     "product_code": "31801875",
-    "marketing_price": "2.8"
+    "marketing_price": "4.35"
   },
   {
     "product_name": "ROASTED GARLIC SEASONING",
@@ -22147,7 +22162,7 @@
   {
     "product_name": "ROASTED ONION SEASONING",
     "product_code": "MT-296418",
-    "marketing_price": "3.75"
+    "marketing_price": "4.50"
   },
   {
     "product_name": "ROASTED POWDER",
@@ -28932,7 +28947,7 @@
   {
     "product_name": "SWEET CORN POWDER",
     "product_code": "31603087",
-    "marketing_price": ""
+    "marketing_price": "3.65"
   },
   {
     "product_name": "SWEET CORN POWDER",
@@ -30417,12 +30432,12 @@
   {
     "product_name": "TOM YUM PASTA",
     "product_code": "34400600",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "TOM YUM PASTA",
     "product_code": "34400602",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "TOM YUM PASTA / Tom Yum Pasta A-01",
