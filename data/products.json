@@ -3545,6 +3545,11 @@
     "marketing_price": "5.7"
   },
   {
+    "product_name": "BEEF CHEESE SEASONING",
+    "product_code": "31201719",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BEEF CONC.",
     "product_code": "MT-649032",
     "marketing_price": "0"
@@ -9328,6 +9333,11 @@
     "product_name": "CINNAMON SEASONING",
     "product_code": "31408073",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "CINNAMON SEASONING",
+    "product_code": "31408165",
+    "marketing_price": ""
   },
   {
     "product_name": "CLASSIC BBQ STEAK SEASONING",
@@ -25935,6 +25945,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SEBLAK SEASONING",
+    "product_code": "31408164",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SEI SAPI POWDER",
     "product_code": "31201602",
     "marketing_price": "0"
@@ -26928,6 +26943,11 @@
     "product_name": "SOUR CREAM & HERBS SEASONING",
     "product_code": "31503076",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SOUR CREAM & ONION PREMIX",
+    "product_code": "31802715",
+    "marketing_price": ""
   },
   {
     "product_name": "SOUR CREAM & ONION SEAS",
@@ -29602,6 +29622,11 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31603084",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET CORN SEASONING",
+    "product_code": "31603089",
     "marketing_price": ""
   },
   {
