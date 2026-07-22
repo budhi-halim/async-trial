@@ -18540,6 +18540,11 @@
     "marketing_price": "7.5"
   },
   {
+    "product_name": "ORIGINAL POTATO SEASONING",
+    "product_code": "31802716",
+    "marketing_price": ""
+  },
+  {
     "product_name": "ORIGINAL SAPI",
     "product_code": "K-005",
     "marketing_price": "0"
@@ -27897,6 +27902,16 @@
   {
     "product_name": "SPICY SEAWEED SEASONING",
     "product_code": "31301649",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY SEAWEED SEASONING",
+    "product_code": "31301734",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY SEAWEED SEASONING",
+    "product_code": "31301735",
     "marketing_price": ""
   },
   {
