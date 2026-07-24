@@ -457,7 +457,7 @@
   {
     "product_name": "AYAM BAKAR SEASONING",
     "product_code": "31103090",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "AYAM BAKAR SEASONING",
@@ -2472,6 +2472,11 @@
   {
     "product_name": "BBQ PREMIX",
     "product_code": "31407029",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ PREMIX",
+    "product_code": "31408168",
     "marketing_price": ""
   },
   {
@@ -9730,6 +9735,11 @@
     "marketing_price": "14"
   },
   {
+    "product_name": "COKLAT PREMIX",
+    "product_code": "31503410",
+    "marketing_price": ""
+  },
+  {
     "product_name": "COKLAT SEASONING",
     "product_code": "31502141",
     "marketing_price": "4.3"
@@ -14636,6 +14646,11 @@
   },
   {
     "product_name": "KALDU AYAM PREMIX",
+    "product_code": "31102680",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "KALDU AYAM PREMIX",
     "product_code": "31102684",
     "marketing_price": "0"
   },
@@ -18545,6 +18560,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "ORIGINAL PREMIX",
+    "product_code": "31802717",
+    "marketing_price": ""
+  },
+  {
     "product_name": "ORIGINAL SAPI",
     "product_code": "K-005",
     "marketing_price": "0"
@@ -20607,6 +20627,16 @@
   {
     "product_name": "ROASTED CORN PREMIX",
     "product_code": "31603027",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN PREMIX",
+    "product_code": "31603090",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN PREMIX",
+    "product_code": "31603091",
     "marketing_price": ""
   },
   {
@@ -28292,7 +28322,7 @@
   {
     "product_name": "SRIRACHA SEASONING",
     "product_code": "31408109",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SRIRACHA SEASONING",
