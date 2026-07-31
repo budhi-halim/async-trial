@@ -1275,6 +1275,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BALADO DAUN JERUK SEASONING",
+    "product_code": "31408172",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BALADO IJO PREMIX",
     "product_code": "MT-1207504-0",
     "marketing_price": "3.3"
@@ -6971,6 +6976,11 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503411",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -7440,6 +7450,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "CHICKEN GOCHUJANG SEASONNG",
+    "product_code": "31103095",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHICKEN GRILL",
     "product_code": "31102258",
     "marketing_price": "8.4"
@@ -7758,6 +7773,11 @@
     "product_name": "CHICKEN PREMIX",
     "product_code": "31102211",
     "marketing_price": "6.5"
+  },
+  {
+    "product_name": "CHICKEN PREMIX",
+    "product_code": "31103094",
+    "marketing_price": ""
   },
   {
     "product_name": "CHICKEN PREMIX",
@@ -9342,7 +9362,7 @@
   {
     "product_name": "CINNAMON SEASONING",
     "product_code": "31408165",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CLASSIC BBQ STEAK SEASONING",
@@ -14882,11 +14902,6 @@
   {
     "product_name": "KALDU AYAM SEASONING",
     "product_code": "31103075",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "KALDU AYAM SEASONING",
-    "product_code": "31103095",
     "marketing_price": ""
   },
   {
@@ -27005,6 +27020,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SOUR CREAM & ONION PREMIX",
+    "product_code": "31802718",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SOUR CREAM & ONION SEAS",
     "product_code": "31503146",
     "marketing_price": "0"
@@ -27642,6 +27662,11 @@
   {
     "product_name": "SPICY CHICKEN SEASONING",
     "product_code": "31407996",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY CHICKEN SEASONING",
+    "product_code": "31408171",
     "marketing_price": ""
   },
   {
