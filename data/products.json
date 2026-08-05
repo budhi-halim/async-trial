@@ -7237,7 +7237,7 @@
   {
     "product_name": "CHICKEN BBQ SEASONING",
     "product_code": "31103091",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHICKEN BBQ SEASONING",
@@ -12492,7 +12492,12 @@
   {
     "product_name": "GRILLED PINEAPPLE SEASONING",
     "product_code": "31900698",
-    "marketing_price": ""
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "GRILLED PINEAPPLE SEASONING",
+    "product_code": "31900700",
+    "marketing_price": "0"
   },
   {
     "product_name": "GRILLED SEAFOOD PLATTER SEASONING",
@@ -15397,7 +15402,7 @@
   {
     "product_name": "KARI SEASONING",
     "product_code": "31407831",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "KARI SEASONING",
