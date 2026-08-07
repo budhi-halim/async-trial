@@ -1042,7 +1042,7 @@
   {
     "product_name": "AYAM SZECHUAN SEASONING",
     "product_code": "31103092",
-    "marketing_price": ""
+    "marketing_price": "4.40"
   },
   {
     "product_name": "BABY SILKY PUDDING POWDER",
@@ -3500,6 +3500,11 @@
     "marketing_price": "5.35"
   },
   {
+    "product_name": "BBQ VEGAN SEASONING",
+    "product_code": "31408178",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BBQ VEGETARIAN SEASONING",
     "product_code": "31407360",
     "marketing_price": ""
@@ -3957,7 +3962,7 @@
   {
     "product_name": "BLACK PEPPER SAUCE",
     "product_code": "44400288",
-    "marketing_price": "0"
+    "marketing_price": "3.90"
   },
   {
     "product_name": "BLACK PEPPER SAUCE PASTA",
@@ -4157,7 +4162,7 @@
   {
     "product_name": "BRAISED ORIENTAL STYLE PASTE",
     "product_code": "34400503",
-    "marketing_price": ""
+    "marketing_price": "3.95"
   },
   {
     "product_name": "BRANDY",
@@ -4298,6 +4303,16 @@
     "product_name": "BREADING PREMIX",
     "product_code": "31802687",
     "marketing_price": "5.50"
+  },
+  {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802687 IMPROVE 1",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BREADING PREMIX",
+    "product_code": "31802687 IMPROVE 2",
+    "marketing_price": ""
   },
   {
     "product_name": "BREADING PREMIX",
@@ -7262,7 +7277,7 @@
   {
     "product_name": "CHICKEN BBQ SEASONING / CK-905",
     "product_code": "31103093",
-    "marketing_price": ""
+    "marketing_price": "4.15"
   },
   {
     "product_name": "CHICKEN BBQ SEASONING / GFIS-01",
@@ -9667,7 +9682,7 @@
   {
     "product_name": "COFFEE POWDER",
     "product_code": "MT-785635",
-    "marketing_price": "7.5"
+    "marketing_price": ""
   },
   {
     "product_name": "COFFEE POWDER EXTRACT SR",
@@ -11337,7 +11352,7 @@
   {
     "product_name": "GARAM",
     "product_code": "31802201",
-    "marketing_price": "7500"
+    "marketing_price": "8500"
   },
   {
     "product_name": "GARLIC",
@@ -11827,7 +11842,7 @@
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802712",
-    "marketing_price": ""
+    "marketing_price": "3.75"
   },
   {
     "product_name": "GARLIC POWDER",
@@ -12390,6 +12405,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "GOLDEN PINEAPPLE HEAT SEASONING",
+    "product_code": "31900701",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GRAPE / ANGGUR FLAVOUR",
     "product_code": "T-660",
     "marketing_price": "17.5"
@@ -12867,7 +12887,7 @@
   {
     "product_name": "HONEY BUTTER PREMIX",
     "product_code": "31503403",
-    "marketing_price": ""
+    "marketing_price": "7.40"
   },
   {
     "product_name": "HONEY BUTTER SEA SALT SEASONING",
@@ -13412,12 +13432,12 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "31700534",
-    "marketing_price": ""
+    "marketing_price": "7.25"
   },
   {
     "product_name": "HVP POWDER",
     "product_code": "31700535",
-    "marketing_price": ""
+    "marketing_price": "6.35"
   },
   {
     "product_name": "HVP POWDER",
@@ -16407,7 +16427,7 @@
   {
     "product_name": "MALA POWDER TO PASTE",
     "product_code": "31407992",
-    "marketing_price": "0"
+    "marketing_price": "4.40"
   },
   {
     "product_name": "MALA SEASONING",
@@ -16557,7 +16577,7 @@
   {
     "product_name": "MARINATION MARANGGI SEASONING",
     "product_code": "31408098",
-    "marketing_price": ""
+    "marketing_price": "5.60"
   },
   {
     "product_name": "MARINATION POWDER",
@@ -16702,7 +16722,7 @@
   {
     "product_name": "MARINATION SEASONING",
     "product_code": "31408102",
-    "marketing_price": ""
+    "marketing_price": "2.75"
   },
   {
     "product_name": "MARINATION SEASONING / Hast Original Spicy Seasoning SGC-OS",
@@ -17377,6 +17397,16 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408166",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408174",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "MIE GORENG SEASONING",
+    "product_code": "31408175",
     "marketing_price": ""
   },
   {
@@ -19232,7 +19262,7 @@
   {
     "product_name": "PEANUT POWDER",
     "product_code": "MT-8330310",
-    "marketing_price": "9.25"
+    "marketing_price": ""
   },
   {
     "product_name": "PEANUT PREMIX",
@@ -19973,6 +20003,11 @@
     "product_name": "RENDANG OIL",
     "product_code": "35400021",
     "marketing_price": "3.2"
+  },
+  {
+    "product_name": "RENDANG PAGI SORE SEASONING",
+    "product_code": "31408173",
+    "marketing_price": ""
   },
   {
     "product_name": "RENDANG PASTA",
@@ -21802,7 +21837,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603075",
-    "marketing_price": ""
+    "marketing_price": "7.85"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -26707,7 +26742,7 @@
   {
     "product_name": "SOTO BETAWI SEASONING",
     "product_code": "31408079",
-    "marketing_price": ""
+    "marketing_price": "4.70"
   },
   {
     "product_name": "SOTO JALAPENO SEASONING",
@@ -27342,7 +27377,7 @@
   {
     "product_name": "SOY SAUCE POWDER",
     "product_code": "31700510",
-    "marketing_price": "0"
+    "marketing_price": "4.90"
   },
   {
     "product_name": "SOY SAUCE POWDER",
@@ -28697,7 +28732,12 @@
   {
     "product_name": "SUSU VANILLA SEASONING",
     "product_code": "31501908",
-    "marketing_price": "31000"
+    "marketing_price": "3.40"
+  },
+  {
+    "product_name": "SUSU VANILLA SEASONING",
+    "product_code": "31503412",
+    "marketing_price": ""
   },
   {
     "product_name": "SUSU WEDANG JAHE",
@@ -29697,7 +29737,7 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31602969",
-    "marketing_price": "6.90"
+    "marketing_price": ""
   },
   {
     "product_name": "SWEET CORN SEASONING",
@@ -31247,7 +31287,7 @@
   {
     "product_name": "UDANG SEASONING",
     "product_code": "31301161",
-    "marketing_price": "3.6"
+    "marketing_price": ""
   },
   {
     "product_name": "UDANG SEASONING",
@@ -31297,7 +31337,7 @@
   {
     "product_name": "VANILLA FLAVOUR",
     "product_code": "P-2000",
-    "marketing_price": "27.5"
+    "marketing_price": "28.0"
   },
   {
     "product_name": "VANILLA FRAPPE POWDER",
