@@ -696,11 +696,6 @@
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
-    "product_code": "31103096",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "AYAM BAWANG SEASONING",
     "product_code": "MT-1107031-0",
     "marketing_price": "2.9"
   },
@@ -7686,6 +7681,11 @@
   },
   {
     "product_name": "CHICKEN POWDER",
+    "product_code": "31103097",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHICKEN POWDER",
     "product_code": "31106765",
     "marketing_price": "0"
   },
@@ -9682,7 +9682,7 @@
   {
     "product_name": "COFFEE POWDER",
     "product_code": "MT-785635",
-    "marketing_price": ""
+    "marketing_price": "7.5"
   },
   {
     "product_name": "COFFEE POWDER EXTRACT SR",
@@ -10300,6 +10300,11 @@
     "marketing_price": "6.75"
   },
   {
+    "product_name": "COTO MAKASAR SEASONING",
+    "product_code": "31408179",
+    "marketing_price": ""
+  },
+  {
     "product_name": "COTO MAKASSAR OIL",
     "product_code": "35400118",
     "marketing_price": ""
@@ -10317,6 +10322,11 @@
   {
     "product_name": "COTO MAKASSAR SEASONING",
     "product_code": "31408153",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "COTO MAKASSAR SEASONING",
+    "product_code": "31408179",
     "marketing_price": ""
   },
   {
@@ -14931,6 +14941,11 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
+    "product_code": "31103096",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING",
     "product_code": "31106766",
     "marketing_price": ""
   },
@@ -19262,7 +19277,7 @@
   {
     "product_name": "PEANUT POWDER",
     "product_code": "MT-8330310",
-    "marketing_price": ""
+    "marketing_price": "9.25"
   },
   {
     "product_name": "PEANUT PREMIX",
@@ -24453,6 +24468,11 @@
     "product_name": "SAPI LADA HITAM",
     "product_code": "MT-1103794-0",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SAPI LADA HITAM SEASONING",
+    "product_code": "31408176",
+    "marketing_price": ""
   },
   {
     "product_name": "SAPI LADA HITAM SEASONING",
@@ -29737,7 +29757,7 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31602969",
-    "marketing_price": ""
+    "marketing_price": "6.90"
   },
   {
     "product_name": "SWEET CORN SEASONING",
@@ -29897,6 +29917,16 @@
   {
     "product_name": "SWEET ROASTED CORN SEASONING",
     "product_code": "31602907",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET ROASTED CORN SEASONING",
+    "product_code": "31603092",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SWEET ROASTED CORN SEASONING",
+    "product_code": "31603093",
     "marketing_price": ""
   },
   {
@@ -31287,7 +31317,7 @@
   {
     "product_name": "UDANG SEASONING",
     "product_code": "31301161",
-    "marketing_price": ""
+    "marketing_price": "3.6"
   },
   {
     "product_name": "UDANG SEASONING",
