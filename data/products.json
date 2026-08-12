@@ -1151,11 +1151,6 @@
   },
   {
     "product_name": "BALADO A2 SEASONING",
-    "product_code": "31405399",
-    "marketing_price": "3.5"
-  },
-  {
-    "product_name": "BALADO A2 SEASONING",
     "product_code": "31405404",
     "marketing_price": "3.3"
   },
@@ -1163,6 +1158,11 @@
     "product_name": "BALADO A2 SEASONING",
     "product_code": "31406875",
     "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO A2 SEASONING / Seasoning SBL A2 BMHP01A010",
+    "product_code": "31405399",
+    "marketing_price": "3.5"
   },
   {
     "product_name": "BALADO ASIN SEASONING",
@@ -1972,6 +1972,11 @@
   {
     "product_name": "BALADO SEASONING",
     "product_code": "31408106",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
+    "product_code": "31408177",
     "marketing_price": ""
   },
   {
@@ -3473,6 +3478,11 @@
     "product_name": "BBQ SEASONING / SM BQ",
     "product_code": "MT-121814 E",
     "marketing_price": "5.5"
+  },
+  {
+    "product_name": "BBQ SEASONING / Seasoning BBQ I BMHP01A002",
+    "product_code": "31405939",
+    "marketing_price": "8"
   },
   {
     "product_name": "BBQ SKR",
@@ -7107,7 +7117,7 @@
   {
     "product_name": "CHEESE SEASONING / PM-KJ-NO01",
     "product_code": "31503061",
-    "marketing_price": "14.5"
+    "marketing_price": "18"
   },
   {
     "product_name": "CHEESE SEASONING / SECHE / 130604",
@@ -10000,6 +10010,16 @@
     "marketing_price": "4.80"
   },
   {
+    "product_name": "CORN MILK POWDER",
+    "product_code": "46800006 IMPROVE A",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CORN MILK POWDER",
+    "product_code": "46800006 IMPROVE B",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CORN MILK SEASONING",
     "product_code": "31603049",
     "marketing_price": "0"
@@ -10298,11 +10318,6 @@
     "product_name": "COTO MAKASAR SEASONING",
     "product_code": "31407931",
     "marketing_price": "6.75"
-  },
-  {
-    "product_name": "COTO MAKASAR SEASONING",
-    "product_code": "31408179",
-    "marketing_price": ""
   },
   {
     "product_name": "COTO MAKASSAR OIL",
@@ -10970,6 +10985,11 @@
     "marketing_price": "2.6"
   },
   {
+    "product_name": "FIRE BBQ SEASONING",
+    "product_code": "31408180",
+    "marketing_price": ""
+  },
+  {
     "product_name": "FISH BOULLION POWDER",
     "product_code": "MT-766733",
     "marketing_price": "0"
@@ -11236,11 +11256,6 @@
   },
   {
     "product_name": "FRIED GARLIC SEASONING",
-    "product_code": "31802576",
-    "marketing_price": "7.10"
-  },
-  {
-    "product_name": "FRIED GARLIC SEASONING",
     "product_code": "31802592",
     "marketing_price": "0"
   },
@@ -11253,6 +11268,11 @@
     "product_name": "FRIED GARLIC SEASONING",
     "product_code": "MT-785738",
     "marketing_price": "6"
+  },
+  {
+    "product_name": "FRIED GARLIC SEASONING / Seasoning FG I BMHP01A004",
+    "product_code": "31802576",
+    "marketing_price": "7.10"
   },
   {
     "product_name": "FRIED KIMCHI POWDER",
@@ -12088,6 +12108,11 @@
     "product_name": "GARLIC SEASONING",
     "product_code": "31802580",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "GARLIC SEASONING",
+    "product_code": "31802719",
+    "marketing_price": ""
   },
   {
     "product_name": "GARLIC SEASONING",
@@ -17417,7 +17442,7 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31408174",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -22871,11 +22896,6 @@
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
-    "product_code": "31405576",
-    "marketing_price": "3.5"
-  },
-  {
-    "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31405585",
     "marketing_price": "2.6"
   },
@@ -23661,6 +23681,11 @@
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408181",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "C-006",
     "marketing_price": "2.65"
   },
@@ -23773,6 +23798,11 @@
     "product_name": "SAMBAL BALADO SEASONING / Seasoning Balado AIO",
     "product_code": "31407596",
     "marketing_price": "4"
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING / Seasoning SBL BMHP01A009",
+    "product_code": "31405576",
+    "marketing_price": "3.5"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING / sambal balado B",
@@ -26298,6 +26328,11 @@
     "product_name": "SHRIMP POWDER",
     "product_code": "31301705",
     "marketing_price": "4.30"
+  },
+  {
+    "product_name": "SHRIMP POWDER",
+    "product_code": "31301736",
+    "marketing_price": ""
   },
   {
     "product_name": "SHRIMP POWDER",
