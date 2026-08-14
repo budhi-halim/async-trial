@@ -7001,6 +7001,16 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503413",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503414",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -8692,6 +8702,11 @@
   {
     "product_name": "CHILLI PEDAS GURIH POWDER",
     "product_code": "31407027",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI PEDAS POWDER",
+    "product_code": "31408183",
     "marketing_price": ""
   },
   {
@@ -11050,6 +11065,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "FLAMING COLA SEASONING",
+    "product_code": "31408182",
+    "marketing_price": ""
+  },
+  {
     "product_name": "FLAMMING HOT SEASONING",
     "product_code": "31408120",
     "marketing_price": "4.0"
@@ -11580,6 +11600,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "GARLIC FLAKES",
+    "product_code": "31802721",
+    "marketing_price": ""
+  },
+  {
     "product_name": "GARLIC GRANULATED",
     "product_code": "GMS-2099",
     "marketing_price": "14.5"
@@ -11882,6 +11907,11 @@
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802714",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC POWDER",
+    "product_code": "31802720",
     "marketing_price": ""
   },
   {
@@ -20752,6 +20782,11 @@
   {
     "product_name": "ROASTED CORN PREMIX",
     "product_code": "31603091",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN PREMIX",
+    "product_code": "31603094",
     "marketing_price": ""
   },
   {
@@ -30472,7 +30507,7 @@
   {
     "product_name": "THAI SEAFOOD BBQ SEASONING",
     "product_code": "31408141",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "THAI SPICY SALAD",
