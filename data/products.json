@@ -20560,6 +20560,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "ROASTED CORN FLAVOUR",
+    "product_code": "31603094",
+    "marketing_price": ""
+  },
+  {
     "product_name": "ROASTED CORN NUGGET SEASONING",
     "product_code": "31601822",
     "marketing_price": "8.75"
@@ -20782,11 +20787,6 @@
   {
     "product_name": "ROASTED CORN PREMIX",
     "product_code": "31603091",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "ROASTED CORN PREMIX",
-    "product_code": "31603094",
     "marketing_price": ""
   },
   {
@@ -25927,7 +25927,7 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301720",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SEAWEED SEASONING",
@@ -26142,6 +26142,11 @@
   {
     "product_name": "SEBLAK SEASONING",
     "product_code": "31408164",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SEBLAK SEASONING",
+    "product_code": "31408185",
     "marketing_price": ""
   },
   {
