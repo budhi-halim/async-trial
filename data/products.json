@@ -942,7 +942,7 @@
   {
     "product_name": "AYAM PEDAS MANIS SMOKE PASTE",
     "product_code": "34100049",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "AYAM PEDAS MANIS SMOKE PASTE / SPICY BBQ",
@@ -3792,7 +3792,7 @@
   {
     "product_name": "BEEF POWDER",
     "product_code": "MT-786232",
-    "marketing_price": "4"
+    "marketing_price": "3.85"
   },
   {
     "product_name": "BEEF POWDER / PI1-LI",
@@ -11597,7 +11597,7 @@
   {
     "product_name": "GARLIC FLAKE",
     "product_code": "31802607",
-    "marketing_price": "0"
+    "marketing_price": "5.0"
   },
   {
     "product_name": "GARLIC FLAKES",
@@ -11902,12 +11902,12 @@
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802713",
-    "marketing_price": ""
+    "marketing_price": "2.50"
   },
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802714",
-    "marketing_price": ""
+    "marketing_price": "2.50"
   },
   {
     "product_name": "GARLIC POWDER",
@@ -15142,7 +15142,7 @@
   {
     "product_name": "KALDU SAPI SEASONING",
     "product_code": "31201441",
-    "marketing_price": "1.6"
+    "marketing_price": "2.0"
   },
   {
     "product_name": "KALDU SAPI SEASONING",
@@ -16915,7 +16915,7 @@
     "marketing_price": "5.10"
   },
   {
-    "product_name": "MAYONAISE POWDER",
+    "product_name": "MAYONAISE POWDER / MT-MAYO ( KOSHER ) / 1",
     "product_code": "31503381",
     "marketing_price": ""
   },
@@ -19822,12 +19822,12 @@
   {
     "product_name": "PREMIX DIMSUM",
     "product_code": "31408162",
-    "marketing_price": ""
+    "marketing_price": "3.85"
   },
   {
     "product_name": "PREMIX DIMSUM",
     "product_code": "31408163",
-    "marketing_price": ""
+    "marketing_price": "4.0"
   },
   {
     "product_name": "PREMIX DIMSUM",
@@ -19837,7 +19837,7 @@
   {
     "product_name": "PREMIX DIMSUM",
     "product_code": "31408170",
-    "marketing_price": ""
+    "marketing_price": "3.65"
   },
   {
     "product_name": "PREMIX FILLING CREAM MILK TEA",
@@ -20358,16 +20358,6 @@
     "product_name": "RICA-RICA PASTA / TOM YUM",
     "product_code": "34400506",
     "marketing_price": "3.50"
-  },
-  {
-    "product_name": "RICA-RICA PASTA / TOM YUM",
-    "product_code": "34400606",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "RICA-RICA PASTA / TOM YUM",
-    "product_code": "34400607",
-    "marketing_price": ""
   },
   {
     "product_name": "RICA-RICA PASTE",
@@ -21942,6 +21932,11 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603077",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603095",
     "marketing_price": ""
   },
   {
@@ -30773,6 +30768,16 @@
     "product_name": "TOM YUM SEASONING",
     "product_code": "31301702",
     "marketing_price": "4.50"
+  },
+  {
+    "product_name": "TOM YUM SEASONING",
+    "product_code": "31301737",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "TOM YUM SEASONING",
+    "product_code": "31301738",
+    "marketing_price": ""
   },
   {
     "product_name": "TOM YUM SOUP SEASONING",
