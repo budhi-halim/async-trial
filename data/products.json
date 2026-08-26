@@ -14781,6 +14781,11 @@
   },
   {
     "product_name": "KALDU AYAM POWDER",
+    "product_code": "31103098",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM POWDER",
     "product_code": "31802128",
     "marketing_price": "6.7"
   },
@@ -15202,6 +15207,11 @@
   {
     "product_name": "KALDU SAPI SEASONING",
     "product_code": "31201685",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU SAPI SEASONING",
+    "product_code": "31201720",
     "marketing_price": ""
   },
   {
@@ -16275,7 +16285,7 @@
     "marketing_price": "6.5"
   },
   {
-    "product_name": "LEMON GRASS OIL / FOOD FLAVOUR SCR LG 006 I",
+    "product_name": "LEMON GRASS OIL / PREMIX FOOD SCR LG 006 I",
     "product_code": "MS-1607",
     "marketing_price": "30"
   },
