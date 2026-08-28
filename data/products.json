@@ -2480,11 +2480,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "BBQ PREMIX",
-    "product_code": "31408168",
-    "marketing_price": ""
-  },
-  {
     "product_name": "BBQ RIBS POWDER",
     "product_code": "31404970",
     "marketing_price": "3.85"
@@ -3313,6 +3308,11 @@
     "product_name": "BBQ SEASONING",
     "product_code": "31408072",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408189",
+    "marketing_price": ""
   },
   {
     "product_name": "BBQ SEASONING",
@@ -9800,11 +9800,6 @@
     "marketing_price": "14"
   },
   {
-    "product_name": "COKLAT PREMIX",
-    "product_code": "31503410",
-    "marketing_price": ""
-  },
-  {
     "product_name": "COKLAT SEASONING",
     "product_code": "31502141",
     "marketing_price": "4.3"
@@ -11003,11 +10998,6 @@
     "product_name": "FILLING CREAM VANILLA",
     "product_code": "55.15016",
     "marketing_price": "2.6"
-  },
-  {
-    "product_name": "FIRE BBQ SEASONING",
-    "product_code": "31408180",
-    "marketing_price": ""
   },
   {
     "product_name": "FIRE BBQ SEASONING",
@@ -16567,7 +16557,7 @@
   {
     "product_name": "MALA SEASONING",
     "product_code": "31407400",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "MALA SEASONING",
@@ -18720,11 +18710,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "ORIGINAL PREMIX",
-    "product_code": "31802717",
-    "marketing_price": ""
-  },
-  {
     "product_name": "ORIGINAL SAPI",
     "product_code": "K-005",
     "marketing_price": "0"
@@ -20810,16 +20795,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "ROASTED CORN PREMIX",
-    "product_code": "31603090",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "ROASTED CORN PREMIX",
-    "product_code": "31603091",
-    "marketing_price": ""
-  },
-  {
     "product_name": "ROASTED CORN SEAS / RC AJM",
     "product_code": "MT-1100116-0",
     "marketing_price": "3"
@@ -21957,6 +21932,11 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603095",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603097",
     "marketing_price": ""
   },
   {
@@ -25976,6 +25956,11 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
+    "product_code": "31301728",
+    "marketing_price": "5.50"
+  },
+  {
+    "product_name": "SEAWEED SEASONING",
     "product_code": "31301729",
     "marketing_price": ""
   },
@@ -27251,11 +27236,6 @@
   },
   {
     "product_name": "SOUR CREAM & ONION SEASONING",
-    "product_code": "31802704",
-    "marketing_price": "4.75"
-  },
-  {
-    "product_name": "SOUR CREAM & ONION SEASONING / Sour Cream & Onion Seasoning 31502786",
     "product_code": "31802704",
     "marketing_price": "4.75"
   },
