@@ -7016,6 +7016,11 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503416",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -11070,6 +11075,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "FLAMING COLA SEASONING",
+    "product_code": "31408191",
+    "marketing_price": ""
+  },
+  {
     "product_name": "FLAMMING HOT SEASONING",
     "product_code": "31408120",
     "marketing_price": "4.0"
@@ -11602,6 +11612,11 @@
   {
     "product_name": "GARLIC FLAKES",
     "product_code": "31802721",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC FLAKES",
+    "product_code": "31802723",
     "marketing_price": ""
   },
   {
@@ -14040,6 +14055,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "JALAPENO & LIME SEASONING",
+    "product_code": "31408190",
+    "marketing_price": ""
+  },
+  {
     "product_name": "JALAPENO BEEF CHEESE",
     "product_code": "31405138",
     "marketing_price": "0"
@@ -14778,16 +14798,6 @@
     "product_name": "KALDU AYAM POWDER",
     "product_code": "31802128",
     "marketing_price": "6.7"
-  },
-  {
-    "product_name": "KALDU AYAM PREMIX",
-    "product_code": "31102680",
-    "marketing_price": "0"
-  },
-  {
-    "product_name": "KALDU AYAM PREMIX",
-    "product_code": "31102684",
-    "marketing_price": "0"
   },
   {
     "product_name": "KALDU AYAM SEAS",
@@ -21937,6 +21947,16 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603097",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603098",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603099",
     "marketing_price": ""
   },
   {
