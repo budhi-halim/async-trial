@@ -2125,6 +2125,11 @@
     "marketing_price": "2.3"
   },
   {
+    "product_name": "BALADO SEASONING / BLD 61",
+    "product_code": "31407871",
+    "marketing_price": "3.25"
+  },
+  {
     "product_name": "BALADO SEASONING / Balado N",
     "product_code": "MT-169214 N",
     "marketing_price": "2.3"
@@ -2492,7 +2497,7 @@
   {
     "product_name": "BBQ RIBS SEASONING",
     "product_code": "31406733",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ SAUCE",
@@ -3627,7 +3632,7 @@
   {
     "product_name": "BEEF MUSHROOM PREMIX",
     "product_code": "31201704",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BEEF MUSHROOM PREMIX / PB-SJ-531",
@@ -8792,7 +8797,7 @@
   {
     "product_name": "CHILLI POWDER",
     "product_code": "31406707",
-    "marketing_price": ""
+    "marketing_price": "4.5"
   },
   {
     "product_name": "CHILLI POWDER",
@@ -8892,6 +8897,11 @@
   {
     "product_name": "CHILLI POWDER",
     "product_code": "31407583",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI POWDER",
+    "product_code": "31408192",
     "marketing_price": ""
   },
   {
@@ -17352,7 +17362,7 @@
   {
     "product_name": "MIE GORENG SEASONING",
     "product_code": "31406698",
-    "marketing_price": ""
+    "marketing_price": "4.85"
   },
   {
     "product_name": "MIE GORENG SEASONING",
@@ -18233,6 +18243,11 @@
     "product_name": "NGOHIONG SEASONING",
     "product_code": "31406874",
     "marketing_price": "6.6"
+  },
+  {
+    "product_name": "NGOHIONG SEASONING",
+    "product_code": "31408193",
+    "marketing_price": ""
   },
   {
     "product_name": "NGOHIYONG POWDER",
