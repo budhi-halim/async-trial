@@ -696,6 +696,11 @@
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
+    "product_code": "31103099",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAWANG SEASONING",
     "product_code": "MT-1107031-0",
     "marketing_price": "2.9"
   },
@@ -3316,6 +3321,11 @@
   },
   {
     "product_name": "BBQ SEASONING",
+    "product_code": "31408089",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
     "product_code": "31408189",
     "marketing_price": ""
   },
@@ -3563,6 +3573,11 @@
     "product_name": "BEEF BBQ SEASONING",
     "product_code": "31201366",
     "marketing_price": "4.6"
+  },
+  {
+    "product_name": "BEEF BBQ SEASONING",
+    "product_code": "31408088",
+    "marketing_price": ""
   },
   {
     "product_name": "BEEF BLACK PEPPER SEASONING",
@@ -6991,6 +7006,16 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503393",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503394",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "31503395",
     "marketing_price": ""
   },
@@ -7283,6 +7308,11 @@
     "product_name": "CHICKEN BBQ SEASONING",
     "product_code": "31103091",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "CHICKEN BBQ SEASONING",
+    "product_code": "31408086",
+    "marketing_price": ""
   },
   {
     "product_name": "CHICKEN BBQ SEASONING",
@@ -11482,6 +11512,11 @@
   {
     "product_name": "GARLIC BBQ SEASONING",
     "product_code": "31406884",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC BBQ SEASONING",
+    "product_code": "31408087",
     "marketing_price": ""
   },
   {
@@ -21956,6 +21991,16 @@
   },
   {
     "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603078",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603079",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603095",
     "marketing_price": ""
   },
@@ -23757,6 +23802,16 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408062",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408084",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408085",
     "marketing_price": ""
   },
   {
@@ -27526,6 +27581,11 @@
   },
   {
     "product_name": "SOY SAUCE POWDER",
+    "product_code": "31700538",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOY SAUCE POWDER",
     "product_code": "31801965",
     "marketing_price": "6"
   },
@@ -28812,7 +28872,7 @@
   {
     "product_name": "SUGAR CINNAMON SEASONING",
     "product_code": "31404814",
-    "marketing_price": "4.5"
+    "marketing_price": ""
   },
   {
     "product_name": "SUGAR CINNAMON SEASONING",
