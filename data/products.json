@@ -11046,6 +11046,11 @@
   },
   {
     "product_name": "FIRE BBQ SEASONING",
+    "product_code": "31408180",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "FIRE BBQ SEASONING",
     "product_code": "31408186",
     "marketing_price": ""
   },
@@ -13568,6 +13573,11 @@
     "product_name": "HVP POWDER",
     "product_code": "31700535",
     "marketing_price": "6.35"
+  },
+  {
+    "product_name": "HVP POWDER",
+    "product_code": "31700539",
+    "marketing_price": ""
   },
   {
     "product_name": "HVP POWDER",
@@ -31858,6 +31868,11 @@
     "product_name": "YEAST EXTRACT POWDER",
     "product_code": "31700429",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "YEAST EXTRACT POWDER",
+    "product_code": "31700536",
+    "marketing_price": ""
   },
   {
     "product_name": "YEAST EXTRACT POWDER / PB-JE-596",
