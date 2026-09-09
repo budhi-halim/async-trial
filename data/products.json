@@ -2490,11 +2490,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "BBQ RIBS POWDER",
-    "product_code": "31404970",
-    "marketing_price": "3.85"
-  },
-  {
     "product_name": "BBQ RIBS SEASONING",
     "product_code": "31406695",
     "marketing_price": ""
@@ -7027,7 +7022,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503411",
-    "marketing_price": ""
+    "marketing_price": "23.0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -7742,7 +7737,7 @@
   {
     "product_name": "CHICKEN POWDER",
     "product_code": "31103097",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHICKEN POWDER",
@@ -7852,7 +7847,7 @@
   {
     "product_name": "CHICKEN PREMIX",
     "product_code": "31103094",
-    "marketing_price": ""
+    "marketing_price": "4.85"
   },
   {
     "product_name": "CHICKEN PREMIX",
@@ -12207,7 +12202,7 @@
   {
     "product_name": "GARLIC SEASONING",
     "product_code": "31802719",
-    "marketing_price": ""
+    "marketing_price": "3.35"
   },
   {
     "product_name": "GARLIC SEASONING",
@@ -14097,7 +14092,7 @@
   {
     "product_name": "JALAPENO & LIME SEASONING",
     "product_code": "31407572",
-    "marketing_price": "0"
+    "marketing_price": "5.95"
   },
   {
     "product_name": "JALAPENO & LIME SEASONING",
@@ -17025,11 +17020,6 @@
     "marketing_price": ""
   },
   {
-    "product_name": "MEATY BBQ",
-    "product_code": "MT-579012",
-    "marketing_price": "0"
-  },
-  {
     "product_name": "MEATY BBQ SEASONING",
     "product_code": "31201641",
     "marketing_price": "0"
@@ -18772,7 +18762,7 @@
   {
     "product_name": "ORIGINAL POTATO SEASONING",
     "product_code": "31802716",
-    "marketing_price": ""
+    "marketing_price": "4.25"
   },
   {
     "product_name": "ORIGINAL SAPI",
@@ -24647,7 +24637,7 @@
   {
     "product_name": "SAPI LADA HITAM SEASONING",
     "product_code": "31408176",
-    "marketing_price": ""
+    "marketing_price": "4.95"
   },
   {
     "product_name": "SAPI LADA HITAM SEASONING",
@@ -25433,6 +25423,11 @@
     "product_name": "SEAFOOD BBQ SEASONING",
     "product_code": "31301077",
     "marketing_price": "6"
+  },
+  {
+    "product_name": "SEAFOOD BBQ SEASONING",
+    "product_code": "31301740",
+    "marketing_price": ""
   },
   {
     "product_name": "SEAFOOD BBQ SEASONING",
@@ -27586,6 +27581,11 @@
   },
   {
     "product_name": "SOY SAUCE POWDER",
+    "product_code": "31700537",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOY SAUCE POWDER",
     "product_code": "31700538",
     "marketing_price": ""
   },
@@ -29342,7 +29342,7 @@
   {
     "product_name": "SWEET CORN PREMIX",
     "product_code": "31602497",
-    "marketing_price": "7.95"
+    "marketing_price": "8.75"
   },
   {
     "product_name": "SWEET CORN PREMIX",
