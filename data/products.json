@@ -4572,7 +4572,7 @@
   {
     "product_name": "BUMBU AYAM WOKU",
     "product_code": "34400505",
-    "marketing_price": ""
+    "marketing_price": "5.50"
   },
   {
     "product_name": "BUMBU BACEM",
@@ -6392,7 +6392,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31502559",
-    "marketing_price": "5.9"
+    "marketing_price": "8.0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -7027,12 +7027,12 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503413",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503414",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -12542,7 +12542,7 @@
   {
     "product_name": "GOLDEN PINEAPPLE HEAT SEASONING",
     "product_code": "31900699",
-    "marketing_price": ""
+    "marketing_price": "3.40"
   },
   {
     "product_name": "GOLDEN PINEAPPLE HEAT SEASONING",
@@ -12723,6 +12723,16 @@
     "product_name": "GULAI PASTA",
     "product_code": "34400496",
     "marketing_price": "7.50"
+  },
+  {
+    "product_name": "GULAI PASTA",
+    "product_code": "34400608",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GULAI PASTA",
+    "product_code": "34400609",
+    "marketing_price": ""
   },
   {
     "product_name": "GULAI SAUS SEASONING",
@@ -13582,6 +13592,16 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "31700539",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
+    "product_code": "31700540",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "HVP POWDER",
+    "product_code": "31700541",
     "marketing_price": ""
   },
   {
@@ -15086,6 +15106,11 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
+    "product_code": "31103100",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING",
     "product_code": "31106766",
     "marketing_price": ""
   },
@@ -15632,7 +15657,7 @@
   {
     "product_name": "KECAP ASIN SEASONING",
     "product_code": "31700526",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "KECAP MANIS POWDER",
@@ -16997,7 +17022,7 @@
   {
     "product_name": "MAYONAISE POWDER / MT-MAYO ( KOSHER ) / 1",
     "product_code": "31503381",
-    "marketing_price": ""
+    "marketing_price": "4.50"
   },
   {
     "product_name": "MAYONAISE SEASONING",
@@ -25667,7 +25692,7 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "31301156",
-    "marketing_price": "3.9"
+    "marketing_price": "5.35"
   },
   {
     "product_name": "SEAWEED SEASONING",
