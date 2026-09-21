@@ -1986,6 +1986,11 @@
   },
   {
     "product_name": "BALADO SEASONING",
+    "product_code": "31408200",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
     "product_code": "E-501",
     "marketing_price": "2.1"
   },
@@ -3322,6 +3327,11 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408189",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BBQ SEASONING",
+    "product_code": "31408199",
     "marketing_price": ""
   },
   {
@@ -9933,6 +9943,11 @@
     "product_name": "COLA EMULSION",
     "product_code": "NO. 1",
     "marketing_price": "17"
+  },
+  {
+    "product_name": "COLA SEASONING",
+    "product_code": "31503417",
+    "marketing_price": ""
   },
   {
     "product_name": "CONDENSED MILK FLAVOUR",
@@ -23003,6 +23018,11 @@
     "product_name": "SAMBAL BALADO PASTA",
     "product_code": "34400002",
     "marketing_price": "12"
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASOING",
+    "product_code": "31408201",
+    "marketing_price": ""
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
