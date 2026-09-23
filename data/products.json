@@ -4160,11 +4160,6 @@
     "marketing_price": "0"
   },
   {
-    "product_name": "BOLOGNESE SEASOING",
-    "product_code": "31407868",
-    "marketing_price": ""
-  },
-  {
     "product_name": "BOLOGNESE SEASONING",
     "product_code": "31407634",
     "marketing_price": "0"
@@ -4173,6 +4168,11 @@
     "product_name": "BOLOGNESE SEASONING",
     "product_code": "31407769",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "BOLOGNESE SEASONING",
+    "product_code": "31407868",
+    "marketing_price": ""
   },
   {
     "product_name": "BOLOGNESE SEASONING",
@@ -5207,7 +5207,7 @@
   {
     "product_name": "CAJUN POWDER",
     "product_code": "31406570",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CAJUN SEASONING",
@@ -6158,6 +6158,11 @@
     "product_name": "CHEESE POWDER",
     "product_code": "31503387",
     "marketing_price": "11.90"
+  },
+  {
+    "product_name": "CHEESE POWDER",
+    "product_code": "31503418",
+    "marketing_price": ""
   },
   {
     "product_name": "CHEESE POWDER",
@@ -8538,11 +8543,6 @@
     "product_name": "CHILLI FLAKE",
     "product_code": "31404387",
     "marketing_price": "6.8"
-  },
-  {
-    "product_name": "CHILLI FLAKE",
-    "product_code": "31404427",
-    "marketing_price": "5"
   },
   {
     "product_name": "CHILLI FLAKE",
@@ -10965,14 +10965,14 @@
     "marketing_price": "11.5"
   },
   {
-    "product_name": "ES TELER SEASOING",
-    "product_code": "31900648",
-    "marketing_price": "4.2"
-  },
-  {
     "product_name": "ES TELER SEASONING",
     "product_code": "31900636",
     "marketing_price": "4.65"
+  },
+  {
+    "product_name": "ES TELER SEASONING",
+    "product_code": "31900648",
+    "marketing_price": "4.2"
   },
   {
     "product_name": "ES TELER SEASONING",
@@ -12007,6 +12007,11 @@
   {
     "product_name": "GARLIC POWDER",
     "product_code": "31802724",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC POWDER",
+    "product_code": "31802725",
     "marketing_price": ""
   },
   {
@@ -23020,11 +23025,6 @@
     "marketing_price": "12"
   },
   {
-    "product_name": "SAMBAL BALADO SEASOING",
-    "product_code": "31408201",
-    "marketing_price": ""
-  },
-  {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "04-0135",
     "marketing_price": "0"
@@ -23882,6 +23882,11 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408181",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408201",
     "marketing_price": ""
   },
   {
