@@ -701,6 +701,11 @@
   },
   {
     "product_name": "AYAM BAWANG SEASONING",
+    "product_code": "31103103",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAWANG SEASONING",
     "product_code": "MT-1107031-0",
     "marketing_price": "2.9"
   },
@@ -1113,6 +1118,11 @@
     "product_name": "BAKSO SEASONING",
     "product_code": "31201677",
     "marketing_price": "6.5"
+  },
+  {
+    "product_name": "BAKSO SEASONING",
+    "product_code": "31201721",
+    "marketing_price": ""
   },
   {
     "product_name": "BAKSO SEASONING / BS SM 01",
@@ -3908,6 +3918,11 @@
     "product_name": "BEEF STEAK SEASONING",
     "product_code": "31407570",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "BEEF STOCK SEASONING",
+    "product_code": "31201722",
+    "marketing_price": ""
   },
   {
     "product_name": "BEEF TERIYAKI OIL",
@@ -8360,6 +8375,11 @@
     "marketing_price": "5.2"
   },
   {
+    "product_name": "CHICKEN STOCK SEASONING",
+    "product_code": "31103102",
+    "marketing_price": ""
+  },
+  {
     "product_name": "CHICKEN TERIYAKI",
     "product_code": "MT-298741",
     "marketing_price": "4.1"
@@ -8582,6 +8602,11 @@
   {
     "product_name": "CHILLI GARLIC SEASONING",
     "product_code": "31408194",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHILLI GARLIC SEASONING",
+    "product_code": "31408205",
     "marketing_price": ""
   },
   {
@@ -10552,7 +10577,7 @@
   {
     "product_name": "CREAMY SEBLAK SEASONING",
     "product_code": "31503400",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "CUKA PEDAS SEASONING",
@@ -18491,6 +18516,11 @@
   },
   {
     "product_name": "ONION BALADO SEASONING",
+    "product_code": "31802727",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ONION BALADO SEASONING",
     "product_code": "MT-1105244-0",
     "marketing_price": "2.90"
   },
@@ -19102,11 +19132,6 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802726",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "ORIGINAL SEASONING",
-    "product_code": "31802727",
     "marketing_price": ""
   },
   {
