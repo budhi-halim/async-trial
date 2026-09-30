@@ -1140,6 +1140,16 @@
     "marketing_price": "55000"
   },
   {
+    "product_name": "BALADO 02 IMP",
+    "product_code": "31408206",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO 03 IMP",
+    "product_code": "31408207",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BALADO 3 GB",
     "product_code": "31407532",
     "marketing_price": ""
@@ -1287,7 +1297,7 @@
   {
     "product_name": "BALADO DAUN JERUK SEASONING",
     "product_code": "31408172",
-    "marketing_price": ""
+    "marketing_price": "4.95"
   },
   {
     "product_name": "BALADO IJO PREMIX",
@@ -2001,6 +2011,11 @@
   },
   {
     "product_name": "BALADO SEASONING",
+    "product_code": "31408204",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BALADO SEASONING",
     "product_code": "E-501",
     "marketing_price": "2.1"
   },
@@ -2018,11 +2033,6 @@
     "product_name": "BALADO SEASONING",
     "product_code": "MT-1102834-3",
     "marketing_price": "2.2"
-  },
-  {
-    "product_name": "BALADO SEASONING",
-    "product_code": "MT-1103984-0",
-    "marketing_price": "2.3"
   },
   {
     "product_name": "BALADO SEASONING",
@@ -3127,7 +3137,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31407556",
-    "marketing_price": "0"
+    "marketing_price": "4.40"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -3507,7 +3517,7 @@
   {
     "product_name": "BBQ SEASONING / Seasoning BBQ I BMHP01A002",
     "product_code": "31405939",
-    "marketing_price": "8"
+    "marketing_price": "8.35"
   },
   {
     "product_name": "BBQ SKR",
@@ -5952,7 +5962,7 @@
   {
     "product_name": "CHEESE BUTTER SEASONING",
     "product_code": "31503177",
-    "marketing_price": "0"
+    "marketing_price": "8.0"
   },
   {
     "product_name": "CHEESE DIPPING SAUCE",
@@ -7067,12 +7077,12 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503416",
-    "marketing_price": ""
+    "marketing_price": "3.20"
   },
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503419",
-    "marketing_price": ""
+    "marketing_price": "8.0"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -9497,7 +9507,7 @@
   {
     "product_name": "CINNAMON SEASONING",
     "product_code": "31408165",
-    "marketing_price": "0"
+    "marketing_price": "4.80"
   },
   {
     "product_name": "CLASSIC BBQ STEAK SEASONING",
@@ -10292,7 +10302,7 @@
   {
     "product_name": "CORN SEASONING",
     "product_code": "31603088",
-    "marketing_price": ""
+    "marketing_price": "5.0"
   },
   {
     "product_name": "CORN SEASONING",
@@ -11687,7 +11697,7 @@
   {
     "product_name": "GARLIC CHICKEN SEASONING",
     "product_code": "31103084",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "GARLIC CHICKEN SEASONING",
@@ -14932,7 +14942,7 @@
   {
     "product_name": "KALDU AYAM POWDER",
     "product_code": "31103098",
-    "marketing_price": ""
+    "marketing_price": "6.25"
   },
   {
     "product_name": "KALDU AYAM POWDER",
@@ -14992,7 +15002,7 @@
   {
     "product_name": "KALDU AYAM SEASONING",
     "product_code": "31102618",
-    "marketing_price": "2"
+    "marketing_price": "2.55"
   },
   {
     "product_name": "KALDU AYAM SEASONING",
@@ -15167,7 +15177,7 @@
   {
     "product_name": "KALDU AYAM SEASONING",
     "product_code": "31103100",
-    "marketing_price": ""
+    "marketing_price": "2.75"
   },
   {
     "product_name": "KALDU AYAM SEASONING",
@@ -15357,7 +15367,7 @@
   {
     "product_name": "KALDU SAPI SEASONING",
     "product_code": "31201720",
-    "marketing_price": ""
+    "marketing_price": "5.10"
   },
   {
     "product_name": "KALDU SAPI SEASONING",
@@ -16712,7 +16722,7 @@
   {
     "product_name": "MALA SEASONING",
     "product_code": "31407400",
-    "marketing_price": "0"
+    "marketing_price": "14.0"
   },
   {
     "product_name": "MALA SEASONING",
@@ -19622,7 +19632,7 @@
   {
     "product_name": "PEDAS MANIS SEASONING",
     "product_code": "31405270",
-    "marketing_price": "2.3"
+    "marketing_price": "2.6"
   },
   {
     "product_name": "PEDAS MANIS SEASONING",
@@ -19637,7 +19647,7 @@
   {
     "product_name": "PEDAS MANIS SEASONING",
     "product_code": "31407135",
-    "marketing_price": "0"
+    "marketing_price": "2.55"
   },
   {
     "product_name": "PEDAS MANIS SEASONING",
@@ -20677,6 +20687,11 @@
   {
     "product_name": "ROASTED BEEF SEASONING",
     "product_code": "31201708",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED BEEF SEASONING",
+    "product_code": "31201723",
     "marketing_price": ""
   },
   {
@@ -22112,7 +22127,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603097",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -22122,7 +22137,7 @@
   {
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603099",
-    "marketing_price": ""
+    "marketing_price": "7.0"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -24062,7 +24077,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING / Seasoning SBL BMHP01A009",
     "product_code": "31405576",
-    "marketing_price": "3.5"
+    "marketing_price": "4.8"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING / sambal balado B",
@@ -24977,7 +24992,7 @@
   {
     "product_name": "SAPI PANGGANG SEASONING",
     "product_code": "31201573",
-    "marketing_price": "3.9"
+    "marketing_price": "4.10"
   },
   {
     "product_name": "SAPI PANGGANG SEASONING",
@@ -25442,7 +25457,7 @@
   {
     "product_name": "SAVOURY POWDER",
     "product_code": "MT-766631",
-    "marketing_price": "12.5"
+    "marketing_price": "12.75"
   },
   {
     "product_name": "SAVOURY SEASONING",
@@ -26222,7 +26237,7 @@
   {
     "product_name": "SEAWEED SEASONING",
     "product_code": "MT-34413",
-    "marketing_price": "4.85"
+    "marketing_price": "5.80"
   },
   {
     "product_name": "SEAWEED SEASONING",
@@ -27712,7 +27727,7 @@
   {
     "product_name": "SOY SAUCE POWDER",
     "product_code": "31700538",
-    "marketing_price": ""
+    "marketing_price": "3.0"
   },
   {
     "product_name": "SOY SAUCE POWDER",
@@ -31808,6 +31823,11 @@
     "product_name": "VEGETARIAN SWEET CORN  CHAT SEASONING",
     "product_code": "31602887",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "VIETNAMESE COFFEE SEASONING",
+    "product_code": "31503421",
+    "marketing_price": ""
   },
   {
     "product_name": "VLA POWDER",
