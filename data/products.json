@@ -1125,6 +1125,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "BAKSO SEASONING",
+    "product_code": "31201724",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BAKSO SEASONING / BS SM 01",
     "product_code": "31201182",
     "marketing_price": "6.5"
@@ -7077,7 +7082,7 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503416",
-    "marketing_price": "3.20"
+    "marketing_price": "2.75"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -11692,6 +11697,11 @@
   {
     "product_name": "GARLIC CHEESE SEASONING",
     "product_code": "31503163",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC CHEESE SEASONING",
+    "product_code": "31503422",
     "marketing_price": ""
   },
   {
@@ -22667,7 +22677,7 @@
   {
     "product_name": "ROSE TTEOKBOKKI SEASONING",
     "product_code": "31407800",
-    "marketing_price": "4.90"
+    "marketing_price": ""
   },
   {
     "product_name": "ROSELLE FLAVOUR",
@@ -27171,6 +27181,11 @@
   },
   {
     "product_name": "SOTO OIL",
+    "product_code": "35400120",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOTO OIL",
     "product_code": "35800042",
     "marketing_price": ""
   },
@@ -28631,11 +28646,6 @@
   },
   {
     "product_name": "SRIRACHA SEASONING",
-    "product_code": "31407070",
-    "marketing_price": "4.6"
-  },
-  {
-    "product_name": "SRIRACHA SEASONING",
     "product_code": "31407220",
     "marketing_price": ""
   },
@@ -28788,6 +28798,11 @@
     "product_name": "SRIRACHA SEASONING / MPS Pang Sriracha",
     "product_code": "31407081",
     "marketing_price": "4.5"
+  },
+  {
+    "product_name": "SRIRACHA SEASONING / PB-SS-314",
+    "product_code": "31407070",
+    "marketing_price": "4.6"
   },
   {
     "product_name": "SRIRACHA SEASONING / RMSEACHL01",
