@@ -441,16 +441,6 @@
   },
   {
     "product_name": "AYAM BAKAR SEASONING",
-    "product_code": "31103078",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "AYAM BAKAR SEASONING",
-    "product_code": "31103079",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "AYAM BAKAR SEASONING",
     "product_code": "31103089",
     "marketing_price": ""
   },
@@ -1143,16 +1133,6 @@
     "product_name": "BALADO",
     "product_code": "04-0133 H",
     "marketing_price": "55000"
-  },
-  {
-    "product_name": "BALADO 02 IMP",
-    "product_code": "31408206",
-    "marketing_price": ""
-  },
-  {
-    "product_name": "BALADO 03 IMP",
-    "product_code": "31408207",
-    "marketing_price": ""
   },
   {
     "product_name": "BALADO 3 GB",
@@ -15191,6 +15171,11 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
+    "product_code": "31103106",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING",
     "product_code": "31106766",
     "marketing_price": ""
   },
@@ -25123,6 +25108,11 @@
     "product_name": "SAPI PANGGANG SEASONING",
     "product_code": "31201669",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "SAPI PANGGANG SEASONING",
+    "product_code": "31201725",
+    "marketing_price": ""
   },
   {
     "product_name": "SAPI PANGGANG SEASONING",
