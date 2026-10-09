@@ -451,6 +451,16 @@
   },
   {
     "product_name": "AYAM BAKAR SEASONING",
+    "product_code": "31103104",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAKAR SEASONING",
+    "product_code": "31103105",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM BAKAR SEASONING",
     "product_code": "MT-1206841-0",
     "marketing_price": "2.75"
   },
@@ -3366,11 +3376,6 @@
   },
   {
     "product_name": "BBQ SEASONING",
-    "product_code": "MT-1200342-0",
-    "marketing_price": "2.3"
-  },
-  {
-    "product_name": "BBQ SEASONING",
     "product_code": "MT-1205614-0",
     "marketing_price": "4.1"
   },
@@ -4560,6 +4565,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "BUMBU AYAM BAKAR MADU PASTA",
+    "product_code": "34400610",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BUMBU AYAM GORENG KREMES",
     "product_code": "31102460",
     "marketing_price": "5.4"
@@ -4623,6 +4633,21 @@
     "product_name": "BUMBU BANDENG PRESTO",
     "product_code": "34400281",
     "marketing_price": "5.15"
+  },
+  {
+    "product_name": "BUMBU BEBEK / AYAM GORENG PANDAN",
+    "product_code": "34400611",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU BEBEK HITAM PASTA",
+    "product_code": "34400612",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "BUMBU CARAMEL BAWANG PUTIH PASTA",
+    "product_code": "34400620",
+    "marketing_price": ""
   },
   {
     "product_name": "BUMBU CURRY MALAYSIA",
@@ -16745,6 +16770,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "MALA SEASONING",
+    "product_code": "31408209",
+    "marketing_price": ""
+  },
+  {
     "product_name": "MANGGA MADU SEASONING",
     "product_code": "31900627",
     "marketing_price": "0"
@@ -19137,6 +19167,11 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802726",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802728",
     "marketing_price": ""
   },
   {
@@ -23956,6 +23991,11 @@
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
+    "product_code": "31408210",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "C-006",
     "marketing_price": "2.65"
   },
@@ -26622,6 +26662,11 @@
   {
     "product_name": "SHRIMP POWDER",
     "product_code": "31301736",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SHRIMP POWDER",
+    "product_code": "31301742",
     "marketing_price": ""
   },
   {
