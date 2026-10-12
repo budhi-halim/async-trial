@@ -15201,6 +15201,11 @@
   },
   {
     "product_name": "KALDU AYAM SEASONING",
+    "product_code": "31103107",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "KALDU AYAM SEASONING",
     "product_code": "31106766",
     "marketing_price": ""
   },
@@ -24575,6 +24580,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SAMBAL SEASONING",
+    "product_code": "31408211",
+    "marketing_price": ""
+  },
+  {
     "product_name": "SAMBAL SEREH",
     "product_code": "34400343",
     "marketing_price": "0"
@@ -27518,6 +27528,16 @@
     "product_name": "SOUR CREAM & ONION SEASONING",
     "product_code": "31802704",
     "marketing_price": "4.75"
+  },
+  {
+    "product_name": "SOUR CREAM & ONION SEASONING",
+    "product_code": "31802729",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "SOUR CREAM & ONION SEASONING",
+    "product_code": "31802730",
+    "marketing_price": ""
   },
   {
     "product_name": "SOUR CREAM & ONION VEGAN SEASONING",
