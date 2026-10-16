@@ -3542,7 +3542,7 @@
   {
     "product_name": "BBQ VEGAN SEASONING",
     "product_code": "31408178",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BBQ VEGETARIAN SEASONING",
@@ -3872,7 +3872,7 @@
   {
     "product_name": "BEEF PREMIX",
     "product_code": "MT-1207282-0",
-    "marketing_price": ""
+    "marketing_price": "8.8"
   },
   {
     "product_name": "BEEF SEASONING",
@@ -14515,6 +14515,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "JASMINE TEA POWDER EXTRACT (JASMINE PREMIUM) / BB16JTI-P1",
+    "product_code": "62700006",
+    "marketing_price": "26"
+  },
+  {
     "product_name": "JASUKE FILLING CREAM",
     "product_code": "31602595",
     "marketing_price": "0"
@@ -15763,6 +15768,11 @@
     "product_name": "KECAP ASIN SEASONING",
     "product_code": "31700526",
     "marketing_price": "0"
+  },
+  {
+    "product_name": "KECAP ASIN SEASONING",
+    "product_code": "31700545",
+    "marketing_price": ""
   },
   {
     "product_name": "KECAP MANIS POWDER",
@@ -18147,7 +18157,7 @@
   {
     "product_name": "NANGKA SEASONING",
     "product_code": "31900687",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "NASI BIRYANI SEASONING",
@@ -31907,6 +31917,11 @@
   {
     "product_name": "VIETNAMESE COFFEE SEASONING",
     "product_code": "31503421",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "VIETNAMESE COFFEE SEASONING",
+    "product_code": "31503423",
     "marketing_price": ""
   },
   {
