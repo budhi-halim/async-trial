@@ -5387,7 +5387,7 @@
   {
     "product_name": "CAPSICUM POWDER / AP  CAP",
     "product_code": "MS-0806",
-    "marketing_price": "10.5"
+    "marketing_price": "10.50"
   },
   {
     "product_name": "CAPSICUM POWDER / BB16CPM-P1",
@@ -6207,7 +6207,7 @@
   {
     "product_name": "CHEESE POWDER",
     "product_code": "31503418",
-    "marketing_price": ""
+    "marketing_price": "6.85"
   },
   {
     "product_name": "CHEESE POWDER",
@@ -13707,7 +13707,7 @@
   {
     "product_name": "HVP POWDER",
     "product_code": "MT-627037",
-    "marketing_price": "7.20"
+    "marketing_price": "9.60"
   },
   {
     "product_name": "HVP POWDER / GUN VI",
@@ -13727,7 +13727,7 @@
   {
     "product_name": "HVP POWDER / PREMIX FOOD SPI HP 039 I",
     "product_code": "MT-627037",
-    "marketing_price": "7.20"
+    "marketing_price": "9.60"
   },
   {
     "product_name": "HVP WCI / HV SM 06",
@@ -18577,7 +18577,7 @@
   {
     "product_name": "ONION BALADO SEASONING",
     "product_code": "31802727",
-    "marketing_price": ""
+    "marketing_price": "2.80"
   },
   {
     "product_name": "ONION BALADO SEASONING",
@@ -22922,7 +22922,7 @@
   {
     "product_name": "SAMBAL BAKAR SEASONING",
     "product_code": "31408010",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SAMBAL BAKSO PASTE",
@@ -22972,7 +22972,7 @@
   {
     "product_name": "SAMBAL BALADO",
     "product_code": "31407633",
-    "marketing_price": "0"
+    "marketing_price": "3.50"
   },
   {
     "product_name": "SAMBAL BALADO",
@@ -23552,7 +23552,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31406918",
-    "marketing_price": ""
+    "marketing_price": "2.90"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -23607,7 +23607,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407020",
-    "marketing_price": "0"
+    "marketing_price": "3.50"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -23712,7 +23712,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407192",
-    "marketing_price": ""
+    "marketing_price": "2.90"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -23877,7 +23877,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31407632",
-    "marketing_price": "0"
+    "marketing_price": "3.50"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -24007,7 +24007,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408201",
-    "marketing_price": ""
+    "marketing_price": "2.50"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -24017,7 +24017,7 @@
   {
     "product_name": "SAMBAL BALADO SEASONING",
     "product_code": "31408210",
-    "marketing_price": ""
+    "marketing_price": "2.80"
   },
   {
     "product_name": "SAMBAL BALADO SEASONING",
@@ -25366,11 +25366,6 @@
   },
   {
     "product_name": "SAUS PADANG PASTA",
-    "product_code": "34400229",
-    "marketing_price": "6"
-  },
-  {
-    "product_name": "SAUS PADANG PASTA",
     "product_code": "34400440",
     "marketing_price": "0"
   },
@@ -25538,6 +25533,11 @@
     "product_name": "SAVOURY SEASONING",
     "product_code": "31102840",
     "marketing_price": "3.55"
+  },
+  {
+    "product_name": "SAVOURY SEASONING",
+    "product_code": "31103110",
+    "marketing_price": ""
   },
   {
     "product_name": "SAVOURY SEASONING",
@@ -28177,7 +28177,7 @@
   {
     "product_name": "SPICY CURRY SEASONING",
     "product_code": "31408013",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SPICY CURRY SEASONING",
