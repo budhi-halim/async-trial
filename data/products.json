@@ -1137,7 +1137,7 @@
   {
     "product_name": "BAKSO SEASONING",
     "product_code": "31201724",
-    "marketing_price": ""
+    "marketing_price": "4.65"
   },
   {
     "product_name": "BAKSO SEASONING / BS SM 01",
@@ -1957,7 +1957,7 @@
   {
     "product_name": "BALADO SEASONING",
     "product_code": "31407799",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "BALADO SEASONING",
@@ -2017,7 +2017,12 @@
   {
     "product_name": "BALADO SEASONING",
     "product_code": "31408204",
-    "marketing_price": ""
+    "marketing_price": "2.80"
+  },
+  {
+    "product_name": "BALADO SEASONING",
+    "product_code": "31408213",
+    "marketing_price": "0"
   },
   {
     "product_name": "BALADO SEASONING",
@@ -3357,7 +3362,7 @@
   {
     "product_name": "BBQ SEASONING",
     "product_code": "31408199",
-    "marketing_price": ""
+    "marketing_price": "3.20"
   },
   {
     "product_name": "BBQ SEASONING",
@@ -3932,7 +3937,7 @@
   {
     "product_name": "BEEF STOCK SEASONING",
     "product_code": "31201722",
-    "marketing_price": ""
+    "marketing_price": "3.25"
   },
   {
     "product_name": "BEEF TERIYAKI OIL",
@@ -7250,6 +7255,11 @@
     "marketing_price": "8.75"
   },
   {
+    "product_name": "CHEESE VEGAN SEASONING",
+    "product_code": "31503425",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "CHEESE VEGETARIAN SEASONING",
     "product_code": "31503175",
     "marketing_price": "4.50"
@@ -8412,7 +8422,7 @@
   {
     "product_name": "CHICKEN STOCK SEASONING",
     "product_code": "31103102",
-    "marketing_price": ""
+    "marketing_price": "3.10"
   },
   {
     "product_name": "CHICKEN TERIYAKI",
@@ -11365,6 +11375,11 @@
     "marketing_price": "0"
   },
   {
+    "product_name": "FRIED CHICKEN SEASONING",
+    "product_code": "31103111",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "FRIED CHICKEN SEASONING / GUN IV",
     "product_code": "MT-11356",
     "marketing_price": "5.0"
@@ -11602,7 +11617,7 @@
   {
     "product_name": "GARLIC BBQ SEASONING",
     "product_code": "31406625",
-    "marketing_price": "0"
+    "marketing_price": "3.25"
   },
   {
     "product_name": "GARLIC BBQ SEASONING",
@@ -11612,7 +11627,7 @@
   {
     "product_name": "GARLIC BBQ SEASONING",
     "product_code": "31408087",
-    "marketing_price": ""
+    "marketing_price": "2.35"
   },
   {
     "product_name": "GARLIC BBQ SEASONING",
@@ -11632,7 +11647,7 @@
   {
     "product_name": "GARLIC BBQ SEASONING",
     "product_code": "31802368",
-    "marketing_price": "0"
+    "marketing_price": "3.50"
   },
   {
     "product_name": "GARLIC BBQ SEASONING",
@@ -11762,6 +11777,11 @@
   {
     "product_name": "GARLIC FLAKES",
     "product_code": "31802723",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC FLAKES",
+    "product_code": "31802733",
     "marketing_price": ""
   },
   {
@@ -12088,6 +12108,16 @@
     "product_name": "GARLIC POWDER",
     "product_code": "31802725",
     "marketing_price": ""
+  },
+  {
+    "product_name": "GARLIC POWDER",
+    "product_code": "31802731",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "GARLIC POWDER",
+    "product_code": "31802732",
+    "marketing_price": "0"
   },
   {
     "product_name": "GARLIC POWDER",
@@ -13476,6 +13506,11 @@
   },
   {
     "product_name": "HOT CHILLI SEASONING",
+    "product_code": "31408214",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "HOT CHILLI SEASONING",
     "product_code": "MT-749134",
     "marketing_price": "7.5"
   },
@@ -13732,27 +13767,27 @@
   {
     "product_name": "HVP WCI / HV SM 06",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / HVP B",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / HVP CY 801",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / P3 IS",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "HVP WCI / PB-HV-814",
     "product_code": "HVP WCI",
-    "marketing_price": "2.3"
+    "marketing_price": "2.4"
   },
   {
     "product_name": "Hot & Spicy Seasoning",
@@ -15217,7 +15252,7 @@
   {
     "product_name": "KALDU AYAM SEASONING",
     "product_code": "31103107",
-    "marketing_price": ""
+    "marketing_price": "2.35"
   },
   {
     "product_name": "KALDU AYAM SEASONING",
@@ -19201,6 +19236,11 @@
   },
   {
     "product_name": "ORIGINAL SEASONING",
+    "product_code": "31802734",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "ORIGINAL SEASONING",
     "product_code": "31802816",
     "marketing_price": ""
   },
@@ -20747,7 +20787,7 @@
   {
     "product_name": "ROASTED BEEF SEASONING",
     "product_code": "31201723",
-    "marketing_price": ""
+    "marketing_price": "3.10"
   },
   {
     "product_name": "ROASTED BEEF SEASONING",
@@ -22203,6 +22243,11 @@
     "product_name": "ROASTED CORN SEASONING",
     "product_code": "31603106",
     "marketing_price": ""
+  },
+  {
+    "product_name": "ROASTED CORN SEASONING",
+    "product_code": "31603107",
+    "marketing_price": "0"
   },
   {
     "product_name": "ROASTED CORN SEASONING",
@@ -25201,6 +25246,16 @@
   },
   {
     "product_name": "SAPI PANGGANG SEASONING",
+    "product_code": "31201727",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "SAPI PANGGANG SEASONING",
+    "product_code": "31201728",
+    "marketing_price": "0"
+  },
+  {
+    "product_name": "SAPI PANGGANG SEASONING",
     "product_code": "E-505",
     "marketing_price": "3.0"
   },
@@ -25876,11 +25931,6 @@
   },
   {
     "product_name": "SEAWEED SEASONING",
-    "product_code": "31301156",
-    "marketing_price": "5.35"
-  },
-  {
-    "product_name": "SEAWEED SEASONING",
     "product_code": "31301228",
     "marketing_price": "4.35"
   },
@@ -26378,6 +26428,11 @@
     "product_name": "SEAWEED SEASONING / SSP-SW.191",
     "product_code": "31301508",
     "marketing_price": "7.5"
+  },
+  {
+    "product_name": "SEAWEED SEASONING / SWD-040404 / IS 1026",
+    "product_code": "31301156",
+    "marketing_price": "5.35"
   },
   {
     "product_name": "SEAWEED SEASONING / SWI",
@@ -28010,6 +28065,11 @@
     "marketing_price": ""
   },
   {
+    "product_name": "SPICY BALADO SEASONING",
+    "product_code": "31408216",
+    "marketing_price": "0"
+  },
+  {
     "product_name": "SPICY BBQ",
     "product_code": "MT-1202534-0",
     "marketing_price": "4.2"
@@ -28203,6 +28263,11 @@
     "product_name": "SPICY CURRY SEASONING",
     "product_code": "31408105",
     "marketing_price": ""
+  },
+  {
+    "product_name": "SPICY FRIED CHICKEN SEASONING",
+    "product_code": "31408215",
+    "marketing_price": "0"
   },
   {
     "product_name": "SPICY HEAT SEAS",
@@ -29087,6 +29152,11 @@
   {
     "product_name": "STRAWBERRY SEASONING",
     "product_code": "31900697",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "STRAWBERRY SEASONING",
+    "product_code": "31900702",
     "marketing_price": ""
   },
   {
@@ -30187,7 +30257,7 @@
   {
     "product_name": "SWEET CORN SEASONING",
     "product_code": "31602954",
-    "marketing_price": ""
+    "marketing_price": "0"
   },
   {
     "product_name": "SWEET CORN SEASONING",
