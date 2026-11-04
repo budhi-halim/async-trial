@@ -7116,6 +7116,16 @@
   },
   {
     "product_name": "CHEESE SEASONING",
+    "product_code": "31503427",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
+    "product_code": "31503428",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "CHEESE SEASONING",
     "product_code": "D-110",
     "marketing_price": "11"
   },
@@ -9248,6 +9258,11 @@
     "product_name": "CHOCO MALT SEASONING / Bubuk - EB 2201",
     "product_code": "31503336",
     "marketing_price": "4.15"
+  },
+  {
+    "product_name": "CHOCO MINT SEASONING",
+    "product_code": "31503426",
+    "marketing_price": ""
   },
   {
     "product_name": "CHOCO PANDAN SEASONING",
@@ -30683,6 +30698,11 @@
     "product_name": "TELUR ASIN SEASONING",
     "product_code": "31502764",
     "marketing_price": "14"
+  },
+  {
+    "product_name": "TELUR GULUNG SEASONING",
+    "product_code": "31103112",
+    "marketing_price": ""
   },
   {
     "product_name": "TEMPE OREK SEASONING",
