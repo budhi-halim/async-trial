@@ -1060,6 +1060,16 @@
     "marketing_price": "4.40"
   },
   {
+    "product_name": "AYAM TERIYAKI SEASONING",
+    "product_code": "31103113",
+    "marketing_price": ""
+  },
+  {
+    "product_name": "AYAM TERIYAKI SEASONING",
+    "product_code": "31103114",
+    "marketing_price": ""
+  },
+  {
     "product_name": "BABY SILKY PUDDING POWDER",
     "product_code": "33240011",
     "marketing_price": ""
@@ -7097,12 +7107,12 @@
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503413",
-    "marketing_price": "0"
+    "marketing_price": "11.50"
   },
   {
     "product_name": "CHEESE SEASONING",
     "product_code": "31503414",
-    "marketing_price": "0"
+    "marketing_price": "9.45"
   },
   {
     "product_name": "CHEESE SEASONING",
@@ -8532,7 +8542,7 @@
   {
     "product_name": "CHILLI BBQ SEASONING",
     "product_code": "31405865",
-    "marketing_price": "3"
+    "marketing_price": "3.40"
   },
   {
     "product_name": "CHILLI BBQ SEASONING",
@@ -9257,7 +9267,7 @@
   {
     "product_name": "CHOCO MALT SEASONING / Bubuk - EB 2201",
     "product_code": "31503336",
-    "marketing_price": "4.15"
+    "marketing_price": "4.35"
   },
   {
     "product_name": "CHOCO MINT SEASONING",
@@ -11747,7 +11757,7 @@
   {
     "product_name": "GARLIC CHEESE SEASONING",
     "product_code": "31503422",
-    "marketing_price": ""
+    "marketing_price": "6.20"
   },
   {
     "product_name": "GARLIC CHICKEN SEASONING",
@@ -12867,7 +12877,7 @@
   {
     "product_name": "GULAI PASTA",
     "product_code": "34400608",
-    "marketing_price": ""
+    "marketing_price": "7.50"
   },
   {
     "product_name": "GULAI PASTA",
@@ -18647,7 +18657,7 @@
   {
     "product_name": "ONION GARLIC SEASONING",
     "product_code": "31802552",
-    "marketing_price": "0"
+    "marketing_price": "4.20"
   },
   {
     "product_name": "ONION OIL",
@@ -19252,7 +19262,7 @@
   {
     "product_name": "ORIGINAL SEASONING",
     "product_code": "31802734",
-    "marketing_price": "0"
+    "marketing_price": "2.60"
   },
   {
     "product_name": "ORIGINAL SEASONING",
@@ -25622,7 +25632,7 @@
   {
     "product_name": "SAVOURY SEASONING",
     "product_code": "31103110",
-    "marketing_price": ""
+    "marketing_price": "2.65"
   },
   {
     "product_name": "SAVOURY SEASONING",
@@ -27332,7 +27342,7 @@
   {
     "product_name": "SOTO OIL",
     "product_code": "35400120",
-    "marketing_price": ""
+    "marketing_price": "6.80"
   },
   {
     "product_name": "SOTO OIL",
@@ -27762,7 +27772,7 @@
   {
     "product_name": "SOY SAUCE",
     "product_code": "MT-626737",
-    "marketing_price": "4.5"
+    "marketing_price": "5.5"
   },
   {
     "product_name": "SOY SAUCE GARLIC SEASONING",
